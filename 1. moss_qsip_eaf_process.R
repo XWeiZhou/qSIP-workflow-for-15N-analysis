@@ -3,6 +3,8 @@
 # 1. Check, install (if missing), and load required packages
 # 2. Load qSIP data tables and choice the necessary data
 # 3. Perform data filtering and quality control
+# 4. calculate the EAF with and without the 1,000 bootstrap resampling iterations
+# 5. Find  both with and without 1,000 bootstrap resampling EAF value all over 0
 
 ######################################################################################################################################
 # 1. Check and load required packages
@@ -311,4 +313,5 @@ df_wide[is.na(df_wide)] <- 0
 
 #output the data file
 write.csv(df_wide, "wide_OTU_moss_result_after_eaf_over_0.csv")
+
 
