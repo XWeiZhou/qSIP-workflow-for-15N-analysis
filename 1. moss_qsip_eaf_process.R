@@ -3,7 +3,7 @@
 # 1. Check, install (if missing), and load required packages
 # 2. Load qSIP data tables and choice the necessary data
 # 3. Perform data filtering and quality control
-# 4. calculate the EAF with and without the 1,000 bootstrap resampling iterations
+# 4. Calculate the EAF with and without the 1,000 bootstrap resampling iterations
 # 5. Find  both with and without 1,000 bootstrap resampling EAF value all over 0
 
 ######################################################################################################################################
@@ -91,7 +91,7 @@ seq_summary(moss_qsip[,..ssc])
 moss_qsip[, rel_abund := seq_abund/sum(seq_abund), by = sampleID]
 
 ###############################################################################################################
-# 3. Perform data filtering
+# 3. Perform data filtering and quality control
 # A taxon had to be present in at least three qSIP fractions of two replicates 
 # for both natural abundance and 15N-enriched treatments per control or warming treatment 
 
@@ -174,7 +174,7 @@ cat('After fraction and replication filtering\n')
 seq_summary(moss_qsip_filter_data[, ..ssc])
 
 ######################################################################################################
-# 4. calculate the EAF
+# 4. Calculate the EAF with and without the 1,000 bootstrap resampling iterations
 moss_qsip = moss_qsip_filter_data[,1:19] 
 # write.xlsx(moss_qsip,"moss_qsip.xlsx")
 
@@ -262,9 +262,11 @@ eaf_taxa <- calc_excess(
 eaf_taxa
 write.csv(eaf_taxa, file = "eaf_taxa_without_bootstrap.csv")
 
-############ Create an index tag with asv_id + treatment + ecosystem,
-############ match records where eaf_taxa > 0 and eaf_pro > 0,
-############ and filter OTUs that are shared and significant in both tables
+######################################################################################################
+# 5. Find  both with and without 1,000 bootstrap resampling EAF value all over 0
+# Create an index tag with asv_id + treatment + ecosystem,
+# match records where eaf_taxa > 0 and eaf_pro > 0,
+# and filter OTUs that are shared and significant in both tables
 # load the data without bootstrap resampling
 data_eaf_taxa <- eaf_taxa
 
@@ -313,5 +315,6 @@ df_wide[is.na(df_wide)] <- 0
 
 #output the data file
 write.csv(df_wide, "wide_OTU_moss_result_after_eaf_over_0.csv")
+
 
 
