@@ -5,7 +5,7 @@ library(tidyr)
 library(readxl)
 
 #set work directory
-setwd("C:/Users/Lenovo/Desktop/2025年9月PNAS文章修改/上传代码和数据/数据/")
+setwd("C:/Users/Lenovo/Desktop/code/")
 
 # Read the filtered Excel file instead of CSV
 data <- read_excel("filtered_data_taxa_pro_signi_minus_0_20250330_1000.xlsx", sheet = 1)
@@ -55,3 +55,4 @@ write.table(select_OTU_names, "select_OTU_moss_509.txt", sep = "/t", row.names =
 # Check the dimensions (rows and columns) of the data
 data.moss <- read.csv("annotation_moss.csv")
 dim(data.moss)
+
