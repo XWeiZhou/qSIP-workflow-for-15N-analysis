@@ -5,13 +5,25 @@ This repository contains scripts and workflows for analyzing moss-associated nit
 ## Contents
 
 ### 1. `moss_qsip_eaf_process`
-Pipeline for calculating **excess atom fraction (EAF)** from qSIP data.
-- Input: isotope-labeled sequencing data (15N, control, replicates).
-- Output: EAF values for each OTU/ASV.
-- Functions:
-  - Preprocessing of qSIP datasets  
-  - EAF calculation with/without bootstrapping  
-  - Filtering and normalization of active taxa signals  
+Our data analysis includes the following main steps:
+1. **Check and load required packages**  
+   - Automatically check for missing R packages, install them if necessary, and load them (including `qsip`, `phyloseq`, `ggplot2`, `dplyr`, etc.).
+2. **Load qSIP data tables and metadata**  
+   - Import sample metadata (sample IDs, treatments, replicates, isotope labeling).  
+   - Load qSIP OTU abundance–density data.  
+   - Exclude non-target OTUs (Unassigned, Eukaryota, Archaea, mitochondria, chloroplast) to retain only bacterial OTUs.
+3. **Perform data filtering and quality control**  
+   - Retain OTUs present in at least **three qSIP fractions** of **two replicates** per treatment (control or warming, light and label).  
+   - Generate a filtered dataset containing only reproducibly detected OTUs across treatments.  
+   - Normalize abundances for downstream analysis.
+4. **Calculate EAF (Excess Atom Fraction)**  
+   - Compute OTU-specific ¹⁵N EAF values at the treatment and replicate levels.  
+   - Perform calculations both **with and without 1,000 bootstrap resampling iterations** for robustness.  
+   - Export results as `.csv` tables.
+5. **Identify active OTUs with EAF > 0**  
+   - Select OTUs with significantly positive EAF values in both bootstrap and non-bootstrap datasets.  
+   - Apply significance filtering (e.g., median EAF > 0, p < 0.05).  
+   - Export final active OTU table in both **long** and **wide** formats for downstream phylogenetic tree construction and ranking analyses.
 
 ### 2. Extract moss active OTU IDs for phylogenetic tree pipeline
 Pipeline for extracting **active OTUs/ASVs** identified by qSIP-EAF analysis to be used in downstream phylogenetic analyses.
