@@ -73,30 +73,15 @@ Pipeline for ranking **active OTUs** based on their isotopic enrichment signal a
 
 This pipeline visualizes **ranked moss OTUs** based on their estimated ¹⁵N enrichment (EAF) values and confidence intervals, separately for control and warming treatments. The plots display OTUs ordered by rank within each phylum, with error bars representing uncertainty.
 
-4.1. **Load required packages**  
-   - Load visualization and data handling packages (`clipr`, `dplyr`, `ggnewscale`, `ggplot2`, `openxlsx`, `ggpubr`).
-
-4.2. **Load and prepare data**  
+4.1. **Load and prepare data**  
    - Import taxonomic annotation (`taxa.csv`) and select relevant columns.  
    - Import EAF data calculated with 1,000 bootstrap resampling (`eaf_pro_1000.csv`).  
    - Merge EAF values with taxonomy to create a combined dataset.
 
-4.3. **Subset treatments and rank OTUs**  
+4.2. **Subset treatments and rank OTUs**  
    - Filter OTUs for `Control` and `Warming` moss treatments separately.  
    - Order OTUs by **Phylum** and **median EAF (X50.)** within each group.  
    - Assign rank IDs to each OTU for plotting.
-
-4.4. **Generate ranked OTU plots**  
-   - Create horizontal plots for `Control` and `Warming` treatments:  
-     - OTUs on the y-axis, ranked by ID.  
-     - Median EAF (`X50.`) on the x-axis.  
-     - 95% confidence intervals (`X2.5.`–`X97.5.`) shown as error bars.  
-     - Phyla indicated by distinct colors.  
-     - Zero-enrichment line (`x = 0`) drawn as a dashed reference.
-
-4.5. **Combine plots**  
-   - Display side-by-side plots for `Control` and `Warming` using `ggarrange`.  
-   - Export final figures (e.g., `EAF_All.pdf`) at high resolution for publication.
 
 ## Requirements
 - R (≥4.0) with packages: `dplyr`, `tidyr`, `ggplot2`, `phyloseq`
