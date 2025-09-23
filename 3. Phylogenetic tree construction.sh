@@ -3,17 +3,16 @@
     # Set working directory (wd) and software/database (db) directory
     # Add environment variables and enter wd
     # **The following four lines must be run every time RStudio is opened**
-    wd=/c/A20250331MossSIPTree/A20250331MossSIPTree_all_OTUS
+    wd=/c/A20250331MossSIPTree_all_OTUS
     db=/c/public
     PATH=$PATH:${db}/win
-    cd ${wd}
 
 # 1、Evolutionary Tree worddirectory
     cd ${wd}
     
 ## Match the ID column names selected after SIP-EAF filtering with all OTU.fa sequences,
 ## extract the corresponding gene sequences for tree construction
-  seqkit grep -f annotation_moss_all_OTUS.txt all_taxa.fa > select_OTU_moss.fa 
+  seqkit grep -f select_OTU_moss_509.txt all_taxa.fa > select_OTU_moss.fa 
   
 ## 2. Phylogenetic tree construction
     # Input files are located in result/tree directory: 
