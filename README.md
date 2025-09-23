@@ -1,4 +1,4 @@
-# Moss qSIP-EAF Analysis Pipelines
+# Moss qSIP Analysis Pipelines
 
 This repository contains scripts and workflows for analyzing moss-associated nitrogen-fixing microorganisms using quantitative stable isotope probing (qSIP) and excess atom fraction (EAF) approaches. The pipelines support the identification of active diazotrophs, phylogenetic tree construction, and ranking of taxa by their isotopic enrichment signals.
 
