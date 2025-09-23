@@ -97,5 +97,5 @@ Refer to individual pipeline folders for detailed instructions.
 
 ## Citation
 If you use this repository, please cite:  
-*Zhou W., et al. (in prep). Moss-associated nitrogen fixation under global change revealed by quantitative stable isotope probing.
+*Wei Zhou, Yuxuan Bai, Yuhong Xie, Bin Wei, Wolfgang Wanek, Kathrin Rousk, Genevieve Noyce, Dianye Zhang, Yunfeng Peng, and Yuanhe Yang. Key role of moss in satisfying the elevated plant nitrogen demand under warming in a permafrost ecosystem. 2025 
 
