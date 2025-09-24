@@ -7,29 +7,30 @@ All data analyses were conducted in **R** using the [`qSIP`package](https://gith
 ## Structure
 .
 ├── data
-│   ├── qSIP input
-│   │   ├── qSIP_data_sheet_OTU_abundance_density.csv                     <-- **
-│   │   ├── group_sampleID_with_control and rep.xlsx                      <-- **
-│   ├── qSIP output
-│   │   ├── eaf_pro_with_1000_bootstrap.csv                               <-- **
-│   │   ├── eaf_taxa_without_bootstrap.csv                                <-- **
-│   │   ├── filtered_data_taxa_pro_signi_over_0_20250923.xlsx             <-- **
-│   │   └── wide_OTU_moss_result_after_eaf_over_0_20250923.csv            <-- **
-│       │
-│   ├── Phylogenetic tree
-│   │   ├── annotation_moss.csv                                           <-- **
-│   │   ├── select_OTU_moss_509.txt                                       <-- **
-│   │   ├── all_taxa.fa                                                   <-- **
-│   │   ├── select_OTU_moss.fa                                            <-- **
-│   │   ├── otus_aligned_moss.fas                                         <-- **
-│   │   ├── eannotation_moss.csv                                          <-- **
-│   │   └── select_OTU_moss.contree                                       <-- **
+│   ├── qSIP_input
+│   │   ├── qSIP_data_sheet_OTU_abundance_density.csv         <-- **
+│   │   ├── group_sampleID_with_control_and_rep.xlsx          <-- **
+│   │
+│   ├── qSIP_output
+│   │   ├── eaf_pro_with_1000_bootstrap.csv                   <-- **
+│   │   ├── eaf_taxa_without_bootstrap.csv                    <-- **
+│   │   ├── filtered_data_taxa_pro_signi_over_0_20250923.xlsx <-- **
+│   │   └── wide_OTU_moss_result_after_eaf_over_0_20250923.csv<-- **
+│   │
+│   ├── Phylogenetic_tree
+│   │   ├── annotation_moss.csv                               <-- **
+│   │   ├── select_OTU_moss_509.txt                           <-- **
+│   │   ├── all_taxa.fa                                       <-- **
+│   │   ├── select_OTU_moss.fa                                <-- **
+│   │   ├── otus_aligned_moss.fas                             <-- **
+│   │   ├── eannotation_moss.csv                              <-- **
+│   │   └── select_OTU_moss.contree                           <-- **
+│
 └── script
-    ├── 1. moss_qsip_eaf_process.R                                        <-- **
-    ├── 2. Extract moss active OTU IDs for phylogenetic tree pipeline.R   <-- **
-    ├── 3. Phylogenetic tree construction.sh                              <-- **
-    └── 4.Ranked EAF otus with interval pipeline.R                        <-- **
-
+    ├── 1.moss_qsip_eaf_process.R                              <-- **
+    ├── 2.Extract_moss_active_OTU_IDs_for_phylogenetic_tree.R  <-- **
+    ├── 3.Phylogenetic_tree_construction.sh                    <-- **
+    └── 4.Ranked_EAF_otus_with_interval_pipeline.R             <-- **
 
 ## Contents
 
