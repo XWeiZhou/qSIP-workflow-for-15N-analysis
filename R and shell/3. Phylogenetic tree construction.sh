@@ -2,7 +2,6 @@
 #!/bin/bash
     # Set working directory (wd) and software/database (db) directory
     # Add environment variables and enter wd
-    # **The following four lines must be run every time RStudio is opened**
     wd=/c/A20250331MossSIPTree_all_OTUS
     db=/c/public
     PATH=$PATH:${db}/win
@@ -15,7 +14,7 @@
   seqkit grep -f select_OTU_moss_509.txt all_taxa.fa > select_OTU_moss.fa 
   
 ## 2. Phylogenetic tree construction
-    # Input files are located in result/tree directory: 
+    # Input files are located in tree directory: 
     #   - otus.fa (sequences) 
     #   - annotation.txt (taxonomy and relative abundance)
     # Step 1: Perform sequence alignment with MUSCLE
@@ -38,7 +37,6 @@
 
     # Visit http://itol.embl.de/, upload otus.nwk, 
     # then drag-and-drop the generated annotation schemes onto the tree for visualization.
-
 
     ## Scheme 1. Outer-ring colors, shapes, taxonomy, and abundance
     # annotation.txt contains OTU taxonomy annotation and abundance.
@@ -69,3 +67,4 @@
     cd ${wd}
     
 ###################################################################################
+
