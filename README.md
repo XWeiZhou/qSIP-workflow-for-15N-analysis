@@ -5,7 +5,6 @@ This repository contains scripts and workflows for analysing moss-associated nit
 All data analyses were conducted in **R** using the [`qSIP`package](https://github.com/bramstone/qsip). For detailed information on the underlying algorithms and functions, please refer to the `qSIP` documentation.
 
 ## Structure
-```plaintext
 .
 ├── data
 │   ├── qSIP_input
@@ -31,7 +30,7 @@ All data analyses were conducted in **R** using the [`qSIP`package](https://gith
     ├── 2.Extract_moss_active_OTU_IDs_for_phylogenetic_tree.R           <-- **
     ├── 3.Phylogenetic_tree_construction.sh                             <-- **
     └── 4.Ranked_EAF_otus_with_interval_pipeline.R                      <-- **
-.
+
 
 ## Contents
 
