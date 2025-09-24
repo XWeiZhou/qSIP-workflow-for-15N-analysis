@@ -7,7 +7,7 @@ library(openxlsx)
 library(ggpubr)
 
 # set work directory
-setwd("D:/2023年新冻土数据/1-48筛选出现在三层的微生物/Dir00000291/qSIP_output_file_5_新计算抽样EAF/")
+setwd("C:/Users/Lenovo/Desktop/code/")
 
 # load the taxa data
 taxa <- read.csv("taxa.csv")[,c(1,9:14)]3
@@ -124,3 +124,4 @@ p_moss_warming <-
 # combine multiple ggplot objects into one figure.
 ggarrange(p_moss_control,p_moss_warming,nrow = 1,ncol = 2,align = "hv")
 # ggsave("EAF_All.pdf", dpi = 600,units = "cm", width=28,height=20)
+
