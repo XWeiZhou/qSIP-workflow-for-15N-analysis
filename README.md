@@ -112,19 +112,12 @@ This pipeline visualizes **ranked moss OTUs** based on their estimated ¹⁵N en
    - Order OTUs by **Phylum** and **median EAF (X50.)** within each group.  
    - Assign rank IDs to each OTU for plotting.
 
-## Requirements
-- R (≥4.0) with packages: `dplyr`, `tidyr`, `ggplot2`, `phyloseq`
-- Python (≥3.8) with packages: `pandas`, `biopython`
-- Tree building software: IQ-TREE / RAxML
-- qSIP analysis tools  
-
 
 ## Usage
 Each pipeline is organized in its own directory with scripts and example data.  
 Refer to individual pipeline folders for detailed instructions.
 
 
-## Citation
-If you use this repository, please cite:  
-Wei Zhou, Yuxuan Bai, Yuhong Xie, Bin Wei, Wolfgang Wanek, Kathrin Rousk, Genevieve Noyce, Dianye Zhang, Yunfeng Peng, and Yuanhe Yang. Key role of moss in satisfying the elevated plant nitrogen demand under warming in a permafrost ecosystem. 2025 
+## Citation 
+Wei Zhou<sup>#</sup>, Yuxuan Bai<sup>#</sup>, Yuhong Xie, Bin Wei, Wolfgang Wanek, Kathrin Rousk, Genevieve Noyce, Dianye Zhang, Yunfeng Peng, and Yuanhe Yang<sup>*</sup>. Key role of moss in satisfying the elevated plant nitrogen demand under warming in a permafrost ecosystem. 
 
