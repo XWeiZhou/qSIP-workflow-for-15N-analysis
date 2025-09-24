@@ -31,8 +31,8 @@ start_time_all <- Sys.time()
 ##################################################################################################
 # 2.  Load qSIP data tables and choice the necessary data
 # OTUs that lacked taxonomic assignment at the kingdom level, or were classified as 
-# eukaryotic, archaeal, mitochondrial, chloroplast, or unassigned sequence reads, were excluded from the dataset
-setwd("C:/Users/Lenovo/Desktop/2025年9月PNAS文章修改/上传代码和数据/代码/")
+# eukaryotic, archaeal, mitochondrial, chloroplast, or unassigned sequence reads were excluded from the dataset
+setwd("C:/Users/Lenovo/Desktop/code/")
 
 ## Load sample metadata including sampleID, ID, Treatment, replicates, and isotope label treatment 
 group_sampleID_with_control_and_rep <- read_excel("group_sampleID_with_control and rep.xlsx", sheet=1)
@@ -58,7 +58,7 @@ ssc <- c('seq_abund', 'otu_id')
 # initial sequence and OTU count
 cat('Initial\n')
 seq_summary(moss_qsip[, ..ssc])
-# we will get the summary of initial sequences and feature
+# We will get the summary of the initial sequences and feature
 # 12,574,266 sequences
 # 46,763 tax features
 
@@ -162,12 +162,12 @@ moss_warming <- moss_qsip_filtered_final %>% filter(Treatment=="Warming" & ecosy
 moss_control_sip <- moss_qsip_after3fraction %>% filter(treatment =="Control"& ecosystem=="moss" & otu_id %in% moss_control$otu_id) 
 moss_warming_sip <- moss_qsip_after3fraction %>% filter(treatment =="Warming"& ecosystem=="moss" & otu_id %in% moss_warming$otu_id) 
 
-# Check the output dimensions and compare with original Excel records 
+# Check the output dimensions and compare with the original Excel records 
 # to verify that filtering was performed correctly
 dim(moss_control_sip)
 dim(moss_warming_sip)
 
-# Combine the separate two datasets into a single table
+# Combine the two separate datasets into a single table
 # after removing OTUs that did not appear in at least two replicates
 moss_qsip_filter_data <- rbind(moss_control_sip, moss_warming_sip)
 dim(moss_qsip_filter_data)
@@ -178,11 +178,11 @@ seq_summary(moss_qsip_filter_data[, ..ssc])
 # 1,115 tax features
 
 ######################################################################################################
-# 4. calculate the EAF with and without the 1,000 bootstrap resampling iterations
+# 4. Calculate the EAF with and without the 1,000 bootstrap resampling iterations
 moss_qsip = moss_qsip_filter_data[,1:19] 
 # write.xlsx(moss_qsip,"moss_qsip.xlsx")
 
-#转化为data.table格式
+#Convert the data to data.table format
 moss_qsip <- data.table(moss_qsip)
 
 #convert the format
@@ -331,3 +331,4 @@ end_time_all <- Sys.time()
 #total time
 total_time <-  end_time_all - start_time_all
 total_time
+
