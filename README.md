@@ -5,6 +5,7 @@ This repository contains scripts and workflows for analysing moss-associated nit
 All data analyses were conducted in **R** using the [`qSIP`package](https://github.com/bramstone/qsip). For detailed information on the underlying algorithms and functions, please refer to the `qSIP` documentation.
 
 ## Structure
+```plaintext
 .
 ├── data
 │   ├── qSIP_input
