@@ -32,39 +32,15 @@
     iqtree -s otus_aligned_moss.fas \
         -bb 1000 -redo -alrt 1000 -nt AUTO \
         -pre iqtree/select_OTU_moss
-
-## 3. Tree visualization and annotation
-
-    # Visit http://itol.embl.de/, upload otus.nwk, 
-    # then drag-and-drop the generated annotation schemes onto the tree for visualization.
-
-    ## Scheme 1. Outer-ring colors, shapes, taxonomy, and abundance
-    # annotation.txt contains OTU taxonomy annotation and abundance.
-    # -a stop if input column not found (default: disabled)
-    # -c convert integer columns to factors or decimals to numeric
-    # -t convert ID column if label mismatch occurs
-    # -w control width of color bands/areas
-    # -D output directory
-    # -i OTU column name
-    # -l OTU display label (e.g., species/genus/family name)	
-    Rscript ${db}/script/table2itol.R -a -c double -D plan1 -i OTUID -l Genus -t %s -w 0.5 annotation_moss.txt
-    # Each column in the annotation file will be exported as a separate file
-
-    ## Scheme 2. Generate abundance bar plot annotation files
-    Rscript ${db}/script/table2itol.R -a -d -c none -D plan2 -b Phylum -i OTUID -l Genus -t %s -w 0.5 annotation_moss.txt
-    Rscript ${db}/script/table2itol.R -a -d -c none -D plan2_2 -b Phylum -i OTUID -l Phylum -t %s -w 0.5 annotation_moss.txt
-
-    ## Scheme 3. Generate heatmap annotation files
-    Rscript ${db}/script/table2itol.R -c keep -D plan3 -i OTUID -t %s otutab_moss.txt
-
-    ## Scheme 4. Convert integer values to factors and generate annotation files
-    Rscript ${db}/script/table2itol.R -a -c factor -D plan4 -i OTUID -l Genus -t %s -w 0 annotation_moss.txt
-
-    # Visualize iqtree/otus.contree on http://itol.embl.de/ 
-    # and drag files from different Plans onto the tree for annotation
-
+        
     # Return to working directory
     cd ${wd}
-    
+
+## 3. Tree visualisation and annotation
+
+    Visit http://itol.embl.de/, upload **select_OTU_moss.contree**, 
+    Then drag-and-drop the generated annotation schemes onto the tree for visualisation.
+ 
 ###################################################################################
+
 
