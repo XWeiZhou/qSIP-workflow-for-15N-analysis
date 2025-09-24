@@ -5,7 +5,7 @@ library(tidyr)
 library(readxl)
 
 #set work directory
-setwd("C:/Users/Lenovo/Desktop/2025年9月PNAS文章修改/上传代码和数据/代码/")
+setwd("C:/Users/Lenovo/Desktop/code/")
 
 # Read the filtered Excel file instead of CSV
 data <- read_excel("filtered_data_taxa_pro_signi_over_0_20250923.xlsx", sheet = 1)
@@ -34,7 +34,7 @@ wide_result$delta.eaf <- wide_result$Warming - wide_result$Control
   
 # load all taxa dataset
 taxa <- read.csv("taxa.csv")
-names(taxa) <- c("otu_id","Kingdom","Phylum","Class","Order","Family","Genus", "Species")
+names(taxa) <- c("otu_id", "Kingdom", "Phylum", "Class", "Order", "Family", "Genus", "Species")
 
 # Compare the two datasets and retain the table structure for OTUs that have EAF values in both
 merge_result <- merge(wide_result, taxa, by = "otu_id", all.x = TRUE)
@@ -42,8 +42,8 @@ annotation <- data.frame(merge_result)
 annotation
 
 # Since Warming appears before Control, the second column is Warming instead of Control; 
-# check the data carefully when naming columns
-names(annotation) <- c("OTUID","Warming","Control","delta.eaf","Kingdom","Phylum","Class","Order","Family","Genus", "Species")
+# check the data carefully when naming column
+names(annotation) <- c("OTUID", "Warming", "Control", "delta.eaf", "Kingdom", "Phylum", "Class", "Order", "Family", "Genus", "Species")
 write.csv(annotation, "annotation_moss.csv")
 # Check the dimensions (rows and columns) of the data
 dim(annotation)
@@ -53,3 +53,4 @@ dim(annotation)
 select_OTU_names <- as.data.frame(annotation[,1])
 names(select_OTU_names) <- c("otu_id")
 write.table(select_OTU_names, "select_OTU_moss_509.txt", sep = "/t", row.names = F, col.names = T, quote = F)
+
