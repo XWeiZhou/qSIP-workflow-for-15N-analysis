@@ -24,7 +24,6 @@ All data analyses were conducted in **R** using the [`qSIP`package](https://gith
 │   │   ├── all_taxa.fa                                                <-- **
 │   │   ├── select_OTU_moss.fa                                         <-- **
 │   │   ├── otus_aligned_moss.fas                                      <-- **
-│   │   ├── eannotation_moss.csv                                       <-- **
 │   │   └── select_OTU_moss.contree                                    <-- **
 │
 └── script
