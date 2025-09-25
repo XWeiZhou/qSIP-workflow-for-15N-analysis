@@ -6,7 +6,7 @@ All data analyses were conducted in **R** using the [`qSIP`package](https://gith
 
 ## Structure
 ```
-.
+
 ├── data
 │   ├── qSIP_input
 │   │   ├── qSIP_data_sheet_OTU_abundance_density.csv                  <-- **
