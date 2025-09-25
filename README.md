@@ -115,8 +115,7 @@ This pipeline visualizes **ranked moss OTUs** based on their estimated ¹⁵N en
 
 
 ## Usage
-Each pipeline is organized in its own directory with scripts and example data.  
-Refer to individual pipeline folders for detailed instructions.
+Each pipeline is organized in its own directory with scripts and example data. Refer to individual pipeline folders for detailed instructions.
 
 
 ## Citation 
