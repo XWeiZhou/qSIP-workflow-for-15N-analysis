@@ -1,8 +1,8 @@
 # Moss qSIP Analysis Pipelines
 
-This repository contains scripts and workflows for analysing moss-associated nitrogen-fixing microorganisms using quantitative stable isotope probing (qSIP) and excess atom fraction (EAF) approaches. The pipelines support the identification of active diazotrophs, phylogenetic tree construction, and ranking of taxa by their isotopic enrichment signals.  
+This repository contains data and scripts for analysing moss-associated nitrogen-fixing microorganisms using quantitative stable isotope probing (qSIP) and excess atom fraction (EAF) approaches. The pipelines support the identification of active diazotrophs, phylogenetic tree construction, and ranking of taxa by their isotopic enrichment signals.  
 
-All data analyses were conducted in **R** using the [`qSIP`package](https://github.com/bramstone/qsip) (https://github.com/bramstone/qsip). For detailed information on the underlying algorithms and functions, please refer to the `qSIP` documentation.
+All data analyses were conducted in **R** using the [`qSIP`package](https://github.com/bramstone/qsip). For detailed information on the underlying algorithms and functions, please refer to the `qSIP` documentation (https://github.com/bramstone/qsip).
 
 ## Structure
 ```
