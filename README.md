@@ -113,10 +113,8 @@ This pipeline visualizes **ranked moss OTUs** based on their estimated ¹⁵N en
    - Order OTUs by **Phylum** and **median EAF (X50.)** within each group.  
    - Assign rank IDs to each OTU for plotting.
 
-
 ## Usage
 Each pipeline is organized in its own directory with scripts and example data. Refer to individual pipeline folders for detailed instructions.
-
 
 ## Citation 
 Wei Zhou<sup>#</sup>, Yuxuan Bai<sup>#</sup>, Yuhong Xie, Bin Wei, Wolfgang Wanek, Kathrin Rousk, Genevieve Noyce, Dianye Zhang, Yunfeng Peng, and Yuanhe Yang<sup>*</sup>. Key role of moss in satisfying the elevated plant nitrogen demand under warming in a permafrost ecosystem. 
