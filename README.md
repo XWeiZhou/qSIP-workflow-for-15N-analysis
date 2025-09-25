@@ -55,7 +55,6 @@ This data analysis process includes the following main steps:
 1.4. **Calculate excess atom fraction (EAF)**  
    - Compute OTU-specific ¹⁵N EAF values by treatment and replicate.  
    - Perform calculations **with and without 1,000 bootstrap resampling iterations**.  
-   - Export results as `.csv` tables.
 
 1.5. **Identify active OTUs (EAF > 0)**  
    - Select OTUs with significantly positive EAF values in both bootstrap and non-bootstrap datasets.  
