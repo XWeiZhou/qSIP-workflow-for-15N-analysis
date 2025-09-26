@@ -9,28 +9,28 @@ All data analyses were conducted in **R** using the [`qSIP`package](https://gith
 
 ├── data
 │   ├── qSIP_input
-│   │   ├── qSIP_data_sheet_OTU_abundance_density.csv                  <-- All data for qSIP calculations, including metadata, fraction density, qPCR, OTU abundance, and taxa data. Detailed information can be seen in  1.2. **Load qSIP data tables and metadata**
-│   │   ├── group_sampleID_with_control_and_rep.xlsx                   <-- group, sampleID, and replication information
+│   │   ├── qSIP_data_sheet_OTU_abundance_density.csv                  <-- Input dataset for qSIP calculations, including metadata, fraction density, qPCR, OTU abundance, and taxonomic information. Detailed description in Section 1.2: "Load qSIP data tables and metadata"
+│   │   ├── group_sampleID_with_control_and_rep.xlsx                   <-- Metadata file with group, sample ID, and replicate information
 │   │
 │   ├── qSIP_output
-│   │   ├── eaf_taxa_with_1000_bootstrap.csv                           <-- The taxa-specific 15N EAF value at the treatment level by using 1,000 bootstrap resampling iterations
-│   │   ├── eaf_taxa_without_bootstrap.csv                             <-- The taxa-specific 15N EAF at the replicate level without bootstrap resampling
-│   │   ├── filtered_data_taxa_signi_over_0.xlsx                       <-- The taxa both with and without 1,000 bootstrap resampling EAF value all over 0
+│   │   ├── eaf_taxa_with_1000_bootstrap.csv                           <-- Taxa-specific 15N EAF values at the treatment level based on 1,000 bootstrap resampling iterations
+│   │   ├── eaf_taxa_without_bootstrap.csv                             <-- Taxa-specific 15N EAF values at the replicate level without bootstrap resampling
+│   │   ├── filtered_data_taxa_signi_over_0.xlsx                       <-- Taxa with EAF values consistently > 0 (with and without 1,000 bootstrap resampling)
 │   │   └── wide_OTU_moss_result_after_eaf_over_0.csv                  <-- Matrix with each row representing an OTU and each column representing a sample
 │   │
 │   ├── Phylogenetic_tree
-│   │   ├── annotation_moss.csv                                        <-- This file contains an OTU × Sample matrix, where rows represent OTU IDs (509), columns represent sample names, and values are Excess Atom Fraction (EAF).
-│   │   ├── taxa.csv                                                   <-- OTU and taxonomic table 
-│   │   ├── select_OTU_moss_509.txt                                    <-- **
-│   │   ├── all_taxa.fa                                                <-- DNA sequences for representing OTU
-│   │   ├── select_OTU_moss_509.fa                                     <-- **
-│   │   └── select_OTU_moss_509.contree                                <-- **
+│   │   ├── annotation_moss.csv                                        <-- OTU × Sample EAF matrix for 509 active OTUs; rows represent OTU IDs, columns represent sample names
+│   │   ├── taxa.csv                                                   <-- OTU-to-taxonomy reference table
+│   │   ├── select_OTU_moss_509.txt                                    <-- List of 509 active OTU IDs
+│   │   ├── all_taxa.fa                                                <-- Representative DNA sequences for all OTUs
+│   │   ├── select_OTU_moss_509.fa                                     <-- DNA sequences of the 509 active OTUs
+│   │   └── select_OTU_moss_509.contree                                <-- Phylogenetic tree of the 509 active OTUs
 │
 └── script
-    ├── 1.moss_qsip_eaf_process.R                                      <-- **
-    ├── 2.Extract_moss_active_OTU_IDs_for_phylogenetic_tree.R          <-- **
-    ├── 3.Phylogenetic_tree_construction.sh                            <-- **
-    └── 4.Ranked_EAF_otus_with_interval_pipeline.R                     <-- **
+    ├── 1.moss_qsip_eaf_process.R                                      <-- R script for qSIP EAF calculation pipeline
+    ├── 2.Extract_moss_active_OTU_IDs_for_phylogenetic_tree.R          <-- R script to extract active OTU IDs for phylogenetic analysis
+    ├── 3.Phylogenetic_tree_construction.sh                            <-- Shell script for phylogenetic tree construction
+    └── 4.Ranked_EAF_otus_with_interval_pipeline.R                     <-- R script for ranking OTUs by bootstrap EAF with confidence intervals
 ```
 
 
