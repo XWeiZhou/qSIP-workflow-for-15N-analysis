@@ -49,8 +49,7 @@ This data analysis process includes the following main steps:
 
 1.3. **Data filtering and quality control**  
    - Retain OTUs present in at least **three fractions** of **two replicates** per treatment (control or warming, light and label).  
-   - Generate a filtered dataset with reproducibly detected OTUs.  
-   - Normalize abundances for downstream analysis.
+   - Generate a filtered dataset of reproducibly detected OTUs and normalise abundances for downstream analyses.
 
 1.4. **Calculate excess atom fraction (EAF)**  
    - Compute OTU-specific ¹⁵N EAF values by treatment and replicate.  
@@ -80,22 +79,22 @@ This step prepares the list of moss-associated active OTUs (EAF > 0) for phyloge
 
 2.4. **Export OTU ID list**  
    - Extract OTU IDs to a text file (`select_OTU_moss_509.txt`).  
-   - This OTU list will be used to extract sequences from `otus_taxa.fa` for tree construction.
+   - This OTU list will be used to extract sequences from `all_taxa.fa` for tree construction.
 
 ### 3. Phylogenetic tree construction
-This pipeline builds phylogenetic trees of **active diazotrophs** by extracting the `select_OTU_moss_509` sequences identified after SIP–EAF filtering, aligning them, and constructing a maximum likelihood tree. The resulting tree can be visualized and annotated in iTOL.
+This pipeline builds phylogenetic trees of **active OTUs** by extracting the `select_OTU_moss_509` sequences identified after filtering, aligning them, and constructing a maximum likelihood tree. The resulting tree can be visualized and annotated in iTOL.
 
 3.1. **Extract sequences**  
-   - Select OTU sequences from the full fasta file using `seqkit grep`.
+   - Select OTU sequences (`select_OTU_moss_509.fa`) from the full fasta file using `seqkit grep`.
 
 3.2. **Align sequences**  
    - Perform multiple sequence alignment with MUSCLE.
 
 3.3. **Construct a phylogenetic tree**  
-   - Build a maximum likelihood tree with IQ-TREE using 1000 bootstrap and ALRT replicates.
+   - Construct a maximum likelihood phylogenetic tree with IQ-TREE, using 1,000 ultrafast bootstrap replicates and 1,000 approximate likelihood ratio test replicates to robustly assess branch support.
 
 3.4. **Visualize and annotate**  
-   - Upload the tree to [iTOL](http://itol.embl.de/) and annotate with taxonomy, abundance, and custom schemes generated using `table2itol.R`.
+   - Upload the tree to [iTOL](http://itol.embl.de/) and annotate with taxonomy, EAF and ΔEAF.
 
 ### 4. Ranked EAF OTUs with interval pipeline
 Pipeline for ranking **active OTUs** based on their isotopic enrichment signal and confidence intervals.
@@ -104,7 +103,7 @@ This pipeline visualizes **ranked moss OTUs** based on their estimated ¹⁵N en
 
 4.1. **Load and prepare data**  
    - Import taxonomic annotation (`taxa.csv`) and select relevant columns.  
-   - Import EAF data calculated with 1,000 bootstrap resampling (`eaf_pro_1000.csv`).  
+   - Import EAF data calculated with 1,000 bootstrap resampling (`eaf_taxa_with_1000_bootstrap.csv`).  
    - Merge EAF values with taxonomy to create a combined dataset.
 
 4.2. **Subset treatments and rank OTUs**  
