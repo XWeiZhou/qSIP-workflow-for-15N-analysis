@@ -9,17 +9,18 @@ All data analyses were conducted in **R** using the [`qSIP`package](https://gith
 
 ├── data
 │   ├── qSIP_input
-│   │   ├── qSIP_data_sheet_OTU_abundance_density.csv                  <-- **
-│   │   ├── group_sampleID_with_control_and_rep.xlsx                   <-- **
+│   │   ├── qSIP_data_sheet_OTU_abundance_density.csv                  <-- All data for qSIP calculations, including metadata, fraction density, qPCR, OTU abundance, and taxa data. Detailed can be seen in  1.2. **Load qSIP data tables and metadata**
+│   │   ├── group_sampleID_with_control_and_rep.xlsx                   <-- group, sampleID, and replication information
 │   │
 │   ├── qSIP_output
-│   │   ├── eaf_pro_with_1000_bootstrap.csv                            <-- **
-│   │   ├── eaf_taxa_without_bootstrap.csv                             <-- **
-│   │   ├── filtered_data_taxa_pro_signi_over_0_20250923.xlsx          <-- **
-│   │   └── wide_OTU_moss_result_after_eaf_over_0_20250923.csv         <-- **
+│   │   ├── eaf_taxa_with_1000_bootstrap.csv                           <-- The taxa-specific 15N EAF value at the treatment level by using 1,000 bootstrap resampling iterations
+│   │   ├── eaf_taxa_without_bootstrap.csv                             <-- The taxa-specific 15N EAF at the replicate level without bootstrap resampling.
+│   │   ├── filtered_data_taxa_signi_over_0.xlsx                       <-- The taxa both with and without 1,000 bootstrap resampling EAF value all over 0
+│   │   └── wide_OTU_moss_result_after_eaf_over_0.csv                  <-- **
 │   │
 │   ├── Phylogenetic_tree
 │   │   ├── annotation_moss.csv                                        <-- **
+│   │   ├── taxa.csv                                                   <-- **
 │   │   ├── select_OTU_moss_509.txt                                    <-- **
 │   │   ├── all_taxa.fa                                                <-- **
 │   │   ├── select_OTU_moss.fa                                         <-- **
