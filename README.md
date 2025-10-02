@@ -43,12 +43,12 @@ This data analysis process includes the following main steps:
 1.1. **Check and load required packages**  
    - Automatically check for missing R packages, install them if necessary, and load (`qsip`, `phyloseq`, `ggplot2`, `dplyr`, etc.).
 
-1.2. **Load qSIP data tables and metadata**  
+1.2. **Load metadata and qSIP dataset**  
    - Import metadata (`ide_id`, `sampleIDs`, `fraction`, `timepoint`, `isotope`, `iso_trt`, `ecosystem`, `treatment`, `replicates`).  
-   - Load fraction density, qPCR, OTU abundance, and taxa data (`otu_id`, `Density.g.ml`, `avg_16S_g_soil`, `seq_abund`,  `Kingdom`, `Phylum`, `Class`, `Order`, `Family`, `Genus`, `Species` ).  
+   - Load qSIP dataset including fraction density, qPCR, OTU abundance, and taxa data (`otu_id`, `Density.g.ml`, `avg_16S_g_soil`, `seq_abund`,  `Kingdom`, `Phylum`, `Class`, `Order`, `Family`, `Genus`, `Species` ).  
    - Exclude non-target OTUs at kingdom (Unassigned, Eukaryota, Archaea, mitochondria, chloroplast).
 
-1.3. **Data filtering and quality control**  
+1.3. **Data filtering**  
    - Retain OTUs present in at least **three fractions** of **two replicates** per treatment (control or warming, light and label).  
    - Generate a filtered dataset of reproducibly detected OTUs and normalise abundances for downstream analyses.
 
