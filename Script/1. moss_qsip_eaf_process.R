@@ -233,7 +233,7 @@ eaf_taxa_cali
 wads$iso_trt <- factor(wads$iso_trt, levels = c("light", "label"))
 
 # Set random seed; This ensures that any random operations produce the same result every time the code is run.
-set.seed(11)
+set.seed(2661)
 
 # Taxa-specific 15N EAF was calculated at the treatment level by using 1,000 bootstrap resampling iterations
 eaf_pro_1000 <- calc_excess(
