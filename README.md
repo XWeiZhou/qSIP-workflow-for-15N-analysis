@@ -64,7 +64,7 @@ This data analysis process includes the following main steps:
 This step prepares the list of moss-associated active OTUs (EAF > 0) for phylogenetic tree construction.
 
 2.1. **Load filtered dataset**  
-   - Import the final filtered OTU table (`filtered_data_taxa_pro_signi_over_0_20250923.xlsx`).  
+   - Import the final filtered OTU table (`filtered_data_taxa_pro_signi_over_0.xlsx`).  
    - Convert `Treatment` to a factor (`Control`, `Warming`).  
    - Retain OTUs with positive EAF values in moss samples.
 
