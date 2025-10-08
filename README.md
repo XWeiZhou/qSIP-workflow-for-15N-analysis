@@ -30,8 +30,7 @@ All data analyses were conducted in **R** using the [`qSIP`package](https://gith
 └── script
     ├── 1.moss_qsip_eaf_process.R                                      <-- R script for qSIP EAF calculation pipeline
     ├── 2.Extract_moss_active_OTU_IDs_for_phylogenetic_tree.R          <-- R script to extract active OTU IDs for phylogenetic analysis
-    ├── 3.Phylogenetic_tree_construction.sh                            <-- Shell script for phylogenetic tree construction
-    └── 4.Ranked_EAF_otus_with_interval_pipeline.R                     <-- R script for ranking OTUs by bootstrap EAF with confidence intervals
+    └── 3.Phylogenetic_tree_construction.sh                            <-- Shell script for phylogenetic tree construction
 ```
 
 
@@ -96,21 +95,6 @@ This pipeline builds phylogenetic trees of **active OTUs** by extracting the `se
 
 3.4. **Visualize and annotate**  
    - Upload the tree to [iTOL](http://itol.embl.de/) and annotate with taxonomy, EAF and ΔEAF.
-
-### 4. Ranked EAF OTUs with interval pipeline
-Pipeline for ranking **active OTUs** based on their isotopic enrichment signal and confidence intervals.
-
-This pipeline visualizes **ranked moss OTUs** based on their estimated ¹⁵N enrichment (EAF) values and confidence intervals, separately for control and warming treatments. The plots display OTUs ordered by rank within each phylum, with error bars representing uncertainty.
-
-4.1. **Load and prepare data**  
-   - Import taxonomic annotation (`taxa.csv`) and select relevant columns.  
-   - Import EAF data calculated with 1,000 bootstrap resampling (`eaf_taxa_with_1000_bootstrap.csv`).  
-   - Merge EAF values with taxonomy to create a combined dataset.
-
-4.2. **Subset treatments and rank OTUs**  
-   - Filter OTUs for `Control` and `Warming` moss treatments separately.  
-   - Order OTUs by **Phylum** and **median EAF (X50.)** within each group.  
-   - Assign rank IDs to each OTU for plotting.
 
 ## Usage
 This repository contains all input data, output files, and scripts used for the quantitative stable isotope probing (qSIP) analysis of active moss-associated microbial taxa.
