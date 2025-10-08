@@ -113,7 +113,7 @@ This pipeline visualizes **ranked moss OTUs** based on their estimated ¹⁵N en
    - Assign rank IDs to each OTU for plotting.
 
 ## Usage
-Each pipeline is organized in its own directory with scripts and example data. Refer to individual pipeline folders for detailed instructions.
+This repository contains all input data, output files, and scripts used for the quantitative stable isotope probing (qSIP) analysis of active moss-associated microbial taxa.
 
 ## Citation 
 Wei Zhou<sup>#</sup>, Yuxuan Bai<sup>#</sup>, Yuhong Xie, Bin Wei, Wolfgang Wanek, Kathrin Rousk, Genevieve Noyce, Dianye Zhang, Yunfeng Peng, and Yuanhe Yang<sup>*</sup>. Key role of moss in satisfying the elevated plant nitrogen demand under warming in a permafrost ecosystem. 
