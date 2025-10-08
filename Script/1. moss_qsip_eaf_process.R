@@ -268,7 +268,7 @@ eaf_taxa <- calc_excess(
                     nat_abund_15N = 0.003663004)
 
 eaf_taxa
-# write.csv(eaf_taxa, file = "eaf_taxa_without_bootstrap.csv")
+write.csv(eaf_taxa, file = "eaf_taxa_without_bootstrap.csv")
 
 ######################################################################################################
 # 5. Find  both with and without 1,000 bootstrap resampling EAF value all over 0
