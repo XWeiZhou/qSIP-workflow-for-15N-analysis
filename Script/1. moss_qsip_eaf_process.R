@@ -253,7 +253,7 @@ eaf_pro_1000 <- calc_excess(
 eaf_pro_1000
 
 # output the  1000_bootstrap results
-write.csv(eaf_pro_1000, file = "eaf_pro_with_1000_bootstrap.csv")
+write.csv(eaf_pro_1000, file = "eaf_taxa_with_1000_bootstrap.csv")
 
 # Taxa-specific 15N EAF was calculated at the replicate level without bootstrap resampling.
 eaf_taxa <- calc_excess(
@@ -306,7 +306,7 @@ names(filtered_data) <-  c("otu_id", "sampleID", "timepoint", "isotope", "ecosys
                   "gc_prop", "mw_light", "mw_label", "mw_max", "nat_abund", "eaf",
                   "otu_id.y",	"treatment.y",	"q2.5",	"q50",	"q97.5",	"p_val")
 # View(filtered_data)
-write.xlsx(filtered_data, file = "filtered_data_taxa_pro_signi_over_0_20250923.xlsx", rowNames = FALSE)
+write.xlsx(filtered_data, file = "filtered_data_taxa_signi_over_0.xlsx", rowNames = FALSE)
 
 ## Extract sampleID and eaf for creating wide_OTU_moss_result_after_eaf_over_0.csv
 select_OTU_venn <- filtered_data[,c("otu_id","sampleID","eaf")]
@@ -323,7 +323,7 @@ df_wide <- select_OTU_venn %>%
 df_wide[is.na(df_wide)] <- 0
 
 #output the data file
-write.csv(df_wide, "wide_OTU_moss_result_after_eaf_over_0_20250923.csv")
+write.csv(df_wide, "wide_OTU_moss_result_after_eaf_over_0.csv")
 
 # Record the end time of the script
 end_time_all <- Sys.time()
