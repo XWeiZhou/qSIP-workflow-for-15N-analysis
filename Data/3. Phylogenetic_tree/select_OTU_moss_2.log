@@ -1,0 +1,799 @@
+IQ-TREE multicore version 1.6.10 for Windows 64-bit built Feb 19 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    DESKTOP-P6L66R1 (AVX2, FMA3, 15 GB RAM)
+Command: C:\public\win\iqtree.exe -s otus_aligned_moss.fas -m TIM2+F+R6 -bb 1000 -redo -alrt 1000 -nt AUTO -pre iqtree_time_13/select_OTU_moss_2 -seed 13
+Seed:    13 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sun Oct 12 01:37:33 2025
+Kernel:  AVX+FMA - auto-detect threads (16 CPU cores detected)
+
+Reading alignment file otus_aligned_moss.fas ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 508 sequences with 620 columns, 452 distinct patterns
+313 parsimony-informative, 103 singleton sites, 204 constant sites
+            Gap/Ambiguity  Composition  p-value
+   1  OTU_6        48.55%    failed      1.66%
+   2  OTU_142      48.55%    failed      0.01%
+   3  OTU_59       48.55%    failed      0.00%
+   4  OTU_805      48.55%    failed      0.01%
+   5  OTU_220      48.55%    failed      0.02%
+   6  OTU_450      48.55%    failed      0.02%
+   7  OTU_339      48.55%    failed      0.00%
+   8  OTU_74       48.55%    failed      0.02%
+   9  OTU_488      48.55%    passed     10.43%
+  10  OTU_362      48.55%    failed      0.30%
+  11  OTU_68       48.55%    failed      2.33%
+  12  OTU_1069     48.55%    failed      0.53%
+  13  OTU_43       48.55%    failed      0.07%
+  14  OTU_432      48.55%    failed      0.03%
+  15  OTU_24       48.55%    failed      0.11%
+  16  OTU_47       48.55%    failed      0.00%
+  17  OTU_424      48.55%    failed      0.01%
+  18  OTU_3416     48.55%    failed      0.12%
+  19  OTU_42       48.55%    failed      0.00%
+  20  OTU_23       48.55%    failed      0.01%
+  21  OTU_320      48.55%    failed      0.06%
+  22  OTU_10098    49.35%    failed      0.00%
+  23  OTU_1188     48.55%    failed      0.01%
+  24  OTU_800      48.55%    failed      0.06%
+  25  OTU_27       48.55%    failed      0.11%
+  26  OTU_481      49.19%    failed      0.05%
+  27  OTU_5158     48.55%    failed      0.72%
+  28  OTU_1047     48.55%    failed      0.03%
+  29  OTU_444      48.55%    failed      0.01%
+  30  OTU_1313     48.55%    failed      0.07%
+  31  OTU_3494     48.55%    failed      0.04%
+  32  OTU_3262     48.55%    failed      0.02%
+  33  OTU_787      48.55%    failed      0.05%
+  34  OTU_51507    48.55%    failed      0.03%
+  35  OTU_1119     48.55%    failed      0.10%
+  36  OTU_1865     48.55%    failed      0.27%
+  37  OTU_1811     48.55%    failed      0.00%
+  38  OTU_2089     48.55%    failed      0.00%
+  39  OTU_3056     48.55%    failed      0.00%
+  40  OTU_121      48.55%    failed      0.00%
+  41  OTU_3983     48.55%    failed      0.00%
+  42  OTU_869      48.55%    failed      0.00%
+  43  OTU_21094    48.55%    failed      0.00%
+  44  OTU_2213     48.55%    failed      0.01%
+  45  OTU_25       48.55%    failed      0.00%
+  46  OTU_109      48.55%    failed      0.00%
+  47  OTU_300      48.55%    failed      0.00%
+  48  OTU_57       48.55%    failed      0.00%
+  49  OTU_52467    48.55%    failed      0.00%
+  50  OTU_203      48.71%    failed      0.00%
+  51  OTU_4556     48.55%    failed      0.05%
+  52  OTU_6941     48.55%    failed      0.01%
+  53  OTU_1808     48.55%    failed      0.00%
+  54  OTU_107      48.55%    failed      0.01%
+  55  OTU_2867     48.55%    failed      0.00%
+  56  OTU_4164     48.55%    failed      0.00%
+  57  OTU_5374     48.55%    failed      0.00%
+  58  OTU_24235    48.55%    failed      0.00%
+  59  OTU_881      48.55%    failed      0.00%
+  60  OTU_335      48.55%    failed      0.00%
+  61  OTU_12       48.55%    failed      0.00%
+  62  OTU_18630    48.55%    failed      0.00%
+  63  OTU_4027     48.55%    failed      0.00%
+  64  OTU_4468     48.55%    failed      0.00%
+  65  OTU_15       48.87%    failed      0.00%
+  66  OTU_187      48.55%    failed      0.00%
+  67  OTU_1750     48.55%    failed      0.00%
+  68  OTU_2        48.55%    failed      0.03%
+  69  OTU_804      48.55%    failed      0.00%
+  70  OTU_31111    48.55%    failed      0.00%
+  71  OTU_1468     48.55%    failed      0.02%
+  72  OTU_1127     48.55%    failed      0.00%
+  73  OTU_771      48.55%    failed      0.00%
+  74  OTU_148      48.55%    failed      0.00%
+  75  OTU_10372    48.55%    failed      0.00%
+  76  OTU_3039     48.55%    failed      0.00%
+  77  OTU_10142    48.71%    failed      0.00%
+  78  OTU_5799     48.55%    failed      0.00%
+  79  OTU_3672     48.55%    failed      0.00%
+  80  OTU_1150     48.55%    failed      0.02%
+  81  OTU_7713     48.55%    failed      0.00%
+  82  OTU_3661     48.55%    failed      0.00%
+  83  OTU_21391    48.55%    failed      0.00%
+  84  OTU_1        48.55%    failed      0.00%
+  85  OTU_11362    48.55%    failed      0.02%
+  86  OTU_1576     48.55%    failed      0.00%
+  87  OTU_9525     48.55%    failed      0.00%
+  88  OTU_1558     48.55%    failed      0.00%
+  89  OTU_641      48.55%    failed      0.01%
+  90  OTU_751      48.55%    failed      0.13%
+  91  OTU_502      48.55%    failed      0.03%
+  92  OTU_235      48.55%    failed      0.01%
+  93  OTU_2381     48.87%    failed      0.01%
+  94  OTU_1711     48.55%    failed      0.06%
+  95  OTU_3026     48.55%    failed      0.08%
+  96  OTU_147      48.55%    failed      0.00%
+  97  OTU_533      48.55%    failed      0.08%
+  98  OTU_1650     48.55%    failed      0.05%
+  99  OTU_6165     48.55%    failed      0.14%
+ 100  OTU_292      48.55%    failed      0.15%
+ 101  OTU_6872     48.55%    failed      0.07%
+ 102  OTU_821      48.55%    failed      0.11%
+ 103  OTU_507      48.55%    failed      0.40%
+ 104  OTU_55       48.55%    failed      0.08%
+ 105  OTU_9094     48.55%    failed      0.34%
+ 106  OTU_224      48.55%    failed      0.12%
+ 107  OTU_666      48.55%    failed      0.05%
+ 108  OTU_114      48.55%    failed      0.01%
+ 109  OTU_7839     48.55%    failed      0.05%
+ 110  OTU_3291     48.55%    failed      0.02%
+ 111  OTU_629      48.55%    failed      0.05%
+ 112  OTU_859      48.55%    failed      0.12%
+ 113  OTU_1304     48.55%    failed      0.01%
+ 114  OTU_3633     49.19%    failed      0.06%
+ 115  OTU_1840     48.55%    failed      0.13%
+ 116  OTU_10       48.55%    failed      0.05%
+ 117  OTU_6815     48.55%    failed      0.08%
+ 118  OTU_201      48.55%    failed      0.20%
+ 119  OTU_5913     48.55%    failed      0.20%
+ 120  OTU_4        48.55%    failed      0.61%
+ 121  OTU_2181     48.55%    failed      0.09%
+ 122  OTU_967      48.55%    failed      0.13%
+ 123  OTU_1231     48.55%    failed      0.29%
+ 124  OTU_199      48.06%    passed     45.29%
+ 125  OTU_333      48.06%    passed     32.91%
+ 126  OTU_731      48.06%    passed     43.20%
+ 127  OTU_32       48.06%    passed      8.32%
+ 128  OTU_1357     48.06%    passed     42.79%
+ 129  OTU_16       48.06%    passed     55.70%
+ 130  OTU_129      48.55%    failed      2.78%
+ 131  OTU_62       48.55%    passed      5.66%
+ 132  OTU_361      48.55%    passed      5.10%
+ 133  OTU_3180     48.06%    failed      2.51%
+ 134  OTU_21       48.06%    failed      1.31%
+ 135  OTU_6792     48.06%    failed      1.34%
+ 136  OTU_151      48.06%    passed     19.73%
+ 137  OTU_87       48.55%    passed     98.93%
+ 138  OTU_290      48.55%    passed     81.33%
+ 139  OTU_682      48.55%    passed     53.90%
+ 140  OTU_569      48.55%    passed     16.05%
+ 141  OTU_123      48.55%    passed     19.94%
+ 142  OTU_492      48.55%    passed     16.00%
+ 143  OTU_608      48.55%    passed     34.60%
+ 144  OTU_81390    48.55%    passed     49.89%
+ 145  OTU_399      58.87%    passed     23.56%
+ 146  OTU_669      48.55%    passed     48.71%
+ 147  OTU_815      48.55%    passed     42.81%
+ 148  OTU_20       48.55%    passed     68.41%
+ 149  OTU_402      48.55%    passed     79.69%
+ 150  OTU_19030    48.55%    passed     51.34%
+ 151  OTU_9800     48.55%    passed     42.68%
+ 152  OTU_32348    48.55%    passed     73.33%
+ 153  OTU_1665     48.55%    passed     71.05%
+ 154  OTU_5255     48.55%    passed     82.43%
+ 155  OTU_10707    48.55%    passed     41.89%
+ 156  OTU_4519     48.55%    passed     89.40%
+ 157  OTU_33988    48.55%    passed     70.56%
+ 158  OTU_2660     48.71%    passed     72.95%
+ 159  OTU_1209     48.55%    passed     73.33%
+ 160  OTU_1922     48.55%    passed     63.11%
+ 161  OTU_1152     48.55%    passed     75.65%
+ 162  OTU_29       48.55%    passed     61.39%
+ 163  OTU_101      48.55%    passed     72.22%
+ 164  OTU_2451     48.55%    passed     56.06%
+ 165  OTU_155      48.55%    passed     77.60%
+ 166  OTU_606      48.55%    passed     32.60%
+ 167  OTU_11       48.55%    passed     74.65%
+ 168  OTU_2364     48.55%    passed     75.56%
+ 169  OTU_1179     48.55%    passed     68.45%
+ 170  OTU_36093    48.55%    passed     64.34%
+ 171  OTU_7        48.55%    passed     75.14%
+ 172  OTU_1991     48.55%    passed     85.37%
+ 173  OTU_729      48.55%    passed     12.71%
+ 174  OTU_1136     48.55%    passed     25.92%
+ 175  OTU_3202     48.55%    passed     25.69%
+ 176  OTU_3874     48.55%    passed     10.37%
+ 177  OTU_7772     48.55%    failed      4.49%
+ 178  OTU_6797     48.55%    passed     12.44%
+ 179  OTU_358      48.55%    passed      9.78%
+ 180  OTU_741      48.55%    passed     20.71%
+ 181  OTU_6263     48.55%    passed     11.80%
+ 182  OTU_878      48.55%    passed     22.19%
+ 183  OTU_182      48.55%    passed     24.23%
+ 184  OTU_94460    30.16%    passed     23.54%
+ 185  OTU_6479     48.55%    passed     16.25%
+ 186  OTU_4057     48.55%    passed     34.55%
+ 187  OTU_14353    48.55%    passed     19.00%
+ 188  OTU_9171     48.55%    passed     19.76%
+ 189  OTU_55726    48.55%    passed     10.17%
+ 190  OTU_8753     48.55%    passed     16.11%
+ 191  OTU_17939    48.71%    passed     19.53%
+ 192  OTU_567      48.55%    passed     53.23%
+ 193  OTU_60       48.55%    passed     93.93%
+ 194  OTU_998      48.55%    passed     88.26%
+ 195  OTU_241      48.55%    passed     95.60%
+ 196  OTU_486      48.55%    passed     88.27%
+ 197  OTU_64       48.55%    passed     74.06%
+ 198  OTU_456      48.55%    passed     41.86%
+ 199  OTU_31432    48.55%    passed     54.61%
+ 200  OTU_7933     48.55%    passed     69.50%
+ 201  OTU_237      48.55%    passed     20.90%
+ 202  OTU_504      48.55%    passed     41.27%
+ 203  OTU_3252     48.55%    passed     66.92%
+ 204  OTU_6191     48.55%    passed     45.46%
+ 205  OTU_557      48.55%    passed     67.98%
+ 206  OTU_910      48.55%    passed     80.89%
+ 207  OTU_5461     48.55%    passed     79.27%
+ 208  OTU_430      48.55%    passed     48.27%
+ 209  OTU_234      48.55%    passed     55.34%
+ 210  OTU_1967     48.87%    passed     43.04%
+ 211  OTU_17069    48.55%    passed     42.51%
+ 212  OTU_75       48.55%    passed     51.03%
+ 213  OTU_63064    48.39%    passed     64.88%
+ 214  OTU_178      48.55%    passed     84.43%
+ 215  OTU_6490     48.55%    passed     65.59%
+ 216  OTU_611      48.55%    passed     36.97%
+ 217  OTU_74324    48.55%    passed     51.18%
+ 218  OTU_5779     48.55%    passed     36.67%
+ 219  OTU_102      48.55%    passed     58.88%
+ 220  OTU_961      48.55%    passed     79.29%
+ 221  OTU_498      48.55%    passed     90.89%
+ 222  OTU_12608    48.87%    passed     92.97%
+ 223  OTU_976      49.84%    passed     34.96%
+ 224  OTU_408      48.71%    passed     44.48%
+ 225  OTU_1268     48.55%    passed     40.87%
+ 226  OTU_40       48.55%    passed     80.21%
+ 227  OTU_145      48.55%    passed     43.94%
+ 228  OTU_719      48.55%    passed     20.31%
+ 229  OTU_286      48.55%    passed     62.55%
+ 230  OTU_2871     48.55%    passed     36.37%
+ 231  OTU_2178     48.55%    passed     35.46%
+ 232  OTU_316      48.55%    passed      8.89%
+ 233  OTU_920      48.55%    passed     50.22%
+ 234  OTU_134      48.55%    passed     51.27%
+ 235  OTU_1141     48.55%    passed     31.44%
+ 236  OTU_10566    48.55%    passed     48.48%
+ 237  OTU_24570    48.55%    passed     59.94%
+ 238  OTU_156      48.55%    passed     13.18%
+ 239  OTU_6898     48.55%    passed     19.38%
+ 240  OTU_941      48.55%    passed     24.23%
+ 241  OTU_6503     48.55%    passed     38.46%
+ 242  OTU_278      48.55%    passed     21.09%
+ 243  OTU_1685     48.55%    passed     50.04%
+ 244  OTU_1914     48.55%    passed     11.12%
+ 245  OTU_24867    48.55%    passed     32.29%
+ 246  OTU_223      48.55%    passed     57.06%
+ 247  OTU_144332   48.55%    passed     36.20%
+ 248  OTU_644      48.55%    passed      7.53%
+ 249  OTU_2112     48.55%    passed     20.50%
+ 250  OTU_2219     48.55%    passed     34.39%
+ 251  OTU_822      48.55%    passed     71.87%
+ 252  OTU_2879     48.55%    passed     15.07%
+ 253  OTU_4118     48.55%    passed     21.09%
+ 254  OTU_3357     48.55%    passed     34.55%
+ 255  OTU_4193     48.55%    passed     31.13%
+ 256  OTU_198      48.55%    passed     37.64%
+ 257  OTU_742      48.55%    passed     53.62%
+ 258  OTU_1334     48.55%    passed     26.61%
+ 259  OTU_1499     48.55%    passed     29.56%
+ 260  OTU_36216    48.55%    passed     46.37%
+ 261  OTU_249      48.55%    passed     55.50%
+ 262  OTU_406      48.55%    passed     31.73%
+ 263  OTU_35567    48.55%    passed     25.73%
+ 264  OTU_1178     48.71%    passed     41.98%
+ 265  OTU_3430     48.55%    passed     48.52%
+ 266  OTU_44246    48.55%    passed     15.80%
+ 267  OTU_118      48.55%    passed     28.06%
+ 268  OTU_2542     48.55%    passed     48.66%
+ 269  OTU_99       49.68%    passed     37.37%
+ 270  OTU_177      48.55%    passed     25.73%
+ 271  OTU_542      48.55%    passed     36.99%
+ 272  OTU_5803     48.55%    passed     57.44%
+ 273  OTU_1672     48.55%    passed     44.28%
+ 274  OTU_120707   48.55%    passed     18.05%
+ 275  OTU_782      48.55%    passed     26.53%
+ 276  OTU_219      48.55%    passed     16.71%
+ 277  OTU_2943     48.55%    passed     18.16%
+ 278  OTU_852      49.52%    passed     17.22%
+ 279  OTU_4382     49.35%    passed     20.74%
+ 280  OTU_5294     48.55%    passed     32.25%
+ 281  OTU_5517     48.55%    passed     12.29%
+ 282  OTU_22209    48.55%    passed     20.27%
+ 283  OTU_124205   48.55%    passed     35.16%
+ 284  OTU_1352     48.55%    passed     24.31%
+ 285  OTU_469      48.55%    passed     35.10%
+ 286  OTU_299      48.55%    passed     30.41%
+ 287  OTU_2904     48.55%    passed     53.30%
+ 288  OTU_1684     48.71%    passed     26.75%
+ 289  OTU_8482     48.55%    passed     17.89%
+ 290  OTU_73       48.55%    passed     23.27%
+ 291  OTU_86       48.55%    passed     20.71%
+ 292  OTU_841      48.55%    passed     28.57%
+ 293  OTU_3610     48.55%    passed     33.01%
+ 294  OTU_2638     48.55%    passed     27.91%
+ 295  OTU_5625     48.55%    passed     18.09%
+ 296  OTU_2002     48.55%    passed     43.94%
+ 297  OTU_3150     48.55%    passed     35.65%
+ 298  OTU_3652     48.55%    passed     69.50%
+ 299  OTU_8947     48.55%    passed     76.77%
+ 300  OTU_34322    48.55%    passed     38.30%
+ 301  OTU_32762    48.55%    passed     57.39%
+ 302  OTU_1656     48.55%    passed     27.19%
+ 303  OTU_136      48.55%    passed     31.32%
+ 304  OTU_513      49.03%    passed     77.43%
+ 305  OTU_1889     49.03%    passed     51.68%
+ 306  OTU_565      49.35%    passed     70.05%
+ 307  OTU_445      49.03%    passed     65.86%
+ 308  OTU_3688     49.03%    passed     50.82%
+ 309  OTU_48       48.55%    passed     57.80%
+ 310  OTU_1699     48.55%    passed     82.59%
+ 311  OTU_110784   48.55%    passed     30.89%
+ 312  OTU_772      48.55%    passed     27.79%
+ 313  OTU_391      48.55%    passed     57.80%
+ 314  OTU_1386     48.55%    passed     56.94%
+ 315  OTU_22324    48.55%    passed     20.90%
+ 316  OTU_659      48.55%    passed     19.38%
+ 317  OTU_60377    48.55%    passed     23.49%
+ 318  OTU_17       48.55%    passed     49.49%
+ 319  OTU_2465     48.55%    passed     32.37%
+ 320  OTU_3632     48.55%    passed     27.09%
+ 321  OTU_19163    37.74%    passed     19.35%
+ 322  OTU_2928     32.26%    passed     38.95%
+ 323  OTU_43697    48.55%    passed     29.60%
+ 324  OTU_3636     48.55%    passed     32.29%
+ 325  OTU_126      48.55%    passed     57.02%
+ 326  OTU_9020     48.55%    passed     28.32%
+ 327  OTU_2258     48.55%    passed     67.45%
+ 328  OTU_500      48.55%    passed     50.04%
+ 329  OTU_49431    48.55%    passed     49.49%
+ 330  OTU_67260    48.55%    passed     61.57%
+ 331  OTU_1324     48.55%    passed     74.34%
+ 332  OTU_193      48.55%    passed     59.68%
+ 333  OTU_984      48.55%    passed     57.86%
+ 334  OTU_3273     48.55%    passed     21.24%
+ 335  OTU_78       48.55%    passed     48.71%
+ 336  OTU_10806    48.55%    passed     28.32%
+ 337  OTU_181      48.55%    passed     71.98%
+ 338  OTU_216      48.55%    passed     89.59%
+ 339  OTU_413      51.45%    passed     17.44%
+ 340  OTU_247      48.55%    passed     78.48%
+ 341  OTU_5317     48.55%    passed     42.52%
+ 342  OTU_266      48.55%    passed     46.37%
+ 343  OTU_363      48.55%    passed     33.43%
+ 344  OTU_5433     37.90%    passed     13.95%
+ 345  OTU_394      48.55%    passed     27.04%
+ 346  OTU_3686     48.55%    passed     20.48%
+ 347  OTU_341      48.55%    passed     21.61%
+ 348  OTU_1066     48.55%    passed     67.09%
+ 349  OTU_1512     48.55%    passed     59.70%
+ 350  OTU_36       48.55%    passed     69.15%
+ 351  OTU_736      48.55%    passed     25.97%
+ 352  OTU_51       48.55%    passed     27.20%
+ 353  OTU_2557     48.55%    passed     27.60%
+ 354  OTU_140      48.55%    passed     17.07%
+ 355  OTU_461      48.55%    passed     98.02%
+ 356  OTU_398      48.55%    passed     95.22%
+ 357  OTU_11764    48.55%    passed     98.05%
+ 358  OTU_3177     48.55%    passed     32.38%
+ 359  OTU_678      48.55%    passed     31.93%
+ 360  OTU_22623    48.55%    passed     40.02%
+ 361  OTU_95       48.55%    passed     65.30%
+ 362  OTU_30       48.55%    passed     52.09%
+ 363  OTU_442      48.55%    passed     43.62%
+ 364  OTU_862      48.55%    passed     45.84%
+ 365  OTU_119      48.55%    passed     49.81%
+ 366  OTU_293      48.55%    passed     35.00%
+ 367  OTU_2598     48.55%    passed     33.04%
+ 368  OTU_501      48.39%    passed     51.77%
+ 369  OTU_1036     48.55%    passed     41.10%
+ 370  OTU_6838     48.55%    passed     48.15%
+ 371  OTU_777      48.55%    passed     65.38%
+ 372  OTU_914      48.55%    passed     55.00%
+ 373  OTU_1435     48.55%    passed     65.38%
+ 374  OTU_7787     48.55%    passed     70.46%
+ 375  OTU_2633     48.55%    passed     71.60%
+ 376  OTU_3040     48.55%    passed     86.11%
+ 377  OTU_3507     48.55%    passed     84.44%
+ 378  OTU_6569     48.39%    passed     62.56%
+ 379  OTU_4969     48.55%    passed     63.03%
+ 380  OTU_1776     48.55%    passed     76.48%
+ 381  OTU_893      48.55%    passed     84.44%
+ 382  OTU_1457     48.39%    passed     61.30%
+ 383  OTU_14       48.55%    passed     61.27%
+ 384  OTU_3310     48.55%    passed     70.19%
+ 385  OTU_5498     48.55%    passed     56.63%
+ 386  OTU_58383    49.84%    passed     83.06%
+ 387  OTU_1890     48.55%    passed     69.76%
+ 388  OTU_116      48.55%    passed     90.60%
+ 389  OTU_160      48.55%    passed     99.52%
+ 390  OTU_1305     48.55%    passed     84.48%
+ 391  OTU_326      48.55%    passed     94.34%
+ 392  OTU_1673     48.55%    passed     94.58%
+ 393  OTU_58       48.06%    passed     57.03%
+ 394  OTU_1395     48.55%    passed      7.69%
+ 395  OTU_1547     48.55%    passed      6.08%
+ 396  OTU_317      48.55%    passed     19.55%
+ 397  OTU_928      48.55%    passed     43.61%
+ 398  OTU_167      48.55%    passed      6.44%
+ 399  OTU_427      48.55%    passed     46.29%
+ 400  OTU_431      48.55%    passed     27.09%
+ 401  OTU_180      48.55%    passed     12.45%
+ 402  OTU_314      48.55%    passed     73.88%
+ 403  OTU_5907     48.55%    passed     81.78%
+ 404  OTU_97       48.55%    passed     83.66%
+ 405  OTU_2009     48.55%    passed     30.71%
+ 406  OTU_15991    48.55%    passed     56.61%
+ 407  OTU_1476     48.55%    passed     70.01%
+ 408  OTU_1629     48.55%    passed     44.31%
+ 409  OTU_3883     48.55%    passed     69.86%
+ 410  OTU_6839     48.55%    passed     37.07%
+ 411  OTU_1140     48.55%    passed      8.83%
+ 412  OTU_404      48.55%    passed     69.76%
+ 413  OTU_2447     48.55%    passed     32.00%
+ 414  OTU_3737     48.55%    passed     66.11%
+ 415  OTU_54       48.55%    passed     69.65%
+ 416  OTU_210      48.55%    passed     22.29%
+ 417  OTU_863      48.55%    passed     50.82%
+ 418  OTU_39       48.55%    passed     53.23%
+ 419  OTU_41       48.55%    passed     29.18%
+ 420  OTU_15972    47.90%    passed     88.34%
+ 421  OTU_703      48.55%    passed     58.51%
+ 422  OTU_2392     47.90%    passed     65.52%
+ 423  OTU_1294     48.55%    passed     71.84%
+ 424  OTU_672      48.55%    passed     50.82%
+ 425  OTU_85       48.55%    passed     78.91%
+ 426  OTU_66942    48.55%    passed     66.58%
+ 427  OTU_382      48.39%    passed     53.13%
+ 428  OTU_1450     48.55%    passed     25.06%
+ 429  OTU_71       48.55%    passed     59.83%
+ 430  OTU_820      48.55%    passed     71.94%
+ 431  OTU_1680     48.55%    passed     50.39%
+ 432  OTU_2536     33.87%    passed     47.92%
+ 433  OTU_10633    48.55%    passed     59.38%
+ 434  OTU_1592     48.55%    passed     75.29%
+ 435  OTU_2326     48.55%    passed     47.29%
+ 436  OTU_1597     48.55%    passed     47.18%
+ 437  OTU_9788     48.55%    passed     72.88%
+ 438  OTU_2574     48.55%    passed     55.68%
+ 439  OTU_35827    48.55%    passed     58.65%
+ 440  OTU_130      48.55%    passed     98.01%
+ 441  OTU_4178     48.55%    passed     13.87%
+ 442  OTU_1580     48.55%    passed     39.26%
+ 443  OTU_5596     48.55%    passed     44.82%
+ 444  OTU_3757     48.55%    passed     58.73%
+ 445  OTU_1978     48.55%    passed     67.17%
+ 446  OTU_2287     48.55%    passed     78.65%
+ 447  OTU_5234     48.55%    passed     57.53%
+ 448  OTU_2855     48.55%    passed     43.64%
+ 449  OTU_143      48.55%    passed     42.93%
+ 450  OTU_6182     48.55%    passed     52.82%
+ 451  OTU_131      48.55%    passed     66.28%
+ 452  OTU_28       48.55%    passed     62.04%
+ 453  OTU_215      48.55%    passed     59.20%
+ 454  OTU_3615     48.55%    passed     13.66%
+ 455  OTU_325      48.55%    passed     12.29%
+ 456  OTU_7462     48.55%    failed      2.50%
+ 457  OTU_253      48.55%    passed     25.73%
+ 458  OTU_833      48.55%    passed     13.18%
+ 459  OTU_1229     48.55%    passed     38.56%
+ 460  OTU_158      48.55%    passed     12.19%
+ 461  OTU_463      48.55%    passed     10.88%
+ 462  OTU_50       48.55%    passed     50.32%
+ 463  OTU_226      48.55%    passed     97.43%
+ 464  OTU_757      48.55%    passed     51.49%
+ 465  OTU_520      48.55%    passed     56.83%
+ 466  OTU_3373     48.55%    passed     38.40%
+ 467  OTU_66       48.55%    passed     55.76%
+ 468  OTU_3368     48.71%    passed     39.72%
+ 469  OTU_90       48.55%    passed     55.83%
+ 470  OTU_526      37.58%    passed     29.56%
+ 471  OTU_551      48.55%    passed     84.43%
+ 472  OTU_1016     48.55%    passed     15.94%
+ 473  OTU_1528     48.55%    passed     23.43%
+ 474  OTU_2443     43.39%    passed     39.03%
+ 475  OTU_12148    48.55%    passed     25.16%
+ 476  OTU_5355     48.55%    passed     37.84%
+ 477  OTU_9095     48.55%    passed     23.61%
+ 478  OTU_453      48.55%    passed     13.35%
+ 479  OTU_1074     48.55%    passed     21.26%
+ 480  OTU_61576    48.55%    passed     28.31%
+ 481  OTU_2409     48.55%    passed     38.72%
+ 482  OTU_1146     48.55%    passed     59.38%
+ 483  OTU_2482     48.55%    passed     67.67%
+ 484  OTU_12655    48.55%    passed     49.79%
+ 485  OTU_24173    48.55%    passed     82.85%
+ 486  OTU_1902     48.55%    passed     71.29%
+ 487  OTU_5532     48.55%    passed     54.09%
+ 488  OTU_392      43.23%    passed     65.11%
+ 489  OTU_22       48.55%    passed     52.21%
+ 490  OTU_896      33.55%    passed     73.88%
+ 491  OTU_209      48.55%    passed     62.61%
+ 492  OTU_796      48.55%    passed     22.90%
+ 493  OTU_604      48.55%    passed     68.04%
+ 494  OTU_4300     48.55%    passed     15.49%
+ 495  OTU_196      48.55%    passed     17.11%
+ 496  OTU_310      48.55%    passed     94.34%
+ 497  OTU_283      48.55%    passed     51.91%
+ 498  OTU_460      48.55%    passed     52.54%
+ 499  OTU_386      48.55%    passed     26.51%
+ 500  OTU_1325     48.55%    passed     16.66%
+ 501  OTU_265      48.55%    passed     29.19%
+ 502  OTU_1200     48.55%    passed     40.83%
+ 503  OTU_312      48.55%    passed     39.01%
+ 504  OTU_16296    48.55%    passed     22.95%
+ 505  OTU_2424     48.55%    passed     14.32%
+ 506  OTU_1309     48.55%    passed     29.32%
+ 507  OTU_4986     48.55%    passed     30.64%
+ 508  OTU_38       48.55%    passed     23.04%
+WARNING: 2 sequences contain more than 50% gaps/ambiguity
+****  TOTAL        48.37%  128 sequences failed composition chi2 test (p-value<5%; df=3)
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.104 seconds
+Generating 1000 samples for ultrafast bootstrap (seed: 13)...
+
+NOTE: 46 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 16 CPU cores
+Increase to 10 rounds for branch lengths
+22 trees examined
+Threads: 1 / Time: 16.315 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -74935
+Threads: 2 / Time: 16.011 sec / Speedup: 1.019 / Efficiency: 51% / LogL: -74935
+Threads: 3 / Time: 13.580 sec / Speedup: 1.201 / Efficiency: 40% / LogL: -74935
+BEST NUMBER OF THREADS: 1
+
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -32389.204
+2. Current log-likelihood: -30127.274
+3. Current log-likelihood: -30101.894
+4. Current log-likelihood: -30089.365
+5. Current log-likelihood: -30087.010
+6. Current log-likelihood: -30086.775
+Optimal log-likelihood: -30086.687
+Rate parameters:  A-C: 0.80564  A-G: 1.91015  A-T: 0.80564  C-G: 1.00000  C-T: 2.86219  G-T: 1.00000
+Base frequencies:  A: 0.207  C: 0.283  G: 0.312  T: 0.198
+Site proportion and rates:  (0.345,0.096) (0.091,0.290) (0.105,0.598) (0.196,1.153) (0.151,1.912) (0.112,3.238)
+Parameters optimization took 6 rounds (17.024 sec)
+Computing ML distances based on estimated model parameters... 4.406 sec
+Computing BIONJ tree...
+0.584 seconds
+Log-likelihood of BIONJ tree: -30742.996
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 19.721 second
+Computing log-likelihood of 98 initial trees ... 30.064 seconds
+Current best score: -30046.283
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -29908.644
+Iteration 10 / LogL: -29974.663 / Time: 0h:4m:59s
+Iteration 20 / LogL: -29978.838 / Time: 0h:7m:29s
+Finish initializing candidate tree set (20)
+Current best tree score: -29908.644 / CPU time: 377.483
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 28: -29901.721
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 30: -29874.907
+Iteration 30 / LogL: -29874.907 / Time: 0h:9m:21s (0h:32m:16s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 32: -29871.921
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 34: -29856.270
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 35: -29847.084
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 40: -29843.110
+Iteration 40 / LogL: -29843.110 / Time: 0h:11m:46s (0h:30m:10s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 43: -29841.871
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 47: -29826.799
+Iteration 50 / LogL: -29858.481 / Time: 0h:13m:42s (0h:27m:7s left)
+Log-likelihood cutoff on original alignment: -30001.361
+Iteration 60 / LogL: -29841.937 / Time: 0h:15m:33s (0h:22m:55s left)
+Iteration 70 / LogL: -29846.965 / Time: 0h:17m:9s (0h:19m:8s left)
+Iteration 80 / LogL: -29843.337 / Time: 0h:18m:45s (0h:15m:54s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 81: -29819.147
+Iteration 90 / LogL: -29876.528 / Time: 0h:20m:28s (0h:20m:56s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 100: -29804.807
+Iteration 100 / LogL: -29804.807 / Time: 0h:22m:9s (0h:22m:22s left)
+Log-likelihood cutoff on original alignment: -29997.902
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.957
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 101: -29798.849
+Iteration 110 / LogL: -29830.172 / Time: 0h:23m:57s (0h:20m:0s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 114: -29792.790
+Iteration 120 / LogL: -29833.280 / Time: 0h:25m:44s (0h:20m:19s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 122: -29790.403
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 126: -29789.002
+Iteration 130 / LogL: -29797.800 / Time: 0h:27m:34s (0h:20m:31s left)
+Iteration 140 / LogL: -29819.436 / Time: 0h:29m:15s (0h:18m:6s left)
+Iteration 150 / LogL: -29795.233 / Time: 0h:30m:56s (0h:15m:46s left)
+Log-likelihood cutoff on original alignment: -29991.238
+Iteration 160 / LogL: -29816.062 / Time: 0h:32m:42s (0h:13m:34s left)
+Iteration 170 / LogL: -29813.656 / Time: 0h:34m:21s (0h:11m:23s left)
+Iteration 180 / LogL: -29798.637 / Time: 0h:36m:7s (0h:9m:17s left)
+Iteration 190 / LogL: -29898.165 / Time: 0h:37m:43s (0h:7m:11s left)
+Iteration 200 / LogL: -29841.708 / Time: 0h:39m:15s (0h:5m:7s left)
+Log-likelihood cutoff on original alignment: -29991.238
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.950
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 210 / LogL: -29804.151 / Time: 0h:40m:58s (0h:17m:38s left)
+Iteration 220 / LogL: -29824.174 / Time: 0h:42m:39s (0h:15m:34s left)
+Iteration 230 / LogL: -29891.758 / Time: 0h:44m:20s (0h:13m:33s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 237: -29785.226
+Iteration 240 / LogL: -29812.983 / Time: 0h:45m:56s (0h:18m:38s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 248: -29784.372
+Iteration 250 / LogL: -29857.944 / Time: 0h:47m:42s (0h:18m:46s left)
+Log-likelihood cutoff on original alignment: -29989.948
+Iteration 260 / LogL: -29797.112 / Time: 0h:49m:28s (0h:16m:48s left)
+Iteration 270 / LogL: -29807.621 / Time: 0h:51m:10s (0h:14m:50s left)
+Iteration 280 / LogL: -29797.494 / Time: 0h:52m:53s (0h:12m:53s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 290: -29784.129
+Iteration 290 / LogL: -29784.129 / Time: 0h:54m:34s (0h:18m:53s left)
+Iteration 300 / LogL: -29802.350 / Time: 0h:56m:18s (0h:16m:56s left)
+Log-likelihood cutoff on original alignment: -29989.948
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.991
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 303: -29782.257
+Iteration 310 / LogL: -29792.592 / Time: 0h:58m:7s (0h:17m:29s left)
+Iteration 320 / LogL: -29822.193 / Time: 1h:0m:1s (0h:15m:37s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 326: -29779.510
+Iteration 330 / LogL: -29842.665 / Time: 1h:1m:57s (0h:18m:4s left)
+Iteration 340 / LogL: -29811.327 / Time: 1h:3m:39s (0h:16m:8s left)
+Iteration 350 / LogL: -29820.692 / Time: 1h:5m:19s (0h:14m:13s left)
+Log-likelihood cutoff on original alignment: -29989.948
+Iteration 360 / LogL: -29798.289 / Time: 1h:7m:6s (0h:12m:20s left)
+Iteration 370 / LogL: -29904.981 / Time: 1h:8m:47s (0h:10m:26s left)
+Iteration 380 / LogL: -29781.929 / Time: 1h:10m:33s (0h:8m:33s left)
+Iteration 390 / LogL: -29785.615 / Time: 1h:12m:19s (0h:6m:41s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 392: -29777.601
+Iteration 400 / LogL: -29785.112 / Time: 1h:14m:10s (0h:17m:6s left)
+Log-likelihood cutoff on original alignment: -29985.822
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.985
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 410 / LogL: -29781.907 / Time: 1h:15m:48s (0h:16m:40s left)
+Iteration 420 / LogL: -29783.049 / Time: 1h:17m:34s (0h:14m:48s left)
+Iteration 430 / LogL: -29789.374 / Time: 1h:19m:13s (0h:12m:55s left)
+Iteration 440 / LogL: -29800.997 / Time: 1h:20m:57s (0h:11m:3s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 446: -29775.753
+Iteration 450 / LogL: -29844.739 / Time: 1h:22m:44s (0h:17m:41s left)
+Log-likelihood cutoff on original alignment: -29985.822
+Iteration 460 / LogL: -29801.577 / Time: 1h:24m:33s (0h:15m:50s left)
+Iteration 470 / LogL: -29821.022 / Time: 1h:26m:18s (0h:13m:59s left)
+Iteration 480 / LogL: -29822.136 / Time: 1h:27m:55s (0h:12m:6s left)
+Iteration 490 / LogL: -29806.052 / Time: 1h:29m:32s (0h:10m:15s left)
+Iteration 500 / LogL: -29797.690 / Time: 1h:31m:18s (0h:8m:25s left)
+Log-likelihood cutoff on original alignment: -29985.822
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.984
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 510 / LogL: -29799.147 / Time: 1h:33m:3s (0h:16m:27s left)
+Iteration 520 / LogL: -29787.106 / Time: 1h:34m:38s (0h:14m:35s left)
+Iteration 530 / LogL: -29781.561 / Time: 1h:36m:24s (0h:12m:45s left)
+Iteration 540 / LogL: -29813.242 / Time: 1h:37m:59s (0h:10m:54s left)
+Iteration 550 / LogL: -29804.882 / Time: 1h:39m:39s (0h:9m:4s left)
+Log-likelihood cutoff on original alignment: -29985.822
+Iteration 560 / LogL: -29779.856 / Time: 1h:41m:25s (0h:7m:15s left)
+Iteration 570 / LogL: -29818.417 / Time: 1h:43m:11s (0h:5m:26s left)
+Iteration 580 / LogL: -29787.528 / Time: 1h:44m:50s (0h:3m:37s left)
+Iteration 590 / LogL: -29830.248 / Time: 1h:46m:33s (0h:1m:48s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 597: -29770.674
+Iteration 600 / LogL: -29839.481 / Time: 1h:48m:9s (0h:17m:30s left)
+Log-likelihood cutoff on original alignment: -29985.822
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.980
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 610 / LogL: -29782.299 / Time: 1h:49m:53s (0h:16m:14s left)
+Iteration 620 / LogL: -29791.967 / Time: 1h:51m:28s (0h:14m:24s left)
+Iteration 630 / LogL: -29784.499 / Time: 1h:52m:57s (0h:12m:34s left)
+Iteration 640 / LogL: -29780.045 / Time: 1h:54m:40s (0h:10m:46s left)
+Iteration 650 / LogL: -29782.634 / Time: 1h:56m:21s (0h:8m:57s left)
+Log-likelihood cutoff on original alignment: -29985.822
+Iteration 660 / LogL: -29802.114 / Time: 1h:58m:2s (0h:7m:9s left)
+Iteration 670 / LogL: -29813.955 / Time: 1h:59m:42s (0h:5m:22s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 675: -29770.500
+Iteration 680 / LogL: -29777.920 / Time: 2h:1m:21s (0h:16m:58s left)
+Iteration 690 / LogL: -29809.909 / Time: 2h:2m:57s (0h:15m:10s left)
+Iteration 700 / LogL: -29794.019 / Time: 2h:4m:30s (0h:13m:21s left)
+Log-likelihood cutoff on original alignment: -29985.822
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.985
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 710 / LogL: -29830.376 / Time: 2h:6m:10s (0h:16m:0s left)
+Iteration 720 / LogL: -29789.793 / Time: 2h:7m:52s (0h:14m:13s left)
+Iteration 730 / LogL: -29901.355 / Time: 2h:9m:23s (0h:12m:25s left)
+Iteration 740 / LogL: -29834.819 / Time: 2h:11m:1s (0h:10m:38s left)
+Iteration 750 / LogL: -29797.731 / Time: 2h:12m:35s (0h:8m:51s left)
+Log-likelihood cutoff on original alignment: -29985.822
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 755: -29769.934
+Iteration 760 / LogL: -29778.386 / Time: 2h:14m:21s (0h:16m:49s left)
+Iteration 770 / LogL: -29800.451 / Time: 2h:15m:52s (0h:15m:1s left)
+Iteration 780 / LogL: -29782.304 / Time: 2h:17m:20s (0h:13m:13s left)
+Iteration 790 / LogL: -29775.814 / Time: 2h:18m:51s (0h:11m:26s left)
+Iteration 800 / LogL: -29791.589 / Time: 2h:20m:12s (0h:9m:39s left)
+Log-likelihood cutoff on original alignment: -29985.822
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.988
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 810 / LogL: -29841.156 / Time: 2h:21m:30s (0h:15m:44s left)
+Iteration 820 / LogL: -29793.850 / Time: 2h:22m:45s (0h:13m:56s left)
+Iteration 830 / LogL: -29881.387 / Time: 2h:24m:8s (0h:12m:10s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 839: -29769.309
+Iteration 840 / LogL: -29809.378 / Time: 2h:25m:34s (0h:17m:10s left)
+Iteration 850 / LogL: -29788.592 / Time: 2h:26m:51s (0h:15m:23s left)
+Log-likelihood cutoff on original alignment: -29985.822
+Iteration 860 / LogL: -29857.039 / Time: 2h:28m:16s (0h:13m:38s left)
+Iteration 870 / LogL: -29795.010 / Time: 2h:29m:35s (0h:11m:52s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 876: -29768.629
+Iteration 880 / LogL: -29807.098 / Time: 2h:31m:1s (0h:16m:29s left)
+Iteration 890 / LogL: -29818.714 / Time: 2h:32m:12s (0h:14m:43s left)
+Iteration 900 / LogL: -29796.076 / Time: 2h:33m:21s (0h:12m:57s left)
+Log-likelihood cutoff on original alignment: -29985.822
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.991
+Iteration 910 / LogL: -29774.849 / Time: 2h:34m:23s (0h:15m:17s left)
+Iteration 920 / LogL: -29804.092 / Time: 2h:35m:26s (0h:13m:31s left)
+Iteration 930 / LogL: -29795.127 / Time: 2h:36m:22s (0h:11m:46s left)
+Iteration 940 / LogL: -29781.419 / Time: 2h:37m:13s (0h:10m:2s left)
+Iteration 950 / LogL: -29807.007 / Time: 2h:38m:6s (0h:8m:19s left)
+Log-likelihood cutoff on original alignment: -29985.822
+Iteration 960 / LogL: -29780.379 / Time: 2h:38m:57s (0h:6m:37s left)
+Iteration 970 / LogL: -29791.723 / Time: 2h:39m:47s (0h:4m:56s left)
+TREE SEARCH COMPLETED AFTER 977 ITERATIONS / Time: 2h:40m:22s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -29768.629
+Optimal log-likelihood: -29768.616
+Rate parameters:  A-C: 0.80077  A-G: 1.95600  A-T: 0.80077  C-G: 1.00000  C-T: 2.99513  G-T: 1.00000
+Base frequencies:  A: 0.207  C: 0.283  G: 0.312  T: 0.198
+Site proportion and rates:  (0.350,0.095) (0.110,0.319) (0.100,0.671) (0.175,1.193) (0.191,2.050) (0.074,3.588)
+Parameters optimization took 1 rounds (1.242 sec)
+BEST SCORE FOUND : -29768.616
+
+Testing tree branches by SH-like aLRT with 1000 replicates...
+8.709 sec.
+Creating bootstrap support values...
+Split supports printed to NEXUS file iqtree_time_13/select_OTU_moss_2.splits.nex
+Total tree length: 29.352
+
+Total number of iterations: 977
+CPU time used for tree search: 9641.750 sec (2h:40m:41s)
+Wall-clock time used for tree search: 9549.801 sec (2h:39m:9s)
+Total CPU time used: 9703.438 sec (2h:41m:43s)
+Total wall-clock time used: 9634.372 sec (2h:40m:34s)
+
+Computing bootstrap consensus tree...
+Reading input file iqtree_time_13/select_OTU_moss_2.splits.nex...
+508 taxa and 5018 splits.
+Consensus tree written to iqtree_time_13/select_OTU_moss_2.contree
+Reading input trees file iqtree_time_13/select_OTU_moss_2.contree
+Log-likelihood of consensus tree: -29773.387
+
+Analysis results written to: 
+  IQ-TREE report:                iqtree_time_13/select_OTU_moss_2.iqtree
+  Maximum-likelihood tree:       iqtree_time_13/select_OTU_moss_2.treefile
+  Likelihood distances:          iqtree_time_13/select_OTU_moss_2.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          iqtree_time_13/select_OTU_moss_2.splits.nex
+  Consensus tree:                iqtree_time_13/select_OTU_moss_2.contree
+  Screen log file:               iqtree_time_13/select_OTU_moss_2.log
+
+Date and Time: Sun Oct 12 04:18:10 2025

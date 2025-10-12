@@ -1,510 +1,510 @@
-"","OTUID","Warming","Control","delta.eaf","Kingdom","Phylum","Class","Order","Family","Genus","Species"
-"1","OTU_1",0.375292498028907,0,0.375292498028907,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"2","OTU_10",0.393345972594159,0.174251359179464,0.219094613414695,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Calotrichaceae","Calothrix","Calothrix sp. NIES-2100"
-"3","OTU_10098",0.494933039186639,0,0.494933039186639,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"4","OTU_101",0.258555755298878,0,0.258555755298878,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"5","OTU_10142",0.437021738444775,0,0.437021738444775,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"6","OTU_102",0.276802722116006,0,0.276802722116006,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Tolypothrichaceae","Tolypothrix","Tolypothrix tenuis"
-"7","OTU_1036",0.204363734936105,0,0.204363734936105,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","unknown Bradyrhizobium"
-"8","OTU_10372",0,0.16118002000173,-0.16118002000173,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"9","OTU_1046",0.0910206320108157,0,0.0910206320108157,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Paraburkholderia","Paraburkholderia fungorum"
-"10","OTU_1047",0.636220684212228,0.181921455984976,0.454299228227252,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Halotia","Halotia wernerae"
-"11","OTU_10566",0.35597169925362,0,0.35597169925362,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Agrobacterium","Agrobacterium tumefaciens complex"
-"12","OTU_10633",0.354896444902257,0,0.354896444902257,"Bacteria","Proteobacteria","Acidithiobacillia","Acidithiobacillales","Acidithiobacillaceae","Acidithiobacillus","Acidithiobacillus ferrooxidans"
-"13","OTU_1066",0.199303496919658,0,0.199303496919658,"Bacteria","Proteobacteria","Alphaproteobacteria","Micropepsales","Micropepsaceae","Rhizomicrobium","Rhizomicrobium electricum"
-"14","OTU_1069",0,0.345825755362403,-0.345825755362403,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Tolypothrichaceae","Tolypothrix","Tolypothrix sp. NIES-4075"
-"15","OTU_107",0.520072720227,0.151284197812508,0.368788522414492,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"16","OTU_10707",0.380763509452477,0,0.380763509452477,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"17","OTU_1074",0.305866662205336,0.147372536138656,0.15849412606668,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Phyllobacteriaceae","Mesorhizobium","Mesorhizobium sp."
-"18","OTU_10806",0.167934985393142,0,0.167934985393142,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Agrobacterium","Agrobacterium tumefaciens complex"
-"19","OTU_109",0.260711771824207,0,0.260711771824207,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"20","OTU_11",0.227253750045296,0,0.227253750045296,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"21","OTU_110784",0.364273730401155,0,0.364273730401155,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Rhodobacter","Rhodobacter capsulatus"
-"22","OTU_1119",0.539757450552197,0.149311326569283,0.390446123982914,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","Nostoc sp. UAM 362"
-"23","OTU_1127",0.721173283064672,0,0.721173283064672,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"24","OTU_1136",0.194888755679868,0,0.194888755679868,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Phyllobacteriaceae","Mesorhizobium","Mesorhizobium waimense"
-"25","OTU_11362",0,0.191017460537821,-0.191017460537821,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"26","OTU_114",0.502745970271788,0,0.502745970271788,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"27","OTU_1140",0.450568486113247,0,0.450568486113247,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Scytonemataceae","Brasilonema","Brasilonema sp. CENA360"
-"28","OTU_1141",0.285764318255417,0.108192253905693,0.177572064349724,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Azospirillaceae","Azospirillum","Azospirillum brasilense"
-"29","OTU_1146",0.248631899750536,0,0.248631899750536,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Scytonemataceae","Scytonema","Scytonema sp. LEGE 07189"
-"30","OTU_1150",0.403178456445406,0.179637574665891,0.223540881779515,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"31","OTU_1152",0.182944125252917,0,0.182944125252917,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"32","OTU_116",0.22404132499767,0,0.22404132499767,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Rhodoplanes","Rhodoplanes roseus"
-"33","OTU_1178",0.251080356640267,0,0.251080356640267,"Bacteria","Proteobacteria","Deltaproteobacteria","Desulfuromonadales","Geobacteraceae","Geobacter","Geobacter sulfurreducens"
-"34","OTU_1179",0.31842845192667,0,0.31842845192667,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"35","OTU_118",0.273752806924774,0.127650866623655,0.146101940301119,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Rhodospirillaceae","Defluviicoccus","Defluviicoccus vanus"
-"36","OTU_1188",0.36524452333914,0,0.36524452333914,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"37","OTU_119",0.368462291367814,0.177411944692401,0.191050346675413,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"38","OTU_12",0.472667630056999,0,0.472667630056999,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"39","OTU_1200",0.275942100732681,0,0.275942100732681,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Oxalobacteraceae","Oxalobacter","Oxalobacter sp."
-"40","OTU_120707",0.337455359667215,0,0.337455359667215,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Burkholderia","Burkholderia sp. RAU2d"
-"41","OTU_1209",0.415385104042219,0,0.415385104042219,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"42","OTU_121",0.595005806997636,0,0.595005806997636,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"43","OTU_1229",0.355273743840916,0,0.355273743840916,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","Hydrogenophaga sp. T4"
-"44","OTU_123",0.191948311384324,0,0.191948311384324,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Hyphomicrobium","Hyphomicrobium sp."
-"45","OTU_1231",0.477960373560998,0,0.477960373560998,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Calotrichaceae","Calothrix","Calothrix sp. NIES-2098"
-"46","OTU_124205",0.241207744766305,0,0.241207744766305,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Oscillatoriales","unknown Oscillatoriales","Microseira","Microseira wollei"
-"47","OTU_126",0.215216947970806,0,0.215216947970806,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Rhodobacter","Rhodobacter capsulatus"
-"48","OTU_12608",0.209631922515425,0,0.209631922515425,"Bacteria","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas","unknown Sphingomonas"
-"49","OTU_12655",0.227039885587947,0,0.227039885587947,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Scytonemataceae","Scytonema","Scytonema sp. LEGE 07189"
-"50","OTU_1268",0.394708462313985,0.112965756146634,0.281742706167352,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Wollea","Wollea ambigua"
-"51","OTU_129",0.318709842389819,0,0.318709842389819,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Leptolyngbyaceae","Leptolyngbya","Leptolyngbya sp. CCY15150"
-"52","OTU_1294",0.332626044243548,0.224184115605139,0.108441928638409,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Oscillatoriales","unknown Oscillatoriales","Microseira","Microseira wollei"
-"53","OTU_130",0.341668288055627,0,0.341668288055627,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Rhodoplanes","Rhodoplanes roseus"
-"54","OTU_1304",0.376466088799629,0.22836872896364,0.148097359835989,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","Nostoc sp. UAM 362"
-"55","OTU_1305",0.276442444803875,0,0.276442444803875,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Rhodoplanes","Rhodoplanes roseus"
-"56","OTU_1309",0.282413297338218,0,0.282413297338218,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","Hydrogenophaga sp. T4"
-"57","OTU_131",0.212870588668376,0,0.212870588668376,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Rhodoplanes","Rhodoplanes roseus"
-"58","OTU_1313",0.468462655226064,0.191049494290733,0.277413160935331,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Halotia","Halotia wernerae"
-"59","OTU_1324",0.296893444464779,0,0.296893444464779,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Richelia","Richelia intracellularis"
-"60","OTU_1325",0.246970264243208,0,0.246970264243208,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","Hydrogenophaga sp. T4"
-"61","OTU_1334",0.278888310151662,0.122774338187262,0.156113971964401,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Sinorhizobium","Sinorhizobium fredii group"
-"62","OTU_134",0.371329524811272,0.153092104676703,0.218237420134569,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Rhodobacter","Rhodobacter capsulatus"
-"63","OTU_1352",0.258477785640168,0,0.258477785640168,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Oscillatoriales","unknown Oscillatoriales","Microseira","Microseira wollei"
-"64","OTU_1357",0.160831282475332,0,0.160831282475332,"Bacteria","Proteobacteria","Gammaproteobacteria","Chromatiales","Chromatiaceae","Caldichromatium","Caldichromatium japonicum"
-"65","OTU_136",0.282775354665975,0,0.282775354665975,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Phyllobacteriaceae","Mesorhizobium","Mesorhizobium shangrilense"
-"66","OTU_1386",0.222829958577902,0,0.222829958577902,"Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Bacillus sp. in: Bacteria"
-"67","OTU_1395",0.299645342265657,0.0792795223104266,0.220365819955231,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Sinorhizobium","Sinorhizobium meliloti"
-"68","OTU_14",0.236874676626462,0.110879380078018,0.125995296548445,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"69","OTU_140",0.366018979805188,0,0.366018979805188,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Hyphomicrobium","Hyphomicrobium sp."
-"70","OTU_142",0,0.28760399496607,-0.28760399496607,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Chroococcales","Aphanothecaceae","Gloeothece","Gloeothece tepidariorum"
-"71","OTU_143",0.204514173121275,0,0.204514173121275,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter lovaniensis"
-"72","OTU_1435",0.233047387591029,0,0.233047387591029,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"73","OTU_14353",0.23347939241401,0,0.23347939241401,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Ensifer","Ensifer sp. CHU2"
-"74","OTU_144332",0.369681770888624,0,0.369681770888624,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Rhizobium","Rhizobium sp. HK7"
-"75","OTU_145",0.12426782502158,0,0.12426782502158,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Richelia","Richelia intracellularis"
-"76","OTU_1450",0.187972370097627,0,0.187972370097627,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","Hydrogenophaga sp. T4"
-"77","OTU_1457",0.118746165475985,0,0.118746165475985,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Phyllobacteriaceae","Mesorhizobium","Mesorhizobium silamurunense"
-"78","OTU_1468",0,0.148717842881701,-0.148717842881701,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Cylindrospermum","Cylindrospermum sp. NIES-4074"
-"79","OTU_147",0,0.365081763145309,-0.365081763145309,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Calotrichaceae","Calothrix","Calothrix sp. PCC 7507"
-"80","OTU_1476",0.238133021083587,0,0.238133021083587,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Rhodobacter","Rhodobacter capsulatus"
-"81","OTU_148",0.442490297319488,0,0.442490297319488,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"82","OTU_1499",0.387430900547918,0,0.387430900547918,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Neorhizobium","Neorhizobium galegae"
-"83","OTU_15",0.430389474867457,0.28109269399609,0.149296780871366,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"84","OTU_151",0.270414855252949,0.16371773485354,0.106697120399409,"Bacteria","Planctomycetes","Planctomycetia","Isosphaerales","Isosphaeraceae","Aquisphaera","Aquisphaera sp. JC669"
-"85","OTU_1512",0.172838760806603,0,0.172838760806603,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Paraburkholderia","Paraburkholderia fungorum"
-"86","OTU_1528",0.191871437903009,0,0.191871437903009,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Rhodomicrobium","Rhodomicrobium lacus"
-"87","OTU_1547",0.264681025422624,0,0.264681025422624,"Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Rhodocyclaceae","Aromatoleum","Aromatoleum toluvorans"
-"88","OTU_155",0.223326506461262,0,0.223326506461262,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"89","OTU_1558",0.478146974824589,0,0.478146974824589,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"90","OTU_156",0.258597559298436,0.28047853786979,-0.0218809785713538,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Methylobacteriaceae","Methylobacterium","Methylobacterium nodulans"
-"91","OTU_1576",0.484423985469891,0.190912113268963,0.293511872200927,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"92","OTU_158",0.247362765534588,0,0.247362765534588,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Sinorhizobium","Sinorhizobium meliloti"
-"93","OTU_1580",0.167900623515453,0,0.167900623515453,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Rhodoplanes","Rhodoplanes roseus"
-"94","OTU_1592",0.249289969563822,0,0.249289969563822,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp. CCBAU 23010"
-"95","OTU_1597",0.235237951840814,0,0.235237951840814,"Bacteria","Verrucomicrobia","unknown Verrucomicrobia","unknown Verrucomicrobia","unknown Verrucomicrobia","unknown Verrucomicrobia","unknown Verrucomicrobia"
-"96","OTU_15991",0.152045954277912,0,0.152045954277912,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","Hydrogenophaga sp. T4"
-"97","OTU_16",0,0.229272398493658,-0.229272398493658,"Bacteria","Proteobacteria","Gammaproteobacteria","Pseudomonadales","Pseudomonadaceae","Pseudomonas","Pseudomonas sagittaria"
-"98","OTU_160",0.278183634832653,0,0.278183634832653,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Rhodoplanes","Rhodoplanes roseus"
-"99","OTU_1629",0.178643864972994,0,0.178643864972994,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","Hydrogenophaga sp. T4"
-"100","OTU_16296",0.241507845270122,0,0.241507845270122,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp."
-"101","OTU_1650",0,0.170804584393288,-0.170804584393288,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Compactonostoc","Compactonostoc shennongjiaense"
-"102","OTU_1656",0.285979529153123,0,0.285979529153123,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Phyllobacteriaceae","Mesorhizobium","Mesorhizobium metallidurans"
-"103","OTU_1665",0.213836699280961,0,0.213836699280961,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"104","OTU_167",0.16889533324246,0,0.16889533324246,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Rhodoplanes","Rhodoplanes roseus"
-"105","OTU_1672",0.158924341498189,0,0.158924341498189,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Agrobacterium","Agrobacterium tumefaciens complex"
-"106","OTU_1673",0.199135539672121,0,0.199135539672121,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Rhodoplanes","Rhodoplanes roseus"
-"107","OTU_1680",0.276448172913914,0,0.276448172913914,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium canariense"
-"108","OTU_1684",0.355751782480778,0.18408231737439,0.171669465106388,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp."
-"109","OTU_1685",0.185336466955332,0,0.185336466955332,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Methyloceanibacter","Methyloceanibacter methanicus"
-"110","OTU_1699",0.348699671821894,0,0.348699671821894,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Rhodospirillaceae","Magnetospirillum","Magnetospirillum sp."
-"111","OTU_17",0.328971715403114,0,0.328971715403114,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Oscillatoriales","Oscillatoriaceae","Limnoraphis","Limnoraphis robusta"
-"112","OTU_17069",0.306068153911796,0,0.306068153911796,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Sinorhizobium","Sinorhizobium sp. SCAU218"
-"113","OTU_1711",0.522512356127557,0,0.522512356127557,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Scytonemataceae","Scytonema","Scytonema sp. NIES-4073"
-"114","OTU_1750",0.461185072983969,0,0.461185072983969,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"115","OTU_177",0.259912961903125,0,0.259912961903125,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Xanthobacteraceae","Xanthobacter","Xanthobacter autotrophicus"
-"116","OTU_1776",0.223897757111186,0,0.223897757111186,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"117","OTU_178",0.203703166795767,0.175801398142749,0.0279017686530181,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Azospirillaceae","Azospirillum","Azospirillum zeae"
-"118","OTU_17939",0.322732505741818,0.209415436318664,0.113317069423153,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Ensifer","Ensifer sp."
-"119","OTU_180",0.305485562644687,0,0.305485562644687,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Azospirillaceae","Azospirillum","Azospirillum zeae"
-"120","OTU_1808",0.401045879768713,0.234226769163176,0.166819110605537,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"121","OTU_181",0.449875246367384,0.187044510355704,0.26283073601168,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Beijerinckiaceae","Methylocapsa","Methylocapsa aurea"
-"122","OTU_1811",0,0.152894473638703,-0.152894473638703,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Halotia","Halotia wernerae"
-"123","OTU_182",0.29200101106466,0.124760812594593,0.167240198470066,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Ensifer","Ensifer sp. CHU2"
-"124","OTU_1840",0,0.162082825236793,-0.162082825236793,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","Nostoc sp. UAM 362"
-"125","OTU_18630",0,0.155243539168267,-0.155243539168267,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"126","OTU_1865",0.510697369235703,0,0.510697369235703,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","Nostoc sp. UAM 362"
-"127","OTU_187",0.54274669914482,0,0.54274669914482,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"128","OTU_1889",0.313467366773758,0,0.313467366773758,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Oscillatoriales","unknown Oscillatoriales","Microseira","Microseira wollei"
-"129","OTU_1890",0.177369201915289,0,0.177369201915289,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"130","OTU_1902",0.247449395577875,0,0.247449395577875,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium elkanii"
-"131","OTU_19030",0.261039047497738,0,0.261039047497738,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"132","OTU_1914",0.12856114216266,0,0.12856114216266,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Oscillatoriales","unknown Oscillatoriales","Microseira","Microseira wollei"
-"133","OTU_19163",0.328665608384773,0,0.328665608384773,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Rhodospirillaceae","Defluviicoccus","Defluviicoccus sp."
-"134","OTU_1922",0.329511699035073,0,0.329511699035073,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"135","OTU_193",0.252337597096985,0.10150801314831,0.150829583948675,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Richelia","Richelia intracellularis"
-"136","OTU_196",0.235624528409562,0,0.235624528409562,"Bacteria","Proteobacteria","Gammaproteobacteria","Chromatiales","Thioalkalispiraceae","Thioalkalispira","Thioalkalispira microaerophila"
-"137","OTU_1967",0.222163948574984,0.0683837989770368,0.153780149597947,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Scytonemataceae","Brasilonema","Brasilonema sp. CENA360"
-"138","OTU_1978",0.25449648035263,0,0.25449648035263,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Rhodoplanes","Rhodoplanes roseus"
-"139","OTU_198",0.274685370614425,0.130424523022916,0.14426084759151,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Mangrovicoccus","Mangrovicoccus sp. HB161399"
-"140","OTU_199",0.252534014836976,0,0.252534014836976,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium japonicum"
-"141","OTU_1991",0.326250149998508,0,0.326250149998508,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"142","OTU_2",0.408440754091645,0,0.408440754091645,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"143","OTU_20",0.274853565171514,0,0.274853565171514,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Aurantimonadaceae","Consotaella","Consotaella salsifontis"
-"144","OTU_2002",0.235309123197388,0,0.235309123197388,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Rhodospirillaceae","Magnetospirillum","Magnetospirillum sp."
-"145","OTU_2009",0.350350225646045,0,0.350350225646045,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","Hydrogenophaga sp. T4"
-"146","OTU_201",0.549885502655177,0,0.549885502655177,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Calotrichaceae","Calothrix","Calothrix sp. NIES-2100"
-"147","OTU_2089",0,0.176594429600519,-0.176594429600519,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Halotia","Halotia wernerae"
-"148","OTU_209",0.181901962036802,0,0.181901962036802,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","Hydrogenophaga sp. T4"
-"149","OTU_21",0.254947096259879,0,0.254947096259879,"Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Anaeromyxobacteraceae","Anaeromyxobacter","Anaeromyxobacter sp. Red267"
-"150","OTU_210",0.296359073422912,0,0.296359073422912,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Methylocystaceae","Methylosinus","Methylosinus sp. LW4"
-"151","OTU_21094",0,0.167564396808412,-0.167564396808412,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"152","OTU_21391",0.47642767768217,0.18856435406785,0.28786332361432,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"153","OTU_215",0.270805038496158,0,0.270805038496158,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Rhodoplanes","Rhodoplanes roseus"
-"154","OTU_216",0.200381456513648,0,0.200381456513648,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Beijerinckiaceae","Methylocapsa","Methylocapsa acidiphila"
-"155","OTU_2178",0.253848348432259,0,0.253848348432259,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Rhodovulum","Rhodovulum sp. ES.010"
-"156","OTU_2181",0.497000233019618,0.245185684328363,0.251814548691255,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Calotrichaceae","Calothrix","Calothrix sp. NIES-2100"
-"157","OTU_219",0.275582516785681,0,0.275582516785681,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp. ISA0203"
-"158","OTU_22",0.285530886420998,0.162254400497525,0.123276485923473,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Scytonemataceae","Scytonema","Scytonema sp. LEGE 07189"
-"159","OTU_220",0.459532328071679,0,0.459532328071679,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Chroococcales","Aphanothecaceae","Gloeothece","Gloeothece tepidariorum"
-"160","OTU_2213",0,0.184972960822921,-0.184972960822921,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"161","OTU_2219",0.247985718246574,0,0.247985718246574,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Richelia","Richelia sp. SC01"
-"162","OTU_22209",0.270916297813,0.12284696721195,0.148069330601051,"Bacteria","Proteobacteria","Gammaproteobacteria","Chromatiales","Chromatiaceae","Allochromatium","Allochromatium vinosum"
-"163","OTU_223",0.312197200004736,0.228954660564465,0.0832425394402716,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Agrobacterium","Agrobacterium tumefaciens complex"
-"164","OTU_22324",0.213841796111158,0,0.213841796111158,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Burkholderia","Burkholderia sp. enrichment culture clone CACua-88"
-"165","OTU_224",0.506036005099788,0.144917204637092,0.361118800462696,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","Nostoc sp. UAM 362"
-"166","OTU_2258",0.225037732813954,0,0.225037732813954,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Scytonemataceae","Brasilonema","Brasilonema sp. CENA360"
-"167","OTU_226",0.237589131172435,0,0.237589131172435,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Methylocystaceae","Methylocystis","Methylocystis sp. H15"
-"168","OTU_22623",0.305630538439955,0,0.305630538439955,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"169","OTU_2287",0.333311009156232,0,0.333311009156232,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Rhodoplanes","Rhodoplanes roseus"
-"170","OTU_23",0.536810862460884,0.208358483314245,0.32845237914664,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"171","OTU_2326",10.497545287883,10.0320316354332,0.465513652449847,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Methylocystaceae","Methylosinus","Methylosinus sp. LW3"
-"172","OTU_234",0.17768470441171,0,0.17768470441171,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Ensifer","Ensifer sp."
-"173","OTU_235",0.52967308468858,0.185643393383294,0.344029691305286,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","Nostoc sp. CENA356"
-"174","OTU_2364",0.297264397402921,0,0.297264397402921,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"175","OTU_237",0.244609500137353,0,0.244609500137353,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Rhizobium","Rhizobium leguminosarum"
-"176","OTU_2381",0.456102124569584,0.131074959789792,0.325027164779792,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"177","OTU_2392",0.27656711214144,0,0.27656711214144,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Paraburkholderia","Paraburkholderia sp. HC6.4b"
-"178","OTU_24",0.610583104194747,0,0.610583104194747,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"179","OTU_2409",0.22794567345614,0,0.22794567345614,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Scytonemataceae","Scytonema","Scytonema sp. LEGE 07189"
-"180","OTU_241",0.360446336140275,0.256072750546979,0.104373585593297,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Phyllobacteriaceae","Mesorhizobium","Mesorhizobium waimense"
-"181","OTU_24173",0.241980566429311,0,0.241980566429311,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium elkanii"
-"182","OTU_24235",0.479505683356543,0.129238123180662,0.350267560175881,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"183","OTU_2424",0.249583839125043,0,0.249583839125043,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","Hydrogenophaga sp. T4"
-"184","OTU_2443",0.226790999640418,0,0.226790999640418,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Scytonemataceae","Scytonema","Scytonema sp. LEGE 07189"
-"185","OTU_2447",0.223390632446347,0.112882163399483,0.110508469046864,"Bacteria","Actinobacteria","Actinomycetia","Micrococcales","Micrococcaceae","Arthrobacter","Arthrobacter sp. CCBAU 10866"
-"186","OTU_2451",0.389381204523354,0,0.389381204523354,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"187","OTU_245378",0.14375796904039,0,0.14375796904039,"Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Anaeromyxobacteraceae","Anaeromyxobacter","Anaeromyxobacter sp. Red267"
-"188","OTU_24570",0.255650035534018,0,0.255650035534018,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Oscillatoriales","Oscillatoriaceae","Oscillatoria","Oscillatoria sp. MMG-2"
-"189","OTU_2463",0.223501414838733,0,0.223501414838733,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Synechococcales","Synechococcaceae","Synechococcus","unknown Synechococcus"
-"190","OTU_2465",0.285096999002023,0.130622351764902,0.15447464723712,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Azospirillaceae","Azospirillum","Azospirillum zeae"
-"191","OTU_247",0.226540972717791,0,0.226540972717791,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Ciceribacter","unknown Ciceribacter"
-"192","OTU_2482",0.17395904635944,0,0.17395904635944,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium elkanii"
-"193","OTU_24867",0.18681308439613,0.0748641375097292,0.111948946886401,"Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Bacillus sp. in: Bacteria"
-"194","OTU_249",0.285785378186966,0,0.285785378186966,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Prochlorotrichaceae","Nodosilinea","Nodosilinea nodulosa"
-"195","OTU_25",0.536234212655799,0.290929376098144,0.245304836557655,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"196","OTU_253",0.173196139674837,0,0.173196139674837,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","Hydrogenophaga sp. T4"
-"197","OTU_2536",0.321977002913813,0,0.321977002913813,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Burkholderia","Burkholderia cepacia complex"
-"198","OTU_2542",0.28286301594286,0.153836276132736,0.129026739810124,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp. STM 3080"
-"199","OTU_2557",0,0.185648484646944,-0.185648484646944,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Burkholderia","Burkholderia sp. enrichment culture clone CACua-88"
-"200","OTU_2574",0.316862619268068,0.198835763767644,0.118026855500424,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Aquabacter","Aquabacter cavernae"
-"201","OTU_2598",0.238548909055061,0,0.238548909055061,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"202","OTU_2633",0.195306776955592,0,0.195306776955592,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"203","OTU_2638",0.28947339989577,0,0.28947339989577,"Bacteria","Proteobacteria","Gammaproteobacteria","Pseudomonadales","Pseudomonadaceae","Pseudomonas","Pseudomonas aeruginosa group"
-"204","OTU_265",0.204715684509235,0,0.204715684509235,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Phyllobacteriaceae","Mesorhizobium","Mesorhizobium metallidurans"
-"205","OTU_266",0.212980712085531,0,0.212980712085531,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Burkholderia","Burkholderia sp. RAU2d"
-"206","OTU_2660",0.317149005055717,0,0.317149005055717,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","Nostoc sp. Lobaria pulmonaria 5183 cyanobiont"
-"207","OTU_27",0.533863379116321,0.300225399038817,0.233637980077504,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Tolypothrichaceae","Tolypothrix","Tolypothrix sp. ACSSI 331"
-"208","OTU_278",0.260663887186662,0,0.260663887186662,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Phyllobacteriaceae","Mesorhizobium","unknown Mesorhizobium"
-"209","OTU_28",0.226518992614296,0,0.226518992614296,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Rhodoplanes","Rhodoplanes roseus"
-"210","OTU_283",0.274171433809119,0,0.274171433809119,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp."
-"211","OTU_2855",0.280628710938437,0,0.280628710938437,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Rhodoplanes","Rhodoplanes roseus"
-"212","OTU_286",0.300301736870627,0,0.300301736870627,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Agrobacterium","Agrobacterium tumefaciens complex"
-"213","OTU_2867",0,0.291756140441015,-0.291756140441015,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"214","OTU_2871",0.199714366652048,0,0.199714366652048,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Azospirillaceae","Azospirillum","Azospirillum zeae"
-"215","OTU_2879",0.24118160464236,0,0.24118160464236,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Rhodobacter","Rhodobacter capsulatus"
-"216","OTU_29",0.242967854668919,0,0.242967854668919,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"217","OTU_290",0.233752962427156,0,0.233752962427156,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Rhodoplanes","Rhodoplanes roseus"
-"218","OTU_2904",0.309189623419713,0.148137219737219,0.161052403682494,"Bacteria","Proteobacteria","Gammaproteobacteria","Chromatiales","Chromatiaceae","Allochromatium","Allochromatium vinosum"
-"219","OTU_292",0.457817384089572,0.1783327026762,0.279484681413372,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Calotrichaceae","Calothrix","Calothrix sp. NIES-2100"
-"220","OTU_2928",0.327188279222948,0.12142085829343,0.205767420929518,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Rhodospirillaceae","Defluviicoccus","Defluviicoccus sp."
-"221","OTU_293",0.280027135185842,0.148159967971405,0.131867167214437,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"222","OTU_2943",0.285713833659701,0,0.285713833659701,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Cereibacter","Cereibacter azotoformans"
-"223","OTU_2945",0.141712730776038,0,0.141712730776038,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Leptolyngbyaceae","Leptolyngbya","Leptolyngbya sp. CCY15150"
-"224","OTU_299",0.339301670261497,0,0.339301670261497,"Bacteria","Proteobacteria","Gammaproteobacteria","Chromatiales","Chromatiaceae","Allochromatium","Allochromatium vinosum"
-"225","OTU_299035",0.160425359985126,0,0.160425359985126,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Cereibacter","Cereibacter changlensis"
-"226","OTU_30",0.274634410087408,0.186656807775696,0.0879776023117114,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"227","OTU_300",0.605394698927119,0,0.605394698927119,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"228","OTU_3026",0,0.171535375713494,-0.171535375713494,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Calotrichaceae","Calothrix","Calothrix sp. NIES-2100"
-"229","OTU_3039",0.398821498518301,0,0.398821498518301,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"230","OTU_3040",0.19890011842243,0.10487629103357,0.0940238273888601,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"231","OTU_3056",0.423036613566612,0,0.423036613566612,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"232","OTU_310",0.360994656726939,0,0.360994656726939,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp."
-"233","OTU_31111",0.353781465666323,0,0.353781465666323,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"234","OTU_312",0.243757645961111,0,0.243757645961111,"Bacteria","Firmicutes","Clostridia","Eubacteriales","Peptostreptococcaceae","Romboutsia","Romboutsia lituseburensis"
-"235","OTU_314",0,0.132462898633465,-0.132462898633465,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Rhodomicrobium","Rhodomicrobium lacus"
-"236","OTU_31432",0.193356224356184,0,0.193356224356184,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Rhodospirillaceae","Defluviicoccus","Defluviicoccus vanus"
-"237","OTU_3150",0.355103690814884,0,0.355103690814884,"Bacteria","Firmicutes","Clostridia","Eubacteriales","Eubacteriaceae","Acetobacterium","Acetobacterium paludosum"
-"238","OTU_316",0.195548709128544,0,0.195548709128544,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Stigonemataceae","Stigonema","Stigonema ocellatum"
-"239","OTU_317",0.216885148776799,0,0.216885148776799,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Paraburkholderia","Paraburkholderia phymatum"
-"240","OTU_3177",0.308144933770055,0,0.308144933770055,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"241","OTU_3180",0.183214792611222,0,0.183214792611222,"Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Anaeromyxobacteraceae","Anaeromyxobacter","Anaeromyxobacter sp. Red267"
-"242","OTU_32",0.286311392417975,0,0.286311392417975,"Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Yersiniaceae","Rahnella","Rahnella sp. AA"
-"243","OTU_320",0.460222050219271,0,0.460222050219271,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"244","OTU_3202",0.291942130684919,0,0.291942130684919,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Phyllobacteriaceae","Mesorhizobium","Mesorhizobium sp. ORS 3356"
-"245","OTU_32348",0.371299321959344,0,0.371299321959344,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"246","OTU_325",0.354662535640772,0,0.354662535640772,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Burkholderia","Burkholderia cepacia complex"
-"247","OTU_3252",0.181871660023584,0,0.181871660023584,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Methylobacteriaceae","Microvirga","Microvirga sp. KLBC 81"
-"248","OTU_326",0.164178381488815,0,0.164178381488815,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Rhodoplanes","Rhodoplanes roseus"
-"249","OTU_3262",0,0.240487980893472,-0.240487980893472,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","Nostoc sp. UAM 362"
-"250","OTU_3273",0.223303896151783,0,0.223303896151783,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Methyloceanibacter","Methyloceanibacter methanicus"
-"251","OTU_32762",0.203239351276714,0,0.203239351276714,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Cereibacter","Cereibacter azotoformans"
-"252","OTU_3291",0.365220544480522,0.221148710203931,0.144071834276591,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","Nostoc sp. UAM 362"
-"253","OTU_3310",0.316146719155979,0,0.316146719155979,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"254","OTU_333",0.34057913488219,0,0.34057913488219,"Bacteria","Proteobacteria","Deltaproteobacteria","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrio","Desulfovibrio sp. FSS-1"
-"255","OTU_335",0.523809864366527,0.141615903659322,0.382193960707205,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"256","OTU_3357",0.331840749682582,0.191510663711273,0.140330085971308,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Richelia","Richelia intracellularis"
-"257","OTU_3368",0.201302364319908,0,0.201302364319908,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Beijerinckiaceae","Methylocella","Methylocella silvestris"
-"258","OTU_3373",0,0.127020216368536,-0.127020216368536,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Hyphomicrobium","Hyphomicrobium sp."
-"259","OTU_339",0.50701725993597,0,0.50701725993597,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Chroococcales","Aphanothecaceae","Gloeothece","Gloeothece tepidariorum"
-"260","OTU_33988",0.365723099204136,0,0.365723099204136,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"261","OTU_341",0.250639608370224,0,0.250639608370224,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Paraburkholderia","Paraburkholderia fungorum"
-"262","OTU_3416",0.544291134353701,0,0.544291134353701,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Halotia","Halotia wernerae"
-"263","OTU_3430",0.239706828200751,0,0.239706828200751,"Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Azonexaceae","Azonexus","Azonexus fungiphilus"
-"264","OTU_34322",0.311706633999029,0.143815764224148,0.167890869774881,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Burkholderia","Burkholderia cepacia complex"
-"265","OTU_3494",0.499186149307703,0.165881617704768,0.333304531602935,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Halotia","Halotia wernerae"
-"266","OTU_3507",0.245986879645412,0,0.245986879645412,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"267","OTU_35567",0.266713617110272,0,0.266713617110272,"Bacteria","Firmicutes","Clostridia","Eubacteriales","Lachnospiraceae","Cellulosilyticum","Cellulosilyticum sp. WCF-2"
-"268","OTU_358",0.173628795543646,0,0.173628795543646,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Ensifer","Ensifer sp. CHU2"
-"269","OTU_35827",0.33450225277256,0.199079392318306,0.135422860454255,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Burkholderia","Burkholderia sp. RAU2l"
-"270","OTU_36",0.243022657029212,0,0.243022657029212,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Paraburkholderia","Paraburkholderia fungorum"
-"271","OTU_36093",0.251017478670672,0,0.251017478670672,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"272","OTU_361",0.269163228777961,0,0.269163228777961,"Bacteria","Firmicutes","unknown Firmicutes","unknown Firmicutes","unknown Firmicutes","unknown Firmicutes","Firmicutes bacterium R50"
-"273","OTU_3610",0.315928911668401,0,0.315928911668401,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Rhizobium","Rhizobium sp."
-"274","OTU_3615",0.238819399707196,0,0.238819399707196,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","Hydrogenophaga sp. T4"
-"275","OTU_362",0,0.175259271910553,-0.175259271910553,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Tolypothrichaceae","Tolypothrix","Tolypothrix sp. NIES-4075"
-"276","OTU_36216",0.303036403345734,0.259684953446409,0.043351449899325,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Phyllobacteriaceae","Mesorhizobium","Mesorhizobium huakuii"
-"277","OTU_363",0.141377050788821,0,0.141377050788821,"Bacteria","Proteobacteria","Alphaproteobacteria","Micropepsales","Micropepsaceae","Rhizomicrobium","Rhizomicrobium electricum"
-"278","OTU_3632",0.24618085415507,0,0.24618085415507,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Azospirillaceae","Azospirillum","Azospirillum zeae"
-"279","OTU_3633",0.531912181705894,0.301767023878431,0.230145157827463,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Calotrichaceae","Calothrix","Calothrix sp. NIES-2100"
-"280","OTU_3636",0.303103565859985,0,0.303103565859985,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Azospirillaceae","Azospirillum","Azospirillum zeae"
-"281","OTU_3652",0.290711748561418,0,0.290711748561418,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Rhodospirillaceae","Defluviicoccus","Defluviicoccus sp."
-"282","OTU_3661",0.568844566787443,0,0.568844566787443,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"283","OTU_3672",0,0.178390789999664,-0.178390789999664,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"284","OTU_3686",0.37635793347841,0,0.37635793347841,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Paraburkholderia","Paraburkholderia fungorum"
-"285","OTU_3688",0.212723174184512,0,0.212723174184512,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Oscillatoriales","unknown Oscillatoriales","Microseira","Microseira wollei"
-"286","OTU_3737",0.272388802163202,0,0.272388802163202,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Rhizobium","Rhizobium leguminosarum"
-"287","OTU_3757",0.333647634077011,0,0.333647634077011,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Rhodoplanes","Rhodoplanes roseus"
-"288","OTU_38",0.227765601309022,0,0.227765601309022,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp."
-"289","OTU_382",0.301542696119419,0,0.301542696119419,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Oscillatoriales","unknown Oscillatoriales","Microseira","Microseira wollei"
-"290","OTU_386",0.371373158945105,0,0.371373158945105,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Rhodobacter","Rhodobacter capsulatus"
-"291","OTU_3874",0.11661448454929,0,0.11661448454929,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Ensifer","Ensifer sp. CHU2"
-"292","OTU_3883",0.238273362457805,0,0.238273362457805,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp. ISA0203"
-"293","OTU_39",0.352994325733181,0.186854748965809,0.166139576767373,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Phyllobacteriaceae","Mesorhizobium","Mesorhizobium opportunistum"
-"294","OTU_391",0.299974290746328,0,0.299974290746328,"Bacteria","Actinobacteria","Actinomycetia","Micrococcales","Micrococcaceae","Arthrobacter","Arthrobacter sp. CCBAU 10866"
-"295","OTU_392",0.244648456622528,0,0.244648456622528,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp. Z15"
-"296","OTU_394",0.251625655956415,0,0.251625655956415,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Paraburkholderia","Paraburkholderia fungorum"
-"297","OTU_398",0.114117664486395,0,0.114117664486395,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"298","OTU_399",0.235465229250726,0,0.235465229250726,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Aurantimonadaceae","Consotaella","Consotaella salsifontis"
-"299","OTU_4",0.455151865420328,0.177675625815376,0.277476239604952,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Calotrichaceae","Calothrix","Calothrix sp. NIES-2100"
-"300","OTU_40",0.239573037520985,0,0.239573037520985,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","unknown Bradyrhizobium"
-"301","OTU_402",0.238598455697023,0,0.238598455697023,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"302","OTU_4027",0,0.208928090987841,-0.208928090987841,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"303","OTU_404",0.312043492758783,0.249752897728727,0.0622905950300564,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","Hydrogenophaga sp. T4"
-"304","OTU_4057",0.317832509928083,0,0.317832509928083,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Ensifer","Ensifer sp. CHU2"
-"305","OTU_406",0.231306593941306,0,0.231306593941306,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Oscillatoriales","unknown Oscillatoriales","Microseira","Microseira wollei"
-"306","OTU_408",0.204210192157744,0,0.204210192157744,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp. DASA 68056"
-"307","OTU_41",0.267008382385296,0,0.267008382385296,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Burkholderia","Burkholderia cepacia complex"
-"308","OTU_4118",0.190373090978996,0,0.190373090978996,"Bacteria","Firmicutes","Bacilli","Bacillales","Paenibacillaceae","Paenibacillus","Paenibacillus spiritus"
-"309","OTU_413",0.364892043161628,0,0.364892043161628,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Paraburkholderia","Paraburkholderia fungorum"
-"310","OTU_4164",0.446634592052156,0.185639091582077,0.260995500470079,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"311","OTU_4178",0.247516773773021,0,0.247516773773021,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Blastochloridaceae","Blastochloris","Blastochloris sulfoviridis"
-"312","OTU_42",0.356918049162586,0.199306948780913,0.157611100381674,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"313","OTU_424",0.658890502305128,0,0.658890502305128,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"314","OTU_427",0.133953550742886,0,0.133953550742886,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp. P3-24"
-"315","OTU_43",0.526562122103731,0,0.526562122103731,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"316","OTU_430",0.244704731177201,0.13371534750595,0.110989383671251,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Azospirillaceae","Azospirillum","Azospirillum fermentarium"
-"317","OTU_4300",0.28524745417094,0,0.28524745417094,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Rhodopila","Rhodopila globiformis"
-"318","OTU_4306",0.41442148543545,0,0.41442148543545,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp."
-"319","OTU_431",0.209808415670374,0,0.209808415670374,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Richelia","Richelia intracellularis"
-"320","OTU_432",0,0.360950469347413,-0.360950469347413,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"321","OTU_43697",0.174681832963761,0,0.174681832963761,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp."
-"322","OTU_4382",0.457566180154258,0,0.457566180154258,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Phyllobacteriaceae","Mesorhizobium","Mesorhizobium sangaii"
-"323","OTU_442",0.258376451426774,0,0.258376451426774,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"324","OTU_44246",0.233063709091046,0,0.233063709091046,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Rhizobium","Rhizobium leguminosarum"
-"325","OTU_444",0.592353042729563,0,0.592353042729563,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"326","OTU_445",0.219916697473477,0,0.219916697473477,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Paraburkholderia","Paraburkholderia unamae"
-"327","OTU_4468",0,0.230824777305964,-0.230824777305964,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"328","OTU_450",0,0.282872380306589,-0.282872380306589,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Chroococcales","Aphanothecaceae","Gloeothece","Gloeothece tepidariorum"
-"329","OTU_4519",0.230570295890236,0,0.230570295890236,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"330","OTU_453",0.263987945290849,0,0.263987945290849,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp. SEMIA 6014"
-"331","OTU_4556",0.503792718332644,0.146455747881274,0.35733697045137,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"332","OTU_456",0.291140847122801,0,0.291140847122801,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Phyllobacteriaceae","Mesorhizobium","unknown Mesorhizobium"
-"333","OTU_460",0.234261944522895,0,0.234261944522895,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","Hydrogenophaga sp. T4"
-"334","OTU_461",0.357977530759411,0,0.357977530759411,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Rhodovulum","Rhodovulum sp. PH10"
-"335","OTU_463",0.154627409605157,0,0.154627409605157,"Bacteria","Proteobacteria","Gammaproteobacteria","Chromatiales","Chromatiaceae","Thiohalocapsa","Thiohalocapsa sp. PB-PSB1"
-"336","OTU_469",0.376463681793045,0,0.376463681793045,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Oscillatoriales","Oscillatoriaceae","Oscillatoria","Oscillatoria sp. MMG-2"
-"337","OTU_47",0.525039617760669,0,0.525039617760669,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"338","OTU_48",0.265197883044144,0,0.265197883044144,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Rhodospirillaceae","Magnetospirillum","Magnetospirillum sp."
-"339","OTU_481",0.498636425152114,0.320384750268806,0.178251674883308,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Cylindrospermum","Cylindrospermum muscicola"
-"340","OTU_482",0.295042454475373,0,0.295042454475373,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium japonicum"
-"341","OTU_486",0.281300385274823,0,0.281300385274823,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Oscillatoriales","unknown Oscillatoriales","Microseira","Microseira wollei"
-"342","OTU_488",0,0.162737000790696,-0.162737000790696,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Leptolyngbyaceae","Leptolyngbya","Leptolyngbya sp. CENA350"
-"343","OTU_492",0.20922208272933,0,0.20922208272933,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Hyphomicrobium","Hyphomicrobium sp."
-"344","OTU_49431",0.170003846917852,0,0.170003846917852,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Oscillatoriales","Oscillatoriaceae","Oscillatoria","Oscillatoria sp. MMG-2"
-"345","OTU_4969",0.133927939248879,0,0.133927939248879,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"346","OTU_498",0.146242634257465,0,0.146242634257465,"Bacteria","Proteobacteria","Gammaproteobacteria","Chromatiales","Thioalkalispiraceae","Thioalkalispira","Thioalkalispira microaerophila"
-"347","OTU_4986",0.356884266594137,0,0.356884266594137,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","Hydrogenophaga sp. T4"
-"348","OTU_50",0.246517228674304,0,0.246517228674304,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium elkanii"
-"349","OTU_500",0.214184759899785,0,0.214184759899785,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Phyllobacteriaceae","Mesorhizobium","Mesorhizobium waimense"
-"350","OTU_501",0.249412962273726,0.12915968748436,0.120253274789366,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","unknown Bradyrhizobium"
-"351","OTU_502",0.565625159803563,0.201862385273269,0.363762774530295,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Calotrichaceae","Calothrix","Calothrix sp. NIES-2100"
-"352","OTU_504",0.334795891768956,0,0.334795891768956,"Bacteria","Firmicutes","Bacilli","Bacillales","Paenibacillaceae","Paenibacillus","Paenibacillus spiritus"
-"353","OTU_507",0.477506625781495,0.200158504059011,0.277348121722484,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","Nostoc sp. UAM 362"
-"354","OTU_51",0.305945904700239,0,0.305945904700239,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Burkholderia","Burkholderia sp. enrichment culture clone CACua-88"
-"355","OTU_513",0.294397577398854,0,0.294397577398854,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Rhizobium","Rhizobium tarimense"
-"356","OTU_51507",0.448190659970961,0,0.448190659970961,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Halotia","Halotia wernerae"
-"357","OTU_5158",0.47782523432621,0,0.47782523432621,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","Nostoc sp. UAM 362"
-"358","OTU_520",0.326313079536315,0.206407176194109,0.119905903342206,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Rhodomicrobium","Rhodomicrobium vannielii"
-"359","OTU_5234",0.540309070752362,0,0.540309070752362,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Rhodovastum","Rhodovastum atsumiense"
-"360","OTU_52467",0.386704417578561,0,0.386704417578561,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"361","OTU_5255",0.324659234054898,0,0.324659234054898,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"362","OTU_526",0.224343135528486,0,0.224343135528486,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Paraburkholderia","Paraburkholderia sp. MM5384-R2"
-"363","OTU_5294",0.228923098535368,0,0.228923098535368,"Bacteria","Proteobacteria","Gammaproteobacteria","Chromatiales","Chromatiaceae","Allochromatium","Allochromatium vinosum"
-"364","OTU_53",0,0.106017247026857,-0.106017247026857,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","Nostoc sp. UAM 362"
-"365","OTU_5317",0.355369313339163,0.215762117407638,0.139607195931525,"Bacteria","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas","Sphingomonas azotifigens"
-"366","OTU_533",0,0.210860641057182,-0.210860641057182,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Dendronalium","Dendronalium phyllosphericum"
-"367","OTU_5355",0.186829731912847,0,0.186829731912847,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp."
-"368","OTU_5374",0.471762559269613,0.1630512344345,0.308711324835113,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"369","OTU_54",0.24979739399298,0,0.24979739399298,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Burkholderia","Burkholderia sp. RAU2l"
-"370","OTU_542",0.290097184213373,0.121825224544175,0.168271959669198,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Aphanizomenonaceae","Anabaenopsis","Anabaenopsis sp. NRE1"
-"371","OTU_5433",0.293867568096722,0,0.293867568096722,"Bacteria","Proteobacteria","Betaproteobacteria","Neisseriales","Chromobacteriaceae","Paludibacterium","Paludibacterium yongneupense"
-"372","OTU_5461",0.239443322626513,0.156648993057669,0.0827943295688444,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Rhodospirillaceae","Magnetospirillum","Magnetospirillum sp."
-"373","OTU_5498",0.239776711367847,0,0.239776711367847,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"374","OTU_55",0.23564372672892,0,0.23564372672892,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Calotrichaceae","Calothrix","Calothrix sp. PCC 7507"
-"375","OTU_551",0.29098884379628,0.127185259572787,0.163803584223493,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Beijerinckiaceae","Methylocapsa","Methylocapsa palsarum"
-"376","OTU_5517",0.360805996528081,0,0.360805996528081,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Phyllobacteriaceae","Mesorhizobium","Mesorhizobium sp."
-"377","OTU_5532",0.247884411083284,0,0.247884411083284,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium elkanii"
-"378","OTU_557",0,0.192371577095317,-0.192371577095317,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Phyllobacteriaceae","Mesorhizobium","unknown Mesorhizobium"
-"379","OTU_55726",0.274436596295341,0,0.274436596295341,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Ensifer","Ensifer sp. CHU2"
-"380","OTU_5596",0.269036765724719,0,0.269036765724719,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Blastochloridaceae","Blastochloris","Blastochloris sulfoviridis"
-"381","OTU_5625",0.195035654416762,0,0.195035654416762,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Rhodospirillaceae","Pararhodospirillum","Pararhodospirillum oryzae"
-"382","OTU_565",0.194489056263526,0,0.194489056263526,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp."
-"383","OTU_567",0.397826112242947,0.211321172331672,0.186504939911275,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Rhodospirillaceae","Defluviicoccus","Defluviicoccus vanus"
-"384","OTU_569",0.156985686303127,0,0.156985686303127,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Rhodospirillaceae","Telmatospirillum","Telmatospirillum sp. J64-1"
-"385","OTU_57",0.645571601225895,0,0.645571601225895,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"386","OTU_5779",0.435000705032503,0,0.435000705032503,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Azospirillaceae","Azospirillum","Azospirillum sp. TN09"
-"387","OTU_5799",0.419468907126151,0,0.419468907126151,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"388","OTU_58",0.36153853083132,0,0.36153853083132,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Rhodoplanes","Rhodoplanes roseus"
-"389","OTU_5803",0.30349514288388,0.173663237712332,0.129831905171547,"Bacteria","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae","Stenotrophomonas","Stenotrophomonas maltophilia group"
-"390","OTU_58383",0.223569611578253,0,0.223569611578253,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"391","OTU_59",0.378956324425077,0,0.378956324425077,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Chroococcales","Aphanothecaceae","Gloeothece","Gloeothece tepidariorum"
-"392","OTU_5907",0.269587822305583,0,0.269587822305583,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Blastochloridaceae","Blastochloris","Blastochloris sulfoviridis"
-"393","OTU_5913",0,0.161179873186826,-0.161179873186826,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","Nostoc sp. UAM 362"
-"394","OTU_6",0.530076029069522,0,0.530076029069522,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Calotrichaceae","Calothrix","Calothrix sp. PCC 7507"
-"395","OTU_60",0.272374623689417,0,0.272374623689417,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Burkholderia","Burkholderia sp. RAU2d"
-"396","OTU_60377",0.214725045349226,0.185938208646831,0.0287868367023948,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Burkholderia","Burkholderia sp. RAU2d"
-"397","OTU_604",0.189894120379765,0,0.189894120379765,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp."
-"398","OTU_606",0.229804340776826,0,0.229804340776826,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"399","OTU_608",0.137718054701604,0,0.137718054701604,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Cereibacter","Cereibacter changlensis"
-"400","OTU_611",0.214248826606196,0,0.214248826606196,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Phyllobacteriaceae","Mesorhizobium","Mesorhizobium sp."
-"401","OTU_61576",0.274271607817547,0,0.274271607817547,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium elkanii"
-"402","OTU_6165",0.409953727905717,0,0.409953727905717,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Calotrichaceae","Calothrix","Calothrix sp. NIES-2100"
-"403","OTU_6182",0.396377300809923,0,0.396377300809923,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Ancalomicrobiaceae","Pinisolibacter","unknown Pinisolibacter"
-"404","OTU_6191",0.162046003879684,0,0.162046003879684,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Rhodobacter","Rhodobacter capsulatus"
-"405","OTU_62",0.4093676222163,0,0.4093676222163,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Richelia","Richelia intracellularis"
-"406","OTU_6263",0.198432503287766,0.0932010793276306,0.105231423960135,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Ensifer","Ensifer sp. CHU2"
-"407","OTU_629",0,0.194684332923012,-0.194684332923012,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","Nostoc sp. UAM 362"
-"408","OTU_63064",0.212206331900985,0,0.212206331900985,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Methylobacteriaceae","Microvirga","unknown Microvirga"
-"409","OTU_64",0.230658892751222,0,0.230658892751222,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Rhodovulum","Rhodovulum sp. ES.010"
-"410","OTU_641",0.46064774676127,0,0.46064774676127,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"411","OTU_644",0.225510486871421,0.124395526420611,0.10111496045081,"Bacteria","Proteobacteria","Gammaproteobacteria","Xanthomonadales","Xanthomonadaceae","Stenotrophomonas","Stenotrophomonas maltophilia group"
-"412","OTU_6479",0.224626489049406,0.137117914318422,0.0875085747309836,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Ensifer","Ensifer sp. CHU2"
-"413","OTU_6490",0.319490907963977,0.193624906043527,0.12586600192045,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","Nostoc sp. NDUPC003"
-"414","OTU_6503",0,0.216253940785452,-0.216253940785452,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Burkholderia","Burkholderia sp. enrichment culture clone CACua-88"
-"415","OTU_6569",0.202077195392313,0,0.202077195392313,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"416","OTU_659",0.299799080504567,0,0.299799080504567,"Bacteria","Proteobacteria","Gammaproteobacteria","Pseudomonadales","Pseudomonadaceae","Pseudomonas","Pseudomonas sp. SB2"
-"417","OTU_66",0.229011759409786,0.0948676344886538,0.134144124921132,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Hyphomicrobium","Hyphomicrobium sp."
-"418","OTU_666",0.475016407553977,0,0.475016407553977,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Calotrichaceae","Calothrix","Calothrix sp. NIES-2100"
-"419","OTU_6663",0,0.220212690123423,-0.220212690123423,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Halotia","Halotia wernerae"
-"420","OTU_669",0.261019631612424,0,0.261019631612424,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Azospirillaceae","Azospirillum","Azospirillum sp. TSO22-1"
-"421","OTU_6690",0.202571814801896,0,0.202571814801896,"Bacteria","Firmicutes","Bacilli","Bacillales","Paenibacillaceae","Paenibacillus","Paenibacillus macerans"
-"422","OTU_66942",0.242033188814694,0,0.242033188814694,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","Hydrogenophaga sp. T4"
-"423","OTU_672",0.242859039962392,0,0.242859039962392,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","Hydrogenophaga sp. T4"
-"424","OTU_67260",0.291019075199525,0,0.291019075199525,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Richelia","Richelia intracellularis"
-"425","OTU_678",0.293072657557032,0,0.293072657557032,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"426","OTU_6792",0.235809371548703,0,0.235809371548703,"Bacteria","Proteobacteria","Deltaproteobacteria","Myxococcales","Anaeromyxobacteraceae","Anaeromyxobacter","Anaeromyxobacter sp. Red267"
-"427","OTU_6797",0.125375607895974,0,0.125375607895974,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Ensifer","Ensifer sp. CHU2"
-"428","OTU_68",0.570845861934303,0.230604356668328,0.340241505265974,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","Nostoc sp. Lobaria pulmonaria 5183 cyanobiont"
-"429","OTU_6815",0.418386804837352,0.170528416779482,0.24785838805787,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","Nostoc sp. UAM 362"
-"430","OTU_682",0.196074039807179,0,0.196074039807179,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Rhodospirillaceae","Telmatospirillum","Telmatospirillum sp. J64-1"
-"431","OTU_6838",0.233975502989184,0,0.233975502989184,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"432","OTU_6839",0.195527811106105,0,0.195527811106105,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium liaoningense"
-"433","OTU_6872",0.542291129391487,0.256864037520909,0.285427091870579,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Calotrichaceae","Calothrix","Calothrix sp. NIES-2100"
-"434","OTU_6898",0.124550054096607,0,0.124550054096607,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Paraburkholderia","Paraburkholderia unamae"
-"435","OTU_6941",0.458867445139961,0.184229478231034,0.274637966908927,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"436","OTU_7",0.297146931750735,0,0.297146931750735,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"437","OTU_703",0.217089968932929,0,0.217089968932929,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","Hydrogenophaga sp. T4"
-"438","OTU_71",0.202395114858754,0,0.202395114858754,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp."
-"439","OTU_719",0.248977368325857,0,0.248977368325857,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Oscillatoriales","unknown Oscillatoriales","Microseira","Microseira wollei"
-"440","OTU_729",0.239779728542154,0,0.239779728542154,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Ensifer","Ensifer sp. CHU2"
-"441","OTU_73",0.30527262502439,0,0.30527262502439,"Bacteria","Proteobacteria","Betaproteobacteria","Rhodocyclales","Azonexaceae","Azonexus","Azonexus fungiphilus"
-"442","OTU_731",0.267830218150558,0.149051090120341,0.118779128030217,"Bacteria","Spirochaetes","Spirochaetia","Spirochaetales","Spirochaetaceae","Spirochaeta","Spirochaeta aurantia"
-"443","OTU_736",0.158379510306313,0,0.158379510306313,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Paraburkholderia","Paraburkholderia fungorum"
-"444","OTU_74",0.475910034036971,0,0.475910034036971,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Chroococcales","Aphanothecaceae","Gloeothece","Gloeothece tepidariorum"
-"445","OTU_741",0.281160781063969,0,0.281160781063969,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Ensifer","Ensifer sp. CHU2"
-"446","OTU_742",0.357178572925402,0.143620196601863,0.213558376323538,"Bacteria","Actinobacteria","Actinomycetia","Micrococcales","Micrococcaceae","Arthrobacter","Arthrobacter sp. CCBAU 10866"
-"447","OTU_74324",0.323635479328261,0,0.323635479328261,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Rhizobium","Rhizobium sp. UYPR7.63"
-"448","OTU_7462",0.175461260712791,0,0.175461260712791,"Bacteria","Proteobacteria","Acidithiobacillia","Acidithiobacillales","Acidithiobacillaceae","Acidithiobacillus","Acidithiobacillus ferrivorans"
-"449","OTU_75",0.272336415119353,0,0.272336415119353,"Bacteria","Firmicutes","Clostridia","Eubacteriales","Lachnospiraceae","Butyrivibrio","Butyrivibrio sp. XPD2006"
-"450","OTU_751",0.438820554444905,0,0.438820554444905,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","Nostoc sp. CHAB 5836"
-"451","OTU_757",0.272345311845786,0,0.272345311845786,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Beijerinckiaceae","Methylocella","Methylocella palustris"
-"452","OTU_771",0.458621818776114,0.147037464165872,0.311584354610242,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"453","OTU_7713",0,0.194676356150715,-0.194676356150715,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"454","OTU_772",0.206651201865787,0.114266984006634,0.0923842178591533,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Rhodoplanes","Rhodoplanes roseus"
-"455","OTU_777",0.239884508473269,0,0.239884508473269,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"456","OTU_7772",0.218589026300605,0.11311371982201,0.105475306478594,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Phyllobacteriaceae","Mesorhizobium","Mesorhizobium waimense"
-"457","OTU_7787",0.307044276802807,0,0.307044276802807,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"458","OTU_78",0.303479922868704,0,0.303479922868704,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Neorhizobium","Neorhizobium galegae"
-"459","OTU_782",0.312432858096318,0,0.312432858096318,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp. STM 3080"
-"460","OTU_7839",0.65040789624255,0,0.65040789624255,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"461","OTU_787",0.46831964886807,0.119617563259956,0.348702085608114,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","Nostoc sp. UAM 362"
-"462","OTU_7933",0.256477651415165,0,0.256477651415165,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Cupriavidus","Cupriavidus sp. UYMMa02A"
-"463","OTU_796",0.458711635359193,0,0.458711635359193,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp. ORS 3258"
-"464","OTU_800",0,0.347037016447458,-0.347037016447458,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Cylindrospermum","Cylindrospermum stagnale"
-"465","OTU_804",0.574783955877687,0,0.574783955877687,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"466","OTU_805",0,0.265339868531297,-0.265339868531297,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Chroococcales","Aphanothecaceae","Gloeothece","Gloeothece tepidariorum"
-"467","OTU_81390",0.284454402453281,0,0.284454402453281,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Cereibacter","Cereibacter changlensis"
-"468","OTU_815",0.287849988185604,0,0.287849988185604,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Rhodospirillaceae","Defluviicoccus","Defluviicoccus vanus"
-"469","OTU_820",0.289359430668781,0.165755606879304,0.123603823789476,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","Hydrogenophaga sp. T4"
-"470","OTU_821",0.440315877190304,0.169423104760941,0.270892772429362,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","Nostoc sp. UAM 362"
-"471","OTU_822",0.26625383216172,0,0.26625383216172,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp."
-"472","OTU_833",0.228850028583797,0,0.228850028583797,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","Hydrogenophaga sp. T4"
-"473","OTU_841",0.38468369628172,0,0.38468369628172,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Oscillatoriales","unknown Oscillatoriales","Microseira","Microseira wollei"
-"474","OTU_848",0.167097048030286,0,0.167097048030286,"Bacteria","Firmicutes","Bacilli","Bacillales","Paenibacillaceae","Paenibacillus","Paenibacillus macerans"
-"475","OTU_8482",0.458363272261408,0,0.458363272261408,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Cereibacter","Cereibacter azotoformans"
-"476","OTU_85",0.23384496221724,0,0.23384496221724,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","Hydrogenophaga sp. T4"
-"477","OTU_852",0.357510752921712,0,0.357510752921712,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Methylobacteriaceae","Methylobacterium","Methylobacterium nodulans"
-"478","OTU_86",0.336765034342496,0,0.336765034342496,"Bacteria","Bacteroidetes","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides","Bacteroides luti"
-"479","OTU_862",0.313176352333456,0,0.313176352333456,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"480","OTU_863",0.269009403317386,0,0.269009403317386,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Phyllobacteriaceae","Mesorhizobium","Mesorhizobium opportunistum"
-"481","OTU_869",0.480529562457594,0,0.480529562457594,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Komarekiella","Komarekiella sp. clone 1"
-"482","OTU_8753",0.64086648795818,0,0.64086648795818,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Ensifer","Ensifer sp. CHU2"
-"483","OTU_878",0.223081454137845,0.229864163769875,-0.00678270963203059,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Ensifer","Ensifer sp. CHU2"
-"484","OTU_881",0.732746052086104,0,0.732746052086104,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"485","OTU_893",16.802958936002,16.5465189353671,0.256440000634822,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"486","OTU_8947",0.19835018244822,0,0.19835018244822,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Rhizobium","Rhizobium leguminosarum"
-"487","OTU_896",0.191859384849786,0,0.191859384849786,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Hyphomicrobiaceae","Hyphomicrobium","Hyphomicrobium sp."
-"488","OTU_90",0.232244628098928,0,0.232244628098928,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium elkanii"
-"489","OTU_9020",0.349341093477461,0,0.349341093477461,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Azospirillaceae","Azospirillum","Azospirillum zeae"
-"490","OTU_9094",0.255349912198911,0,0.255349912198911,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Calotrichaceae","Calothrix","Calothrix sp. PCC 7507"
-"491","OTU_9095",0.267380498697455,0,0.267380498697455,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium sp. ORS 3258"
-"492","OTU_910",0.161645440814402,0,0.161645440814402,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Ciceribacter","Ciceribacter lividus"
-"493","OTU_914",0.484233573341517,0,0.484233573341517,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"494","OTU_9171",0.349438974134476,0,0.349438974134476,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Ensifer","Ensifer sp. CHU2"
-"495","OTU_920",0.245386733020084,0,0.245386733020084,"Bacteria","Proteobacteria","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Sphingomonas","Sphingomonas sp. S8-608"
-"496","OTU_928",0.243366295622125,0,0.243366295622125,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Phyllobacteriaceae","Mesorhizobium","Mesorhizobium sp. LLAN46"
-"497","OTU_941",0.266365373329751,0,0.266365373329751,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Oscillatoriales","unknown Oscillatoriales","Microseira","Microseira wollei"
-"498","OTU_94460",0.237709410981269,0,0.237709410981269,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Rhizobiaceae","Ensifer","Ensifer sp. CHU2"
-"499","OTU_95",0.260485134001829,0,0.260485134001829,"Bacteria","Proteobacteria","Alphaproteobacteria","Rhodospirillales","Acetobacteraceae","Acetobacter","Acetobacter peroxydans"
-"500","OTU_9525",0.491965985468694,0,0.491965985468694,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Nostocaceae","Nostoc","unknown Nostoc"
-"501","OTU_961",0.251289155558923,0,0.251289155558923,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Tolypothrichaceae","Tolypothrix","Tolypothrix sp. NIES-4075"
-"502","OTU_967",0.480092989498618,0,0.480092989498618,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Nostocales","Calotrichaceae","Calothrix","Calothrix sp. NIES-2100"
-"503","OTU_97",0.328887155568272,0,0.328887155568272,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","Hydrogenophaga sp. T4"
-"504","OTU_976",0.129935580060983,0,0.129935580060983,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Phyllobacteriaceae","Mesorhizobium","Mesorhizobium sp. ORS 3356"
-"505","OTU_9788",0.289635801521848,0,0.289635801521848,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Comamonadaceae","Hydrogenophaga","Hydrogenophaga sp. T4"
-"506","OTU_9800",0.260812420962409,0,0.260812420962409,"Bacteria","Cyanobacteria","unknown Cyanobacteria","Pseudanabaenales","Pseudanabaenaceae","Pseudanabaena","Pseudanabaena frigida"
-"507","OTU_984",0,0.166779420100442,-0.166779420100442,"Bacteria","Proteobacteria","Alphaproteobacteria","Hyphomicrobiales","Bradyrhizobiaceae","Bradyrhizobium","Bradyrhizobium elkanii"
-"508","OTU_99",0.199033825114822,0.120216445496225,0.0788173796185977,"Bacteria","Firmicutes","Negativicutes","Acidaminococcales","Acidaminococcaceae","Phascolarctobacterium","Phascolarctobacterium faecium"
-"509","OTU_998",0.256176860372733,0,0.256176860372733,"Bacteria","Proteobacteria","Betaproteobacteria","Burkholderiales","Burkholderiaceae","Burkholderia","Burkholderia sp. RAU2d"
+,OTUID,Warming,Control,delta.eaf,Kingdom,Phylum,Class,Order,Family,Genus,Species
+1,OTU_1,0.375292498,0,0.375292498,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+2,OTU_10,0.393345973,0.174251359,0.219094613,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Calotrichaceae,Calothrix,Calothrix sp. NIES-2100
+3,OTU_10098,0.494933039,0,0.494933039,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+4,OTU_101,0.258555755,0,0.258555755,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+5,OTU_10142,0.437021738,0,0.437021738,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+6,OTU_1016,0.359206473,0,0.359206473,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Hyphomicrobium,Hyphomicrobium sp.
+7,OTU_102,0.276802722,0,0.276802722,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Tolypothrichaceae,Tolypothrix,Tolypothrix tenuis
+8,OTU_1036,0.204363735,0,0.204363735,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,unknown Bradyrhizobium
+9,OTU_10372,0,0.16118002,-0.16118002,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+10,OTU_1047,0.636220684,0.181921456,0.454299228,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Halotia,Halotia wernerae
+11,OTU_10566,0.355971699,0,0.355971699,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Agrobacterium,Agrobacterium tumefaciens complex
+12,OTU_10633,0.354896445,0,0.354896445,Bacteria,Proteobacteria,Acidithiobacillia,Acidithiobacillales,Acidithiobacillaceae,Acidithiobacillus,Acidithiobacillus ferrooxidans
+13,OTU_1066,0.199303497,0,0.199303497,Bacteria,Proteobacteria,Alphaproteobacteria,Micropepsales,Micropepsaceae,Rhizomicrobium,Rhizomicrobium electricum
+14,OTU_1069,0,0.345825755,-0.345825755,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Tolypothrichaceae,Tolypothrix,Tolypothrix sp. NIES-4075
+15,OTU_107,0.52007272,0.151284198,0.368788522,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+16,OTU_10707,0.380763509,0,0.380763509,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+17,OTU_1074,0.305866662,0.147372536,0.158494126,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium sp.
+18,OTU_10806,0.167934985,0,0.167934985,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Agrobacterium,Agrobacterium tumefaciens complex
+19,OTU_109,0.260711772,0,0.260711772,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+20,OTU_11,0.22725375,0,0.22725375,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+21,OTU_110784,0.36427373,0,0.36427373,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,Rhodobacter capsulatus
+22,OTU_1119,0.539757451,0.149311327,0.390446124,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,Nostoc sp. UAM 362
+23,OTU_1127,0.721173283,0,0.721173283,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+24,OTU_1136,0.194888756,0,0.194888756,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium waimense
+25,OTU_11362,0,0.191017461,-0.191017461,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+26,OTU_114,0.50274597,0,0.50274597,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+27,OTU_1140,0.450568486,0,0.450568486,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Scytonemataceae,Brasilonema,Brasilonema sp. CENA360
+28,OTU_1141,0.285764318,0.108192254,0.177572064,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Azospirillaceae,Azospirillum,Azospirillum brasilense
+29,OTU_1146,0.2486319,0,0.2486319,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Scytonemataceae,Scytonema,Scytonema sp. LEGE 07189
+30,OTU_1150,0.403178456,0.179637575,0.223540882,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+31,OTU_1152,0.182944125,0,0.182944125,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+32,OTU_116,0.224041325,0,0.224041325,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Rhodoplanes,Rhodoplanes roseus
+33,OTU_11764,0.446356326,0.245100205,0.201256121,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+34,OTU_1178,0.251080357,0,0.251080357,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,Geobacter sulfurreducens
+35,OTU_1179,0.318428452,0,0.318428452,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+36,OTU_118,0.273752807,0.127650867,0.14610194,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Defluviicoccus,Defluviicoccus vanus
+37,OTU_1188,0.365244523,0,0.365244523,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+38,OTU_119,0.368462291,0.177411945,0.191050347,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+39,OTU_12,0.47266763,0,0.47266763,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+40,OTU_1200,0.275942101,0,0.275942101,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Oxalobacter,Oxalobacter sp.
+41,OTU_120707,0.33745536,0,0.33745536,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia sp. RAU2d
+42,OTU_1209,0.415385104,0,0.415385104,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+43,OTU_121,0.595005807,0,0.595005807,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+44,OTU_12148,0,0.122957392,-0.122957392,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+45,OTU_1229,0.355273744,0,0.355273744,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+46,OTU_123,0.191948311,0,0.191948311,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Hyphomicrobium,Hyphomicrobium sp.
+47,OTU_1231,0.477960374,0,0.477960374,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Calotrichaceae,Calothrix,Calothrix sp. NIES-2098
+48,OTU_124205,0.241207745,0,0.241207745,Bacteria,Cyanobacteria,unknown Cyanobacteria,Oscillatoriales,unknown Oscillatoriales,Microseira,Microseira wollei
+49,OTU_126,0.215216948,0,0.215216948,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,Rhodobacter capsulatus
+50,OTU_12608,0.209631923,0,0.209631923,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,unknown Sphingomonas
+51,OTU_12655,0.227039886,0,0.227039886,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Scytonemataceae,Scytonema,Scytonema sp. LEGE 07189
+52,OTU_1268,0.394708462,0.112965756,0.281742706,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Wollea,Wollea ambigua
+53,OTU_129,0.318709842,0.262107697,0.056602145,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Leptolyngbyaceae,Leptolyngbya,Leptolyngbya sp. CCY15150
+54,OTU_1294,0.332626044,0.224184116,0.108441929,Bacteria,Cyanobacteria,unknown Cyanobacteria,Oscillatoriales,unknown Oscillatoriales,Microseira,Microseira wollei
+55,OTU_130,0.341668288,0,0.341668288,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Rhodoplanes,Rhodoplanes roseus
+56,OTU_1304,0.376466089,0.228368729,0.14809736,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,Nostoc sp. UAM 362
+57,OTU_1305,0.276442445,0,0.276442445,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Rhodoplanes,Rhodoplanes roseus
+58,OTU_1309,0.282413297,0,0.282413297,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+59,OTU_131,0.212870589,0,0.212870589,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Rhodoplanes,Rhodoplanes roseus
+60,OTU_1313,0.468462655,0.191049494,0.277413161,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Halotia,Halotia wernerae
+61,OTU_1324,0.296893444,0,0.296893444,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Richelia,Richelia intracellularis
+62,OTU_1325,0.246970264,0,0.246970264,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+63,OTU_1334,0.27888831,0.122774338,0.156113972,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Sinorhizobium,Sinorhizobium fredii group
+64,OTU_134,0.371329525,0.153092105,0.21823742,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,Rhodobacter capsulatus
+65,OTU_1352,0.258477786,0,0.258477786,Bacteria,Cyanobacteria,unknown Cyanobacteria,Oscillatoriales,unknown Oscillatoriales,Microseira,Microseira wollei
+66,OTU_1357,0.160831282,0,0.160831282,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Caldichromatium,Caldichromatium japonicum
+67,OTU_136,0.282775355,0,0.282775355,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium shangrilense
+68,OTU_1386,0.222829959,0,0.222829959,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. in: Bacteria
+69,OTU_1395,0,0.079279522,-0.079279522,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Sinorhizobium,Sinorhizobium meliloti
+70,OTU_14,0.236874677,0,0.236874677,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+71,OTU_140,0.36601898,0,0.36601898,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Hyphomicrobium,Hyphomicrobium sp.
+72,OTU_142,0,0.287603995,-0.287603995,Bacteria,Cyanobacteria,unknown Cyanobacteria,Chroococcales,Aphanothecaceae,Gloeothece,Gloeothece tepidariorum
+73,OTU_143,0.204514173,0,0.204514173,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter lovaniensis
+74,OTU_1435,0.233047388,0,0.233047388,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+75,OTU_14353,0.233479392,0,0.233479392,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Ensifer,Ensifer sp. CHU2
+76,OTU_144332,0.369681771,0,0.369681771,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium sp. HK7
+77,OTU_145,0.124267825,0,0.124267825,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Richelia,Richelia intracellularis
+78,OTU_1450,0.18797237,0,0.18797237,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+79,OTU_1457,0.118746165,0,0.118746165,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium silamurunense
+80,OTU_1468,0,0.148717843,-0.148717843,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Cylindrospermum,Cylindrospermum sp. NIES-4074
+81,OTU_147,0,0.365081763,-0.365081763,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Calotrichaceae,Calothrix,Calothrix sp. PCC 7507
+82,OTU_1476,0.238133021,0,0.238133021,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,Rhodobacter capsulatus
+83,OTU_148,0.442490297,0,0.442490297,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+84,OTU_1499,0.387430901,0,0.387430901,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Neorhizobium,Neorhizobium galegae
+85,OTU_15,0.430389475,0.281092694,0.149296781,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+86,OTU_151,0.270414855,0.163717735,0.10669712,Bacteria,Planctomycetes,Planctomycetia,Isosphaerales,Isosphaeraceae,Aquisphaera,Aquisphaera sp. JC669
+87,OTU_1512,0.172838761,0,0.172838761,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia fungorum
+88,OTU_1528,0.191871438,0,0.191871438,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Rhodomicrobium,Rhodomicrobium lacus
+89,OTU_1547,0.264681025,0,0.264681025,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Rhodocyclaceae,Aromatoleum,Aromatoleum toluvorans
+90,OTU_155,0.223326506,0,0.223326506,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+91,OTU_1558,0.478146975,0,0.478146975,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+92,OTU_156,0.258597559,0.280478538,-0.021880979,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium nodulans
+93,OTU_1576,0.484423985,0.190912113,0.293511872,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+94,OTU_158,0.247362766,0,0.247362766,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Sinorhizobium,Sinorhizobium meliloti
+95,OTU_1580,0.167900624,0,0.167900624,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Rhodoplanes,Rhodoplanes roseus
+96,OTU_1592,0.24928997,0,0.24928997,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium sp. CCBAU 23010
+97,OTU_1597,0.235237952,0,0.235237952,Bacteria,Verrucomicrobia,unknown Verrucomicrobia,unknown Verrucomicrobia,unknown Verrucomicrobia,unknown Verrucomicrobia,unknown Verrucomicrobia
+98,OTU_15972,0.243080147,0,0.243080147,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+99,OTU_15991,0.152045954,0,0.152045954,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+100,OTU_16,0,0.229272398,-0.229272398,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sagittaria
+101,OTU_160,0.278183635,0,0.278183635,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Rhodoplanes,Rhodoplanes roseus
+102,OTU_1629,0.178643865,0,0.178643865,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+103,OTU_16296,0.241507845,0,0.241507845,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium sp.
+104,OTU_1650,0,0.170804584,-0.170804584,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Compactonostoc,Compactonostoc shennongjiaense
+105,OTU_1656,0.285979529,0,0.285979529,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium metallidurans
+106,OTU_1665,0.213836699,0,0.213836699,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+107,OTU_167,0.168895333,0,0.168895333,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Rhodoplanes,Rhodoplanes roseus
+108,OTU_1672,0.158924341,0,0.158924341,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Agrobacterium,Agrobacterium tumefaciens complex
+109,OTU_1673,0.19913554,0,0.19913554,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Rhodoplanes,Rhodoplanes roseus
+110,OTU_1680,0.276448173,0,0.276448173,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium canariense
+111,OTU_1684,0.355751782,0.184082317,0.171669465,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium sp.
+112,OTU_1685,0.185336467,0.11157854,0.073757927,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Methyloceanibacter,Methyloceanibacter methanicus
+113,OTU_1699,0.348699672,0,0.348699672,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Magnetospirillum,Magnetospirillum sp.
+114,OTU_17,0.328971715,0,0.328971715,Bacteria,Cyanobacteria,unknown Cyanobacteria,Oscillatoriales,Oscillatoriaceae,Limnoraphis,Limnoraphis robusta
+115,OTU_17069,0.306068154,0,0.306068154,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Sinorhizobium,Sinorhizobium sp. SCAU218
+116,OTU_1711,0.522512356,0,0.522512356,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Scytonemataceae,Scytonema,Scytonema sp. NIES-4073
+117,OTU_1750,0.461185073,0,0.461185073,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+118,OTU_177,0.259912962,0,0.259912962,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Xanthobacteraceae,Xanthobacter,Xanthobacter autotrophicus
+119,OTU_1776,0.223897757,0,0.223897757,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+120,OTU_178,0.203703167,0,0.203703167,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Azospirillaceae,Azospirillum,Azospirillum zeae
+121,OTU_17939,0.322732506,0.209415436,0.113317069,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Ensifer,Ensifer sp.
+122,OTU_180,0.305485563,0,0.305485563,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Azospirillaceae,Azospirillum,Azospirillum zeae
+123,OTU_1808,0.40104588,0.234226769,0.166819111,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+124,OTU_181,0.449875246,0.18704451,0.262830736,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Beijerinckiaceae,Methylocapsa,Methylocapsa aurea
+125,OTU_1811,0,0.152894474,-0.152894474,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Halotia,Halotia wernerae
+126,OTU_182,0.292001011,0.124760813,0.167240198,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Ensifer,Ensifer sp. CHU2
+127,OTU_1840,0,0.162082825,-0.162082825,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,Nostoc sp. UAM 362
+128,OTU_18630,0,0.155243539,-0.155243539,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+129,OTU_1865,0.510697369,0,0.510697369,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,Nostoc sp. UAM 362
+130,OTU_187,0.542746699,0,0.542746699,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+131,OTU_1889,0.313467367,0,0.313467367,Bacteria,Cyanobacteria,unknown Cyanobacteria,Oscillatoriales,unknown Oscillatoriales,Microseira,Microseira wollei
+132,OTU_1890,0.177369202,0,0.177369202,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+133,OTU_1902,0.247449396,0,0.247449396,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium elkanii
+134,OTU_19030,0.261039047,0,0.261039047,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+135,OTU_1914,0.128561142,0,0.128561142,Bacteria,Cyanobacteria,unknown Cyanobacteria,Oscillatoriales,unknown Oscillatoriales,Microseira,Microseira wollei
+136,OTU_19163,0.328665608,0,0.328665608,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Defluviicoccus,Defluviicoccus sp.
+137,OTU_1922,0.329511699,0,0.329511699,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+138,OTU_193,0.252337597,0.101508013,0.150829584,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Richelia,Richelia intracellularis
+139,OTU_196,0.235624528,0,0.235624528,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Thioalkalispiraceae,Thioalkalispira,Thioalkalispira microaerophila
+140,OTU_1967,0.222163949,0.068383799,0.15378015,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Scytonemataceae,Brasilonema,Brasilonema sp. CENA360
+141,OTU_1978,0.25449648,0,0.25449648,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Rhodoplanes,Rhodoplanes roseus
+142,OTU_198,0.274685371,0,0.274685371,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Mangrovicoccus,Mangrovicoccus sp. HB161399
+143,OTU_199,0.252534015,0,0.252534015,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium japonicum
+144,OTU_1991,0.32625015,0,0.32625015,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+145,OTU_2,0.408440754,0,0.408440754,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+146,OTU_20,0.274853565,0,0.274853565,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Aurantimonadaceae,Consotaella,Consotaella salsifontis
+147,OTU_2002,0.235309123,0,0.235309123,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Magnetospirillum,Magnetospirillum sp.
+148,OTU_2009,0.350350226,0,0.350350226,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+149,OTU_201,0.549885503,0,0.549885503,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Calotrichaceae,Calothrix,Calothrix sp. NIES-2100
+150,OTU_203,0,0.123606905,-0.123606905,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+151,OTU_2089,0,0.17659443,-0.17659443,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Halotia,Halotia wernerae
+152,OTU_209,0.181901962,0,0.181901962,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+153,OTU_21,0.254947096,0,0.254947096,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Anaeromyxobacteraceae,Anaeromyxobacter,Anaeromyxobacter sp. Red267
+154,OTU_210,0.296359073,0,0.296359073,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Methylocystaceae,Methylosinus,Methylosinus sp. LW4
+155,OTU_21094,0,0.167564397,-0.167564397,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+156,OTU_2112,0.272009845,0,0.272009845,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Methyloceanibacter,Methyloceanibacter methanicus
+157,OTU_21391,0.476427678,0,0.476427678,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+158,OTU_215,0.270805038,0,0.270805038,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Rhodoplanes,Rhodoplanes roseus
+159,OTU_216,0.200381457,0,0.200381457,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Beijerinckiaceae,Methylocapsa,Methylocapsa acidiphila
+160,OTU_2178,0.253848348,0,0.253848348,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodovulum,Rhodovulum sp. ES.010
+161,OTU_2181,0.497000233,0.245185684,0.251814549,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Calotrichaceae,Calothrix,Calothrix sp. NIES-2100
+162,OTU_219,0.275582517,0,0.275582517,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium sp. ISA0203
+163,OTU_22,0.285530886,0.1622544,0.123276486,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Scytonemataceae,Scytonema,Scytonema sp. LEGE 07189
+164,OTU_220,0.459532328,0,0.459532328,Bacteria,Cyanobacteria,unknown Cyanobacteria,Chroococcales,Aphanothecaceae,Gloeothece,Gloeothece tepidariorum
+165,OTU_2213,0,0.184972961,-0.184972961,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+166,OTU_2219,0.247985718,0,0.247985718,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Richelia,Richelia sp. SC01
+167,OTU_22209,0.270916298,0.122846967,0.148069331,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Allochromatium,Allochromatium vinosum
+168,OTU_223,0.3121972,0.228954661,0.083242539,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Agrobacterium,Agrobacterium tumefaciens complex
+169,OTU_22324,0.213841796,0,0.213841796,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia sp. enrichment culture clone CACua-88
+170,OTU_224,0.506036005,0.144917205,0.3611188,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,Nostoc sp. UAM 362
+171,OTU_2258,0.225037733,0,0.225037733,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Scytonemataceae,Brasilonema,Brasilonema sp. CENA360
+172,OTU_226,0.237589131,0,0.237589131,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Methylocystaceae,Methylocystis,Methylocystis sp. H15
+173,OTU_22623,0.305630538,0,0.305630538,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+174,OTU_2287,0.333311009,0,0.333311009,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Rhodoplanes,Rhodoplanes roseus
+175,OTU_23,0.536810862,0.208358483,0.328452379,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+176,OTU_2326,0.332945128,0,0.332945128,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Methylocystaceae,Methylosinus,Methylosinus sp. LW3
+177,OTU_234,0.177684704,0,0.177684704,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Ensifer,Ensifer sp.
+178,OTU_235,0.529673085,0.185643393,0.344029691,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,Nostoc sp. CENA356
+179,OTU_2364,0.297264397,0,0.297264397,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+180,OTU_237,0.2446095,0,0.2446095,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum
+181,OTU_2381,0.456102125,0,0.456102125,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+182,OTU_2392,0.276567112,0,0.276567112,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia sp. HC6.4b
+183,OTU_24,0.610583104,0,0.610583104,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+184,OTU_2409,0.227945673,0,0.227945673,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Scytonemataceae,Scytonema,Scytonema sp. LEGE 07189
+185,OTU_241,0.360446336,0.256072751,0.104373586,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium waimense
+186,OTU_24173,0.241980566,0,0.241980566,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium elkanii
+187,OTU_24235,0.479505683,0.129238123,0.35026756,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+188,OTU_2424,0.249583839,0,0.249583839,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+189,OTU_2443,0.226791,0,0.226791,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Scytonemataceae,Scytonema,Scytonema sp. LEGE 07189
+190,OTU_2447,0.223390632,0.112882163,0.110508469,Bacteria,Actinobacteria,Actinomycetia,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. CCBAU 10866
+191,OTU_2451,0.389381205,0,0.389381205,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+192,OTU_24570,0.255650036,0,0.255650036,Bacteria,Cyanobacteria,unknown Cyanobacteria,Oscillatoriales,Oscillatoriaceae,Oscillatoria,Oscillatoria sp. MMG-2
+193,OTU_2465,0.285096999,0.130622352,0.154474647,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Azospirillaceae,Azospirillum,Azospirillum zeae
+194,OTU_247,0.226540973,0,0.226540973,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Ciceribacter,unknown Ciceribacter
+195,OTU_2482,0.173959046,0,0.173959046,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium elkanii
+196,OTU_24867,0.186813084,0.074864138,0.111948947,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. in: Bacteria
+197,OTU_249,0.285785378,0,0.285785378,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Prochlorotrichaceae,Nodosilinea,Nodosilinea nodulosa
+198,OTU_25,0.536234213,0.290929376,0.245304837,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+199,OTU_253,0.17319614,0,0.17319614,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+200,OTU_2536,0.321977003,0,0.321977003,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia cepacia complex
+201,OTU_2542,0.282863016,0.153836276,0.12902674,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium sp. STM 3080
+202,OTU_2557,0,0.185648485,-0.185648485,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia sp. enrichment culture clone CACua-88
+203,OTU_2574,0.316862619,0,0.316862619,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Aquabacter,Aquabacter cavernae
+204,OTU_2598,0.238548909,0,0.238548909,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+205,OTU_2633,0.195306777,0,0.195306777,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+206,OTU_2638,0.2894734,0,0.2894734,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group
+207,OTU_265,0.204715685,0,0.204715685,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium metallidurans
+208,OTU_266,0.212980712,0,0.212980712,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia sp. RAU2d
+209,OTU_2660,0.317149005,0,0.317149005,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,Nostoc sp. Lobaria pulmonaria 5183 cyanobiont
+210,OTU_27,0.533863379,0.300225399,0.23363798,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Tolypothrichaceae,Tolypothrix,Tolypothrix sp. ACSSI 331
+211,OTU_278,0.260663887,0.127425622,0.133238265,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,unknown Mesorhizobium
+212,OTU_28,0.226518993,0,0.226518993,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Rhodoplanes,Rhodoplanes roseus
+213,OTU_283,0.274171434,0,0.274171434,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium sp.
+214,OTU_2855,0.280628711,0,0.280628711,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Rhodoplanes,Rhodoplanes roseus
+215,OTU_286,0.300301737,0,0.300301737,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Agrobacterium,Agrobacterium tumefaciens complex
+216,OTU_2867,0,0.29175614,-0.29175614,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+217,OTU_2871,0.199714367,0,0.199714367,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Azospirillaceae,Azospirillum,Azospirillum zeae
+218,OTU_2879,0.241181605,0,0.241181605,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,Rhodobacter capsulatus
+219,OTU_29,0.242967855,0.124051237,0.118916617,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+220,OTU_290,0.233752962,0,0.233752962,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Rhodoplanes,Rhodoplanes roseus
+221,OTU_2904,0.309189623,0.14813722,0.161052404,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Allochromatium,Allochromatium vinosum
+222,OTU_292,0.457817384,0.178332703,0.279484681,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Calotrichaceae,Calothrix,Calothrix sp. NIES-2100
+223,OTU_2928,0.327188279,0.121420858,0.205767421,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Defluviicoccus,Defluviicoccus sp.
+224,OTU_293,0.280027135,0.148159968,0.131867167,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+225,OTU_2943,0.285713834,0,0.285713834,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Cereibacter,Cereibacter azotoformans
+226,OTU_299,0.33930167,0,0.33930167,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Allochromatium,Allochromatium vinosum
+227,OTU_299035,0.16042536,0,0.16042536,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Cereibacter,Cereibacter changlensis
+228,OTU_30,0.27463441,0.186656808,0.087977602,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+229,OTU_300,0.605394699,0,0.605394699,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+230,OTU_3026,0,0.171535376,-0.171535376,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Calotrichaceae,Calothrix,Calothrix sp. NIES-2100
+231,OTU_3039,0.398821499,0.086997015,0.311824483,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+232,OTU_3040,0.198900118,0.104876291,0.094023827,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+233,OTU_3056,0.423036614,0,0.423036614,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+234,OTU_310,0.360994657,0,0.360994657,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium sp.
+235,OTU_31111,0.353781466,0,0.353781466,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+236,OTU_312,0.243757646,0.11987508,0.123882566,Bacteria,Firmicutes,Clostridia,Eubacteriales,Peptostreptococcaceae,Romboutsia,Romboutsia lituseburensis
+237,OTU_314,0,0.132462899,-0.132462899,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Rhodomicrobium,Rhodomicrobium lacus
+238,OTU_31432,0.193356224,0,0.193356224,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Defluviicoccus,Defluviicoccus vanus
+239,OTU_3150,0.355103691,0,0.355103691,Bacteria,Firmicutes,Clostridia,Eubacteriales,Eubacteriaceae,Acetobacterium,Acetobacterium paludosum
+240,OTU_316,0.195548709,0,0.195548709,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Stigonemataceae,Stigonema,Stigonema ocellatum
+241,OTU_317,0.216885149,0,0.216885149,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia phymatum
+242,OTU_3177,0.308144934,0,0.308144934,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+243,OTU_3180,0.183214793,0,0.183214793,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Anaeromyxobacteraceae,Anaeromyxobacter,Anaeromyxobacter sp. Red267
+244,OTU_32,0.286311392,0,0.286311392,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Rahnella,Rahnella sp. AA
+245,OTU_320,0.46022205,0,0.46022205,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+246,OTU_3202,0.291942131,0,0.291942131,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium sp. ORS 3356
+247,OTU_32348,0.371299322,0,0.371299322,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+248,OTU_325,0.354662536,0,0.354662536,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia cepacia complex
+249,OTU_3252,0.18187166,0,0.18187166,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Microvirga,Microvirga sp. KLBC 81
+250,OTU_326,0.164178381,0,0.164178381,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Rhodoplanes,Rhodoplanes roseus
+251,OTU_3262,0,0.240487981,-0.240487981,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,Nostoc sp. UAM 362
+252,OTU_3273,0.223303896,0,0.223303896,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Methyloceanibacter,Methyloceanibacter methanicus
+253,OTU_32762,0.203239351,0,0.203239351,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Cereibacter,Cereibacter azotoformans
+254,OTU_3291,0.365220544,0.22114871,0.144071834,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,Nostoc sp. UAM 362
+255,OTU_3310,0.316146719,0,0.316146719,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+256,OTU_333,0.340579135,0,0.340579135,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,Desulfovibrio sp. FSS-1
+257,OTU_335,0.523809864,0.141615904,0.382193961,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+258,OTU_3357,0.33184075,0.191510664,0.140330086,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Richelia,Richelia intracellularis
+259,OTU_3368,0.201302364,0,0.201302364,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Beijerinckiaceae,Methylocella,Methylocella silvestris
+260,OTU_3373,0,0.127020216,-0.127020216,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Hyphomicrobium,Hyphomicrobium sp.
+261,OTU_339,0.50701726,0,0.50701726,Bacteria,Cyanobacteria,unknown Cyanobacteria,Chroococcales,Aphanothecaceae,Gloeothece,Gloeothece tepidariorum
+262,OTU_33988,0.365723099,0,0.365723099,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+263,OTU_341,0.250639608,0,0.250639608,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia fungorum
+264,OTU_3416,0.544291134,0,0.544291134,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Halotia,Halotia wernerae
+265,OTU_3430,0.239706828,0,0.239706828,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Azonexaceae,Azonexus,Azonexus fungiphilus
+266,OTU_34322,0.311706634,0.143815764,0.16789087,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia cepacia complex
+267,OTU_3494,0.499186149,0.165881618,0.333304532,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Halotia,Halotia wernerae
+268,OTU_3507,0.24598688,0,0.24598688,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+269,OTU_35567,0.266713617,0,0.266713617,Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Cellulosilyticum,Cellulosilyticum sp. WCF-2
+270,OTU_358,0.173628796,0,0.173628796,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Ensifer,Ensifer sp. CHU2
+271,OTU_35827,0.334502253,0.199079392,0.13542286,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia sp. RAU2l
+272,OTU_36,0.243022657,0,0.243022657,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia fungorum
+273,OTU_36093,0.251017479,0,0.251017479,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+274,OTU_361,0.269163229,0,0.269163229,Bacteria,Firmicutes,unknown Firmicutes,unknown Firmicutes,unknown Firmicutes,unknown Firmicutes,Firmicutes bacterium R50
+275,OTU_3610,0.315928912,0,0.315928912,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium sp.
+276,OTU_3615,0.2388194,0,0.2388194,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+277,OTU_362,0,0.175259272,-0.175259272,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Tolypothrichaceae,Tolypothrix,Tolypothrix sp. NIES-4075
+278,OTU_36216,0.303036403,0.259684953,0.04335145,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium huakuii
+279,OTU_363,0.141377051,0,0.141377051,Bacteria,Proteobacteria,Alphaproteobacteria,Micropepsales,Micropepsaceae,Rhizomicrobium,Rhizomicrobium electricum
+280,OTU_3632,0.246180854,0,0.246180854,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Azospirillaceae,Azospirillum,Azospirillum zeae
+281,OTU_3633,0.531912182,0.301767024,0.230145158,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Calotrichaceae,Calothrix,Calothrix sp. NIES-2100
+282,OTU_3636,0.303103566,0,0.303103566,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Azospirillaceae,Azospirillum,Azospirillum zeae
+283,OTU_3652,0.290711749,0,0.290711749,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Defluviicoccus,Defluviicoccus sp.
+284,OTU_3661,0.568844567,0,0.568844567,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+285,OTU_3672,0,0.17839079,-0.17839079,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+286,OTU_3686,0.376357933,0,0.376357933,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia fungorum
+287,OTU_3688,0.212723174,0,0.212723174,Bacteria,Cyanobacteria,unknown Cyanobacteria,Oscillatoriales,unknown Oscillatoriales,Microseira,Microseira wollei
+288,OTU_3737,0.272388802,0,0.272388802,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum
+289,OTU_3757,0.333647634,0.108240721,0.225406913,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Rhodoplanes,Rhodoplanes roseus
+290,OTU_38,0.227765601,0,0.227765601,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium sp.
+291,OTU_382,0.301542696,0,0.301542696,Bacteria,Cyanobacteria,unknown Cyanobacteria,Oscillatoriales,unknown Oscillatoriales,Microseira,Microseira wollei
+292,OTU_386,0.371373159,0,0.371373159,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,Rhodobacter capsulatus
+293,OTU_3874,0.116614485,0,0.116614485,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Ensifer,Ensifer sp. CHU2
+294,OTU_3883,0.238273362,0,0.238273362,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium sp. ISA0203
+295,OTU_39,0.352994326,0.186854749,0.166139577,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium opportunistum
+296,OTU_391,0.299974291,0.10947409,0.190500201,Bacteria,Actinobacteria,Actinomycetia,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. CCBAU 10866
+297,OTU_392,0.244648457,0,0.244648457,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium sp. Z15
+298,OTU_394,0.251625656,0,0.251625656,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia fungorum
+299,OTU_398,0.114117664,0,0.114117664,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+300,OTU_3983,0,0.22707757,-0.22707757,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+301,OTU_399,0.235465229,0,0.235465229,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Aurantimonadaceae,Consotaella,Consotaella salsifontis
+302,OTU_4,0.455151865,0.177675626,0.27747624,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Calotrichaceae,Calothrix,Calothrix sp. NIES-2100
+303,OTU_40,0.239573038,0,0.239573038,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,unknown Bradyrhizobium
+304,OTU_402,0.238598456,0,0.238598456,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+305,OTU_4027,0,0.208928091,-0.208928091,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+306,OTU_404,0.312043493,0.249752898,0.062290595,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+307,OTU_4057,0.31783251,0,0.31783251,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Ensifer,Ensifer sp. CHU2
+308,OTU_406,0.231306594,0,0.231306594,Bacteria,Cyanobacteria,unknown Cyanobacteria,Oscillatoriales,unknown Oscillatoriales,Microseira,Microseira wollei
+309,OTU_408,0.204210192,0,0.204210192,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium sp. DASA 68056
+310,OTU_41,0.267008382,0,0.267008382,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia cepacia complex
+311,OTU_4118,0.190373091,0,0.190373091,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus spiritus
+312,OTU_413,0.364892043,0,0.364892043,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia fungorum
+313,OTU_4164,0.446634592,0.185639092,0.2609955,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+314,OTU_4178,0.247516774,0,0.247516774,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Blastochloridaceae,Blastochloris,Blastochloris sulfoviridis
+315,OTU_4193,0.180079212,0,0.180079212,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodovulum,Rhodovulum sp. ES.010
+316,OTU_42,0.356918049,0.199306949,0.1576111,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+317,OTU_424,0.658890502,0,0.658890502,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+318,OTU_427,0.133953551,0,0.133953551,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium sp. P3-24
+319,OTU_43,0.526562122,0,0.526562122,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+320,OTU_430,0.244704731,0.133715348,0.110989384,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Azospirillaceae,Azospirillum,Azospirillum fermentarium
+321,OTU_4300,0.285247454,0,0.285247454,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Rhodopila,Rhodopila globiformis
+322,OTU_431,0.209808416,0,0.209808416,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Richelia,Richelia intracellularis
+323,OTU_432,0,0.360950469,-0.360950469,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+324,OTU_43697,0.174681833,0,0.174681833,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium sp.
+325,OTU_4382,0.45756618,0,0.45756618,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium sangaii
+326,OTU_442,0.258376451,0,0.258376451,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+327,OTU_44246,0.233063709,0,0.233063709,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum
+328,OTU_444,0.592353043,0,0.592353043,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+329,OTU_445,0.219916697,0,0.219916697,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia unamae
+330,OTU_4468,0,0.230824777,-0.230824777,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+331,OTU_450,0,0.28287238,-0.28287238,Bacteria,Cyanobacteria,unknown Cyanobacteria,Chroococcales,Aphanothecaceae,Gloeothece,Gloeothece tepidariorum
+332,OTU_4519,0.230570296,0,0.230570296,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+333,OTU_453,0.263987945,0,0.263987945,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium sp. SEMIA 6014
+334,OTU_4556,0.503792718,0.146455748,0.35733697,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+335,OTU_456,0.291140847,0,0.291140847,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,unknown Mesorhizobium
+336,OTU_460,0.234261945,0,0.234261945,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+337,OTU_461,0.357977531,0,0.357977531,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodovulum,Rhodovulum sp. PH10
+338,OTU_463,0.15462741,0,0.15462741,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Thiohalocapsa,Thiohalocapsa sp. PB-PSB1
+339,OTU_469,0.376463682,0,0.376463682,Bacteria,Cyanobacteria,unknown Cyanobacteria,Oscillatoriales,Oscillatoriaceae,Oscillatoria,Oscillatoria sp. MMG-2
+340,OTU_47,0.525039618,0,0.525039618,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+341,OTU_48,0.265197883,0,0.265197883,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Magnetospirillum,Magnetospirillum sp.
+342,OTU_481,0.498636425,0.32038475,0.178251675,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Cylindrospermum,Cylindrospermum muscicola
+343,OTU_486,0.281300385,0,0.281300385,Bacteria,Cyanobacteria,unknown Cyanobacteria,Oscillatoriales,unknown Oscillatoriales,Microseira,Microseira wollei
+344,OTU_488,0,0.162737001,-0.162737001,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Leptolyngbyaceae,Leptolyngbya,Leptolyngbya sp. CENA350
+345,OTU_492,0.209222083,0,0.209222083,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Hyphomicrobium,Hyphomicrobium sp.
+346,OTU_49431,0.170003847,0,0.170003847,Bacteria,Cyanobacteria,unknown Cyanobacteria,Oscillatoriales,Oscillatoriaceae,Oscillatoria,Oscillatoria sp. MMG-2
+347,OTU_4969,0.133927939,0,0.133927939,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+348,OTU_498,0.146242634,0,0.146242634,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Thioalkalispiraceae,Thioalkalispira,Thioalkalispira microaerophila
+349,OTU_4986,0.356884267,0,0.356884267,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+350,OTU_50,0.246517229,0,0.246517229,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium elkanii
+351,OTU_500,0.21418476,0,0.21418476,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium waimense
+352,OTU_501,0.249412962,0.129159687,0.120253275,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,unknown Bradyrhizobium
+353,OTU_502,0.56562516,0.201862385,0.363762775,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Calotrichaceae,Calothrix,Calothrix sp. NIES-2100
+354,OTU_504,0.334795892,0,0.334795892,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus spiritus
+355,OTU_507,0.477506626,0.200158504,0.277348122,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,Nostoc sp. UAM 362
+356,OTU_51,0.305945905,0,0.305945905,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia sp. enrichment culture clone CACua-88
+357,OTU_513,0.294397577,0,0.294397577,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium tarimense
+358,OTU_51507,0.44819066,0,0.44819066,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Halotia,Halotia wernerae
+359,OTU_5158,0.477825234,0,0.477825234,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,Nostoc sp. UAM 362
+360,OTU_520,0.32631308,0.206407176,0.119905903,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Rhodomicrobium,Rhodomicrobium vannielii
+361,OTU_5234,0.540309071,0,0.540309071,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Rhodovastum,Rhodovastum atsumiense
+362,OTU_52467,0.386704418,0,0.386704418,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+363,OTU_5255,0.324659234,0,0.324659234,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+364,OTU_526,0.224343136,0,0.224343136,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia sp. MM5384-R2
+365,OTU_5294,0.228923099,0,0.228923099,Bacteria,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Allochromatium,Allochromatium vinosum
+366,OTU_5317,0.355369313,0,0.355369313,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,Sphingomonas azotifigens
+367,OTU_533,0,0.210860641,-0.210860641,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Dendronalium,Dendronalium phyllosphericum
+368,OTU_5355,0.186829732,0,0.186829732,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium sp.
+369,OTU_5374,0.471762559,0.163051234,0.308711325,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+370,OTU_54,0.249797394,0,0.249797394,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia sp. RAU2l
+371,OTU_542,0.290097184,0.121825225,0.16827196,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Aphanizomenonaceae,Anabaenopsis,Anabaenopsis sp. NRE1
+372,OTU_5433,0.293867568,0,0.293867568,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Chromobacteriaceae,Paludibacterium,Paludibacterium yongneupense
+373,OTU_5461,0.239443323,0.156648993,0.08279433,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Magnetospirillum,Magnetospirillum sp.
+374,OTU_5498,0.239776711,0,0.239776711,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+375,OTU_55,0.235643727,0,0.235643727,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Calotrichaceae,Calothrix,Calothrix sp. PCC 7507
+376,OTU_551,0.290988844,0.12718526,0.163803584,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Beijerinckiaceae,Methylocapsa,Methylocapsa palsarum
+377,OTU_5517,0.360805997,0,0.360805997,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium sp.
+378,OTU_5532,0.247884411,0,0.247884411,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium elkanii
+379,OTU_557,0,0.192371577,-0.192371577,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,unknown Mesorhizobium
+380,OTU_55726,0.274436596,0,0.274436596,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Ensifer,Ensifer sp. CHU2
+381,OTU_5596,0.269036766,0,0.269036766,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Blastochloridaceae,Blastochloris,Blastochloris sulfoviridis
+382,OTU_5625,0.195035654,0,0.195035654,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Pararhodospirillum,Pararhodospirillum oryzae
+383,OTU_565,0.194489056,0,0.194489056,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium sp.
+384,OTU_567,0.397826112,0.211321172,0.18650494,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Defluviicoccus,Defluviicoccus vanus
+385,OTU_569,0.156985686,0,0.156985686,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Telmatospirillum,Telmatospirillum sp. J64-1
+386,OTU_57,0.645571601,0,0.645571601,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+387,OTU_5779,0.435000705,0,0.435000705,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Azospirillaceae,Azospirillum,Azospirillum sp. TN09
+388,OTU_5799,0.419468907,0,0.419468907,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+389,OTU_58,0.361538531,0,0.361538531,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Rhodoplanes,Rhodoplanes roseus
+390,OTU_5803,0.303495143,0.173663238,0.129831905,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas,Stenotrophomonas maltophilia group
+391,OTU_58383,0.223569612,0,0.223569612,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+392,OTU_59,0.378956324,0,0.378956324,Bacteria,Cyanobacteria,unknown Cyanobacteria,Chroococcales,Aphanothecaceae,Gloeothece,Gloeothece tepidariorum
+393,OTU_5907,0.269587822,0,0.269587822,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Blastochloridaceae,Blastochloris,Blastochloris sulfoviridis
+394,OTU_5913,0,0.161179873,-0.161179873,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,Nostoc sp. UAM 362
+395,OTU_6,0.530076029,0,0.530076029,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Calotrichaceae,Calothrix,Calothrix sp. PCC 7507
+396,OTU_60,0.272374624,0.09804444,0.174330184,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia sp. RAU2d
+397,OTU_60377,0.214725045,0,0.214725045,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia sp. RAU2d
+398,OTU_604,0.18989412,0,0.18989412,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium sp.
+399,OTU_606,0.229804341,0,0.229804341,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+400,OTU_608,0.137718055,0,0.137718055,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Cereibacter,Cereibacter changlensis
+401,OTU_611,0.214248827,0,0.214248827,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium sp.
+402,OTU_61576,0.274271608,0,0.274271608,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium elkanii
+403,OTU_6165,0.409953728,0,0.409953728,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Calotrichaceae,Calothrix,Calothrix sp. NIES-2100
+404,OTU_6182,0.396377301,0,0.396377301,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Ancalomicrobiaceae,Pinisolibacter,unknown Pinisolibacter
+405,OTU_6191,0.162046004,0,0.162046004,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,Rhodobacter capsulatus
+406,OTU_62,0.409367622,0,0.409367622,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Richelia,Richelia intracellularis
+407,OTU_6263,0.198432503,0.093201079,0.105231424,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Ensifer,Ensifer sp. CHU2
+408,OTU_629,0,0.194684333,-0.194684333,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,Nostoc sp. UAM 362
+409,OTU_63064,0.212206332,0,0.212206332,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Microvirga,unknown Microvirga
+410,OTU_64,0.230658893,0,0.230658893,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodovulum,Rhodovulum sp. ES.010
+411,OTU_641,0.460647747,0,0.460647747,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+412,OTU_644,0.225510487,0.124395526,0.10111496,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas,Stenotrophomonas maltophilia group
+413,OTU_6479,0.224626489,0.137117914,0.087508575,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Ensifer,Ensifer sp. CHU2
+414,OTU_6490,0.319490908,0.193624906,0.125866002,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,Nostoc sp. NDUPC003
+415,OTU_6503,0,0.216253941,-0.216253941,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia sp. enrichment culture clone CACua-88
+416,OTU_6569,0.202077195,0,0.202077195,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+417,OTU_659,0.299799081,0,0.299799081,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. SB2
+418,OTU_66,0.229011759,0.094867634,0.134144125,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Hyphomicrobium,Hyphomicrobium sp.
+419,OTU_666,0.475016408,0,0.475016408,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Calotrichaceae,Calothrix,Calothrix sp. NIES-2100
+420,OTU_669,0.261019632,0,0.261019632,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Azospirillaceae,Azospirillum,Azospirillum sp. TSO22-1
+421,OTU_66942,0.242033189,0,0.242033189,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+422,OTU_672,0.24285904,0,0.24285904,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+423,OTU_67260,0.291019075,0,0.291019075,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Richelia,Richelia intracellularis
+424,OTU_678,0.293072658,0,0.293072658,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+425,OTU_6792,0.235809372,0,0.235809372,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Anaeromyxobacteraceae,Anaeromyxobacter,Anaeromyxobacter sp. Red267
+426,OTU_6797,0.125375608,0,0.125375608,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Ensifer,Ensifer sp. CHU2
+427,OTU_68,0.570845862,0.230604357,0.340241505,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,Nostoc sp. Lobaria pulmonaria 5183 cyanobiont
+428,OTU_6815,0.418386805,0.170528417,0.247858388,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,Nostoc sp. UAM 362
+429,OTU_682,0.19607404,0,0.19607404,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Telmatospirillum,Telmatospirillum sp. J64-1
+430,OTU_6838,0.233975503,0,0.233975503,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+431,OTU_6839,0.195527811,0,0.195527811,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium liaoningense
+432,OTU_6872,0.542291129,0.256864038,0.285427092,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Calotrichaceae,Calothrix,Calothrix sp. NIES-2100
+433,OTU_6898,0.124550054,0,0.124550054,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia unamae
+434,OTU_6941,0.458867445,0.184229478,0.274637967,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+435,OTU_7,0.297146932,0,0.297146932,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+436,OTU_703,0.217089969,0,0.217089969,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+437,OTU_71,0.202395115,0,0.202395115,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium sp.
+438,OTU_719,0.248977368,0,0.248977368,Bacteria,Cyanobacteria,unknown Cyanobacteria,Oscillatoriales,unknown Oscillatoriales,Microseira,Microseira wollei
+439,OTU_729,0.239779729,0,0.239779729,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Ensifer,Ensifer sp. CHU2
+440,OTU_73,0.305272625,0,0.305272625,Bacteria,Proteobacteria,Betaproteobacteria,Rhodocyclales,Azonexaceae,Azonexus,Azonexus fungiphilus
+441,OTU_731,0.267830218,0.14905109,0.118779128,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Spirochaeta,Spirochaeta aurantia
+442,OTU_736,0.15837951,0,0.15837951,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Paraburkholderia,Paraburkholderia fungorum
+443,OTU_74,0.475910034,0,0.475910034,Bacteria,Cyanobacteria,unknown Cyanobacteria,Chroococcales,Aphanothecaceae,Gloeothece,Gloeothece tepidariorum
+444,OTU_741,0.281160781,0,0.281160781,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Ensifer,Ensifer sp. CHU2
+445,OTU_742,0.357178573,0.143620197,0.213558376,Bacteria,Actinobacteria,Actinomycetia,Micrococcales,Micrococcaceae,Arthrobacter,Arthrobacter sp. CCBAU 10866
+446,OTU_74324,0.323635479,0,0.323635479,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium sp. UYPR7.63
+447,OTU_7462,0.175461261,0,0.175461261,Bacteria,Proteobacteria,Acidithiobacillia,Acidithiobacillales,Acidithiobacillaceae,Acidithiobacillus,Acidithiobacillus ferrivorans
+448,OTU_75,0.272336415,0,0.272336415,Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Butyrivibrio,Butyrivibrio sp. XPD2006
+449,OTU_751,0.438820554,0,0.438820554,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,Nostoc sp. CHAB 5836
+450,OTU_757,0.272345312,0,0.272345312,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Beijerinckiaceae,Methylocella,Methylocella palustris
+451,OTU_771,0.458621819,0.147037464,0.311584355,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+452,OTU_7713,0,0.194676356,-0.194676356,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+453,OTU_772,0.206651202,0,0.206651202,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Rhodoplanes,Rhodoplanes roseus
+454,OTU_777,0.239884508,0,0.239884508,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+455,OTU_7772,0.218589026,0.11311372,0.105475306,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium waimense
+456,OTU_7787,0.307044277,0,0.307044277,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+457,OTU_78,0.303479923,0,0.303479923,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Neorhizobium,Neorhizobium galegae
+458,OTU_782,0.312432858,0,0.312432858,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium sp. STM 3080
+459,OTU_7839,0.650407896,0,0.650407896,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+460,OTU_787,0.468319649,0.119617563,0.348702086,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,Nostoc sp. UAM 362
+461,OTU_7933,0.256477651,0,0.256477651,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Cupriavidus,Cupriavidus sp. UYMMa02A
+462,OTU_796,0.458711635,0,0.458711635,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium sp. ORS 3258
+463,OTU_800,0,0.347037016,-0.347037016,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Cylindrospermum,Cylindrospermum stagnale
+464,OTU_804,0.574783956,0,0.574783956,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+465,OTU_805,0,0.265339869,-0.265339869,Bacteria,Cyanobacteria,unknown Cyanobacteria,Chroococcales,Aphanothecaceae,Gloeothece,Gloeothece tepidariorum
+466,OTU_81390,0.284454402,0,0.284454402,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Cereibacter,Cereibacter changlensis
+467,OTU_815,0.287849988,0,0.287849988,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Defluviicoccus,Defluviicoccus vanus
+468,OTU_820,0.289359431,0.165755607,0.123603824,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+469,OTU_821,0.440315877,0.169423105,0.270892772,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,Nostoc sp. UAM 362
+470,OTU_822,0.266253832,0,0.266253832,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium sp.
+471,OTU_833,0.228850029,0,0.228850029,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+472,OTU_841,0.384683696,0,0.384683696,Bacteria,Cyanobacteria,unknown Cyanobacteria,Oscillatoriales,unknown Oscillatoriales,Microseira,Microseira wollei
+473,OTU_8482,0.458363272,0,0.458363272,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Cereibacter,Cereibacter azotoformans
+474,OTU_85,0.233844962,0,0.233844962,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+475,OTU_852,0.357510753,0,0.357510753,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium nodulans
+476,OTU_859,0,0.147710295,-0.147710295,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,Nostoc sp. UAM 362
+477,OTU_86,0.336765034,0,0.336765034,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides luti
+478,OTU_862,0.313176352,0,0.313176352,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+479,OTU_863,0.269009403,0,0.269009403,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium opportunistum
+480,OTU_869,0.480529562,0,0.480529562,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Komarekiella,Komarekiella sp. clone 1
+481,OTU_87,0,0.137445553,-0.137445553,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Hyphomicrobium,Hyphomicrobium sp.
+482,OTU_8753,0.640866488,0,0.640866488,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Ensifer,Ensifer sp. CHU2
+483,OTU_878,0.223081454,0.229864164,-0.00678271,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Ensifer,Ensifer sp. CHU2
+484,OTU_881,0.732746052,0,0.732746052,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+485,OTU_893,0.356352783,0.258909325,0.097443458,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+486,OTU_8947,0.198350182,0,0.198350182,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum
+487,OTU_896,0.191859385,0,0.191859385,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Hyphomicrobiaceae,Hyphomicrobium,Hyphomicrobium sp.
+488,OTU_90,0.232244628,0,0.232244628,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium elkanii
+489,OTU_9020,0.349341093,0,0.349341093,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Azospirillaceae,Azospirillum,Azospirillum zeae
+490,OTU_9094,0.255349912,0,0.255349912,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Calotrichaceae,Calothrix,Calothrix sp. PCC 7507
+491,OTU_9095,0.267380499,0,0.267380499,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium sp. ORS 3258
+492,OTU_910,0.161645441,0,0.161645441,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Ciceribacter,Ciceribacter lividus
+493,OTU_914,0.484233573,0.252429651,0.231803923,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+494,OTU_9171,0.349438974,0,0.349438974,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Ensifer,Ensifer sp. CHU2
+495,OTU_920,0.245386733,0,0.245386733,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,Sphingomonas sp. S8-608
+496,OTU_928,0.243366296,0,0.243366296,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium sp. LLAN46
+497,OTU_941,0.266365373,0,0.266365373,Bacteria,Cyanobacteria,unknown Cyanobacteria,Oscillatoriales,unknown Oscillatoriales,Microseira,Microseira wollei
+498,OTU_94460,0.237709411,0,0.237709411,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Rhizobiaceae,Ensifer,Ensifer sp. CHU2
+499,OTU_95,0.260485134,0,0.260485134,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter peroxydans
+500,OTU_9525,0.491965985,0,0.491965985,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Nostocaceae,Nostoc,unknown Nostoc
+501,OTU_961,0.251289156,0,0.251289156,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Tolypothrichaceae,Tolypothrix,Tolypothrix sp. NIES-4075
+502,OTU_967,0.480092989,0,0.480092989,Bacteria,Cyanobacteria,unknown Cyanobacteria,Nostocales,Calotrichaceae,Calothrix,Calothrix sp. NIES-2100
+503,OTU_97,0.328887156,0,0.328887156,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+504,OTU_976,0.12993558,0,0.12993558,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Phyllobacteriaceae,Mesorhizobium,Mesorhizobium sp. ORS 3356
+505,OTU_9788,0.289635802,0,0.289635802,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Hydrogenophaga,Hydrogenophaga sp. T4
+506,OTU_9800,0.260812421,0,0.260812421,Bacteria,Cyanobacteria,unknown Cyanobacteria,Pseudanabaenales,Pseudanabaenaceae,Pseudanabaena,Pseudanabaena frigida
+507,OTU_984,0,0.16677942,-0.16677942,Bacteria,Proteobacteria,Alphaproteobacteria,Hyphomicrobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium elkanii
+508,OTU_99,0.199033825,0.120216445,0.07881738,Bacteria,Firmicutes,Negativicutes,Acidaminococcales,Acidaminococcaceae,Phascolarctobacterium,Phascolarctobacterium faecium
+509,OTU_998,0.25617686,0,0.25617686,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia sp. RAU2d
