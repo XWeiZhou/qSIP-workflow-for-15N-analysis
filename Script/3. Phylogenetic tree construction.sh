@@ -44,10 +44,12 @@
 		# -nt  AUTO automatically choose number of threads based on available CPUs
 		# -pre prefix for output files of the final tree
 		# -redo overwrite existing results with the same prefix
+		# -seed random seed for reproducibility
     iqtree -s otus_aligned_moss.fas \
 	    -m TIM2+F+R6 \
         -bb 1000 -redo -alrt 1000 -nt AUTO \
-        -pre iqtree/select_OTU_moss_2
+        -pre iqtree/select_OTU_moss_2 \
+		-seed 13
 	
 ## 3. Tree visualization and annotation
 
