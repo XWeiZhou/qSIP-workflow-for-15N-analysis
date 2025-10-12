@@ -53,7 +53,7 @@
 	
 ## 3. Tree visualization and annotation
 
-    # Visit http://itol.embl.de/, upload otus.nwk, 
+    # Visit http://itol.embl.de/, upload select_OTU_moss_2_13.treefile
     # then drag-and-drop the generated annotation schemes onto the tree for visualization
 
     # Return to working directory
