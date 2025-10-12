@@ -93,6 +93,7 @@ This pipeline builds phylogenetic trees of **active OTUs** by extracting the `se
 3.3. **Construct a phylogenetic tree**  
    - Determine the best-fit substitution model using ModelFinder.
    - Construct a maximum likelihood phylogenetic tree in IQ-TREE using the best-fit substitution model (TIM2+F+R6) selected by ModelFinder based on the Bayesian Information Criterion (BIC). Branch support was rigorously evaluated with 1,000 ultrafast bootstrap replicates and 1,000 approximate likelihood ratio test replicates.
+
 3.4. **Visualize and annotate**  
    - Upload the tree to [iTOL](http://itol.embl.de/) and annotate with taxonomy, EAF and ΔEAF.
 
