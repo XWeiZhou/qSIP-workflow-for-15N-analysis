@@ -25,7 +25,7 @@ All data analyses were conducted in **R** using the [`qSIP`package](https://gith
 │   │   ├── all_taxa.fa                                                <-- Representative DNA sequences for all OTUs
 │   │   ├── select_OTU_moss_509.fa                                     <-- DNA sequences of the 509 active OTUs
 │   │   ├── select_OTU_moss_2.log                                      <-- Log file of phylogenetic tree construction
-│   │   └── select_OTU_moss_2_13.treefile                                 <-- Phylogenetic tree of the 509 active OTUs
+│   │   └── select_OTU_moss_2_13.treefile                              <-- Phylogenetic tree of the 509 active OTUs
 │
 └── script
     ├── 1.moss_qsip_eaf_process.R                                      <-- R script for qSIP EAF calculation pipeline
