@@ -57,7 +57,7 @@ This data analysis process includes the following main steps:
 
 1.5. **Identify active OTUs (EAF > 0)**  
    - Select OTUs with significantly positive EAF values in both bootstrap and non-bootstrap datasets.  
-   - Export the final active OTU table in **long** (filtered_data_taxa_signi_over_0.xlsx) and **wide** (wide_OTU_moss_result_after_eaf_over_0.csv) formats for downstream tree construction and other analysis.
+   - Export the final active OTU table in **long format** (filtered_data_taxa_signi_over_0.xlsx) and **wide format** (wide_OTU_moss_result_after_eaf_over_0.csv) for downstream tree construction and other analysis.
 
 ### 2. Extract moss active OTU IDs for phylogenetic tree pipeline
 This step prepares the list of moss-associated active OTUs (EAF > 0) for phylogenetic tree construction.
