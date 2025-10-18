@@ -26,7 +26,10 @@ qSIP analyses were conducted in **R** using the [`qSIP`package](https://github.c
 │   │   ├── select_OTU_moss_509.fa                                     <-- DNA sequences of the 509 active OTUs
 │   │   ├── select_OTU_moss_2.log                                      <-- Log file of phylogenetic tree construction
 │   │   └── select_OTU_moss_2_13.treefile                              <-- Phylogenetic tree of the 509 active OTUs
-│
+│   │
+│   ├── Data for figs in Main Text
+│   │   └── Data for figs in main document.csv                         <-- Data for figs in main document
+│   │
 └── script
     ├── 1.moss_qsip_eaf_process.R                                      <-- R script for qSIP EAF calculation pipeline
     ├── 2.Extract_moss_active_OTU_IDs_for_phylogenetic_tree.R          <-- R script to extract active OTU IDs for phylogenetic analysis
