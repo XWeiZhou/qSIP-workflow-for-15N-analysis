@@ -28,7 +28,7 @@ qSIP analyses were conducted in **R** using the [`qSIP`package](https://github.c
 │   │   └── select_OTU_moss_2_13.treefile                              <-- Phylogenetic tree of the 509 active OTUs
 │   │
 │   ├── Data for figs in Main Text
-│   │   └── Data for figs in main document.csv                         <-- Data for figs in main document
+│   │   └── Data for figs in main document.csv                         <-- Data for figures in main document
 │   │
 └── script
     ├── 1.moss_qsip_eaf_process.R                                      <-- R script for qSIP EAF calculation pipeline
@@ -101,7 +101,7 @@ This pipeline builds phylogenetic trees of **active OTUs** by extracting the `se
    - Upload the tree to [iTOL](http://itol.embl.de/) and annotate with taxonomy, EAF and ΔEAF.
 
 ## Usage
-This repository contains all input data, output files, and scripts used for the qSIP analysis of active moss-associated microbial taxa.
+This repository contains all input data, output files, and scripts used for the qSIP analysis of active moss-associated microbial taxa. It also includes the data used to generate the figures presented in the main document.
 
 ## Citation 
 Wei Zhou<sup>#</sup>, Yuxuan Bai<sup>#</sup>, Yuhong Xie, Bin Wei, Wolfgang Wanek, Kathrin Rousk, Genevieve Noyce, Dianye Zhang, Yunfeng Peng, and Yuanhe Yang<sup>*</sup>. Key role of moss in satisfying the elevated plant nitrogen demand under warming in a permafrost ecosystem. 
